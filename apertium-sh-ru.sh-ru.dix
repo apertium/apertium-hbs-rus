@@ -19,6 +19,7 @@
     <sdef n="ND"      c=""/>
   </sdefs>
   <section id="main" type="standard">
+    <!-- SECTION: Nouns -->
 
     <!-- 0 -->
     <e><p><l>@<s n="n"/><s n="GD"/></l><r>человек<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
@@ -2234,13 +2235,14 @@
     <e><p><l>@<s n="n"/><s n="GD"/></l><r>худо<s n="n"/><s n="GD"/><s n="AD"/></r></p></e>
     <e><p><l>@<s n="n"/><s n="GD"/></l><r>легкость<s n="n"/><s n="GD"/><s n="AD"/></r></p></e>
 
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Франция<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Англия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Италия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Япония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Азия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Финляндия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Россия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>Германия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <!-- SECTION: Proper nouns -->
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Франция<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Англия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Италия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Япония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Азия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Финляндия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Россия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>@<s n="np"/><s n="top"/><s n="GD"/></l><r>Германия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
