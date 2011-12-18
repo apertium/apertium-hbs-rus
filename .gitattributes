@@ -1,5 +1,3 @@
 * text=auto !eol
 /Makefile -text
-/apertium-ru-sh.xml -text
 /apertium-sh-ru.sh-ru.dix -text
-/slasherGCItranslationv2.xml -text
