@@ -1,3 +1,4 @@
 * text=auto !eol
 /Makefile -text
+/SH-RUtranslations_nouns2.txt -text
 /apertium-sh-ru.sh-ru.dix -text
