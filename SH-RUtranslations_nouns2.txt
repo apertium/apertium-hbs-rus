@@ -214,7 +214,7 @@ učenik<n><ma>:ученик<n><m><aa>
 osnova<n><f>:основа<n><f><nn>
 tuga<n><f>:горе<n><nt><nn>
 rođenje<n><nt>:рождение<n><nt><nn>
-pjesma<n><f>:песня<n><f><nn>
+pjesma<n><f>:песня<n><f><nn>#SRD
 polica<n><f>:полок<n><m><nn>
 starješina<n><ma>:старшина<n><m><aa>
 točak<n><mi>:колесо<n><nt><nn>
@@ -235,7 +235,7 @@ dobro<n><nt>:добро<n><nt><nn>
 portret<n><mi>:портрет<n><m><nn>
 puk<n><mi>:полк<n><m><nn>
 kafa<n><f>:кофе<n><m><aa>
-odjeljenje<n><nt>:отделение<n><nt><nn>
+odjeljenje<n><nt>:отделение<n><nt><nn>#SRD
 situacija<n><f>:обстановка<n><f><nn>
 mrlja<n><f>:пятно<n><nt><nn>
 obrva<n><f>:бровь<n><f><nn>
@@ -320,7 +320,7 @@ jakna<n><f>:куртка<n><f><nn>
 mjesec<n><mi>:луна<n><f><nn>
 skala<n><f>:скала<n><f><nn>
 ekonomika<n><f>:экономика<n><f><nn>
-pjesma<n><f>:песнь<n><f><nn>
+pjesma<n><f>:песнь<n><f><nn>#SRD
 ogratač<n><mi>:шинель<n><f><nn>
 led<n><mi>:лед<n><m><nn>
 vuk<n><ma>:волк<n><m><nn>
@@ -371,7 +371,7 @@ kaput<n><mi>:пиджак<n><m><nn>
 krilo<n><nt>:крыльцо<n><nt><nn>
 odlika<n><f>:отличие<n><nt><nn>
 pantalone<n><f>:брюки<n><f><nn>
-istraživanje<n><nt>:исследование<n><nt><nn>
+istraživanje<n><nt>:исследование<n><nt><nn>#SRD
 orden<n><mi>:орден<n><m><nn>
 tehnika<n><f>:техника<n><f><nn>
 kanal<n><mi>:канал<n><m><nn>
