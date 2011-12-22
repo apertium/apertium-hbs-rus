@@ -425,7 +425,7 @@
 
 
     <!-- 400 -->
-    <e><p><l>﻿detinjstvo<s n="n"/><s n="nt"/></l><r>детство<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
+    <e><p><l>detinjstvo<s n="n"/><s n="nt"/></l><r>детство<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>stotina<s n="n"/><s n="f"/></l><r>сотня<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>čaša<s n="n"/><s n="f"/></l><r>стакан<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>materijal<s n="n"/><s n="mi"/></l><r>материал<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -493,7 +493,6 @@
     <e><p><l>oboljenje<s n="n"/><s n="nt"/></l><r>заболевание<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>princip<s n="n"/><s n="mi"/></l><r>принцип<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>tren<s n="n"/><s n="mi"/></l><r>миг<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>evropa<s n="n"/><s n="f"/></l><r>европа<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>tetka<s n="n"/><s n="f"/></l><r>тетя<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>majstor<s n="n"/><s n="ma"/></l><r>мастер<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>odred<s n="n"/><s n="mi"/></l><r>отряд<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -2252,5 +2251,6 @@
     <e><p><l>Finska<s n="np"/><s n="top"/><s n="f"/></l><r>Финляндия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Rusija<s n="np"/><s n="top"/><s n="f"/></l><r>Россия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Njemačka<s n="np"/><s n="top"/><s n="f"/></l><r>Германия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Evropa<s n="np"/><s n="top"/><s n="f"/></l><r>Европа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
