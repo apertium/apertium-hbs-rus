@@ -1536,8 +1536,8 @@
     <e><p><l>stid<s n="n"/><s n="mi"/></l><r>стыд<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>dušek<s n="n"/><s n="mi"/></l><r>матрос<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>garaža<s n="n"/><s n="f"/></l><r>гараж<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>@<s n="n"/><s n="GD"/></l><r>фюрер<s n="n"/><s n="m"/><s n="aa"/></r></p></e> <!-- ne znam -->
-    <e><p><l>distrikt<s n="n"/><s n="mi"/></l><r>окраина<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- need to check -->
+    <e><p><l>lider<s n="n"/><s n="ma"/></l><r>фюрер<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
+    <e><p><l>distrikt<s n="n"/><s n="mi"/></l><r>окраина<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>izdavač<s n="n"/><s n="mi"/></l><r>издательство<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>incident<s n="n"/><s n="mi"/></l><r>происшествие<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>nula<s n="n"/><s n="f"/></l><r>ноль<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
