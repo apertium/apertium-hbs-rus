@@ -2139,20 +2139,14 @@
     <e><p><l>nivo<s n="n"/><s n="mi"/></l><r>уровень<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>hvala<s n="n"/><s n="nt"/></l><r>спасибо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>peterburg<s n="n"/><s n="mi"/></l><r>петербург<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>Snn<s n="n"/><s n="mi"/></l><r>сша<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>SSSR<s n="n"/><s n="mi"/></l><r>ссср<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>pomoć<s n="n"/><s n="f"/></l><r>помочь<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
-    <e><p><l>amerika<s n="n"/><s n="f"/></l><r>америка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>odjek<s n="n"/><s n="mi"/></l><r>эхо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
-    <e><p><l>Ljenjingrnn<s n="n"/><s n="mi"/></l><r>ленинград<s n=n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>šofer<s n="n"/><s n="mi"/></l><r>шофер<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
-    <e><p><l>Pariz<s n="n"/><s n="mi"/></l><r>париж<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>grijeh<s n="n"/><s n="mi"/></l><r>грех<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>glumac<s n="n"/><s n="ma"/></l><r>актер<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>šapat<s n="n"/><s n="mi"/></l><r>шепот<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>pola sata<s n="n"/><s n="mi"/></l><r>полчаса<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>pas<s n="n"/><s n="ma"/></l><r>пес<s n="n"/><s n="m"/><s n="a"/></r></p></e>
-    <e><p><l>Izrael<s n="n"/><s n="mi"/></l><r>израиль<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>treći<s n="n"/><s n="nt"/></l><r>третий<s n="n"/><s n="m"/><s n="nn"/></r></p></e> <!-- predlog , nisam siguran -->
     <e><p><l>ck<s n="n"/><s n="mi"/></l><r>цк<s n="n"/><s n=""/><s n="nn"/></r></p></e>
     <e><p><l>polet<s n="n"/><s n="mi"/></l><r>полет<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -2160,27 +2154,22 @@
     <e><p><l>rnnio<s n="n"/><s n="nt"/></l><r>радио<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>patuljak<s n="n"/><s n="ma"/></l><r>гном<s n="n"/><s n="nt"/><s n="aa"/></r></p></e>
     <e><p><l>krnnljivac<s n="n"/><s n="mi"/></l><r>вор<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>Čečenija<s n="n"/><s n="f"/></l><r>чечня<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>vraćanje<s n="n"/><s n="nt"/></l><r>возвращение<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>bolesnik<s n="n"/><s n="mi"/></l><r>больной<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>Konstantin<s n="n"/><s n="mi"/></l><r>константин<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>sklek<s n="n"/><s n="mi"/></l><r>пушок<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>vojnik<s n="n"/><s n="ma"/></l><r>военный<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>krevet<s n="n"/><s n="mi"/></l><r>койка<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>spektakl<s n="n"/><s n="mi"/></l><r>спектакль<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>dr.<s n="n"/><s n="ma"/></l><r>др<s n="n"/><s n="m"/><s n="a"/></r></p></e>
     <e><p><l>sudar<s n="n"/><s n="mi"/></l><r>грохот<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>Koreja<s n="n"/><s n="f"/></l><r>корея<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>stepenica<s n="n"/><s n="f"/></l><r>ступенька<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>manifestacija<s n="n"/><s n="f"/></l><r>проявление<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>volga<s n="n"/><s n="f"/></l><r>волга<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>veličanstvo<s n="n"/><s n="nt"/></l><r>величество<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>razmatranje<s n="n"/><s n="nt"/></l><r>соображение<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
-    <e><p><l>Kina<s n="n"/><s n="f"/></l><r>китай<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>okolina<s n="n"/><s n="f"/></l><r>окружающее<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>obim<s n="n"/><s n="mi"/></l><r>объем<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>gimnastika<s n="n"/><s n="f"/></l><r>гимнастерка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>Ukrajina<s n="n"/><s n="f"/></l><r>украина<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>porast<s n="n"/><s n="mi"/></l><r>подъем<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>starac<s n="n"/><s n="mi"/></l><r>старичок<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>Čečenac<s n="n"/><s n="ma"/></l><r>чеченец<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
@@ -2192,17 +2181,14 @@
     <e><p><l>postanari<s n="n"/><s n="mi"/></l><r>жилье<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>rika<s n="n"/><s n="f"/></l><r>рев<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>sibir<s n="n"/><s n="mi"/></l><r>сибирь<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>Berlin<s n="n"/><s n="mi"/></l><r>берлин<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>orao<s n="n"/><s n="mi"/></l><r>орел<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>nar<s n="n"/><s n="mi"/></l><r>нары<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>lijepi<s n="n"/><s n="mi"/></l><r>красный<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>živi<s n="n"/><s n="mi"/></l><r>живой<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>London<s n="n"/><s n="mi"/></l><r>лондон<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>vika<s n="n"/><s n="f"/></l><r>вопль<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>nasip<s n="n"/><s n="mi"/></l><r>набережная<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>kotao<s n="n"/><s n="mi"/></l><r>котел<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>mk<s n="n"/><s n="nt"/></l><r>мк<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
-    <e><p><l>Estonija<s n="n"/><s n="f"/></l><r>Эстония<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>prijedlog<s n="n"/><s n="mi"/></l><r>продолжение<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>komunistička partija<s n="n"/><s n="f"/></l><r>политбюро<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>svekrva<s n="n"/><s n="f"/></l><r>теща<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
@@ -2211,9 +2197,7 @@
     <e><p><l>prebivalište<s n="n"/><s n="nt"/></l><r>пребывание<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>razmišljanje<s n="n"/><s n="nt"/></l><r>размышление<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>sjedanje<s n="n"/><s n="nt"/></l><r>корточки<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>Odessa<s n="n"/><s n="f"/></l><r>одесса<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>blic<s n="n"/><s n="mi"/></l><r>вспышка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>Poljska<s n="n"/><s n="f"/></l><r>польша<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>koliba<s n="n"/><s n="f"/></l><r>хата<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>traka<s n="n"/><s n="f"/></l><r>полоска<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- linija -->
     <e><p><l>gitara<s n="n"/><s n="f"/></l><r>гитара<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
@@ -2221,7 +2205,6 @@
     <e><p><l>vitrina<s n="n"/><s n="f"/></l><r>витрина<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>blok<s n="n"/><s n="mi"/></l><r>блокнот<s n="n"/><s n="m"/><s n="nn"/></r></p></e> <!-- notepnn -->
     <e><p><l>šuplina<s n="n"/><s n="f"/></l><r>полость<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>Rim<s n="n"/><s n="mi"/></l><r>рим<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>sekretarica<s n="n"/><s n="f"/></l><r>секретарша<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>milijardi<s n="n"/><s n="ma"/></l><r>млрд<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>magarac<s n="n"/><s n="mi"/></l><r>осел<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
@@ -2251,6 +2234,10 @@
     <e><p><l>saveznik<s n="n"/><s n="ma"/></l><r>союзник<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>mršavko<s n="n"/><s n="mi"/></l><r>худо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>lakoća<s n="n"/><s n="f"/></l><r>легкость<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
+
+
+  <!-- SECTION: Proper nouns-->	 
+
     <e><p><l>Francuska<s n="np"/><s n="top"/><s n="f"/></l><r>Франция<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Engleska<s n="np"/><s n="top"/><s n="f"/></l><r>Англия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Italija<s n="np"/><s n="top"/><s n="f"/></l><r>Италия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -2259,8 +2246,24 @@
     <e><p><l>Finska<s n="np"/><s n="top"/><s n="f"/></l><r>Финляндия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Rusija<s n="np"/><s n="top"/><s n="f"/></l><r>Россия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Njemačka<s n="np"/><s n="top"/><s n="f"/></l><r>Германия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-	<e><p><l>Evropa<s n="np"/><s n="top"/><s n="f"/></l><r>Европа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  </section>
+    <e><p><l>Evropa<s n="np"/><s n="top"/><s n="f"/></l><r>Европа<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>SNN<s n="np"/><s n="top"/><s n="mi"/></l><r>США<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>SSSR<s n="np"/><s n="top"/><s n="mi"/></l><r>СССР<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+    <e><p><l>Amerika<s n="np"/><s n="top"/><s n="f"/></l><r>Америка<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Ljenjingrad<s n="np"/><s n="top"/><s n="mi"/></l><r>Ленинград<s n=n"/><s n="m"/></r></p></e>
+    <e><p><l>Pariz<s n="np"/><s n="top"/><s n="mi"/></l><r>Париж<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Izrael<s n="np"/><s n="top"/><s n="mi"/></l><r>Израиль<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Čečenija<s n="np"/><s n="top"/><s n="f"/></l><r>Чечня<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Koreja<s n="np"/><s n="top"/><s n="f"/></l><r>Корея<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Ukrajina<s n="np"/><s n="top"/><s n="f"/></l><r>Украина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kina<s n="np"/><s n="top"/><s n="f"/></l><r>Китай<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Berlin<s n="np"/><s n="top"/><s n="mi"/></l><r>Берлин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>London<s n="np"/><s n="top"/><s n="mi"/></l><r>Лондон<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Estonija<s n="np"/><s n="top"/><s n="f"/></l><r>Эстония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Odessa<s n="np"/><s n="top"/><s n="f"/></l><r>Одесса<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Poljska<s n="np"/><s n="top"/><s n="f"/></l><r>Польша<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Rim<s n="np"/><s n="top"/><s n="mi"/></l><r>Рим<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Konstantin<s n="np"/><s n="top"/><s n="mi"/></l><r>Константин<s n="np"/><s n="top"/><s n="m"/></r></p></e> <!-- Constantinople?-->
   
   <!-- SECTION: Adjectives -->	 
  	 
@@ -3403,4 +3406,5 @@
      <e><p><l>@<s n="adv"/></l><r>бессмысленно<s n="adv"/></r></p></e>	 
      <e><p><l>@<s n="adv"/></l><r>робко<s n="adv"/></r></p></e>	 
      <!-- 400 -->
+  </section>
 </dictionary>
