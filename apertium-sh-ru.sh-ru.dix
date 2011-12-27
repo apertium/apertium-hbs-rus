@@ -181,7 +181,7 @@
     <e><p><l>rijeka<s n="n"/><s n="f"/></l><r>река<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>sudbina<s n="n"/><s n="f"/></l><r>судьба<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e c="LR default"><p><l>usta<s n="n"/><s n="f"/></l><r>рота<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- SRD -->
-    <e><p><l>rečenica<s n="n"/><s n="f"/></l><r>речь<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
+    <e><p><l>govor<s n="n"/><s n="mi"/></l><r>речь<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e c="LR default"><p><l>razlog<s n="n"/><s n="mi"/></l><r>причина<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- SRD -->
     <e><p><l>planina<s n="n"/><s n="f"/></l><r>гора<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>straža<s n="n"/><s n="f"/></l><r>страх<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -3427,10 +3427,10 @@
      <!-- SECTION: Verbs -->
 
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-     <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>мочь<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>знать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
-     <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>говорить<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>govoriti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>говорить<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>стать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>есть<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>@<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>хотеть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
