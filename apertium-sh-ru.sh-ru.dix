@@ -17,6 +17,9 @@
     <sdef n="GD"      c=""/>
     <sdef n="AD"      c=""/>
     <sdef n="ND"      c=""/>
+	<sdef n="adj"      c=""/>
+	<sdef n="vbplex"      c=""/>
+	<sdef n="adv"      c=""/>
   </sdefs>
   <section id="main" type="standard">
     <!-- SECTION: Nouns -->
