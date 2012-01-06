@@ -2672,7 +2672,7 @@
      <e><p><l>zbrinut<s n="adj"/></l><r>надежный<s n="adj"/></r></p></e>	 
      <e><p><l>lišen<s n="adj"/></l><r>лишенный<s n="adj"/></r></p></e>	 
      <e><p><l>carski<s n="adj"/></l><r>царский<s n="adj"/></r></p></e>	 
-     <e><p><l>najmanji<s n="adj"/></l><r>малейший<s n="adj"/></r></p></e>	 
+     <e><p><l>najmanji<s n="adj"/></l><r>малейший<s n="adj"/></r></p></e>	 <!-- Note: Comparative  -->
      <e><p><l>karakteran<s n="adj"/></l><r>характерный<s n="adj"/></r></p></e>	 
      <e><p><l>javan<s n="adj"/></l><r>явный<s n="adj"/></r></p></e>	 
      <e><p><l>njemački<s n="adj"/></l><r>германский<s n="adj"/></r></p></e>	 
@@ -2699,7 +2699,7 @@
      <e><p><l>nevjerovatan<s n="adj"/></l><r>невероятный<s n="adj"/></r></p></e>	 
 	 <e><p><l>neverovatan<s n="adj"/></l><r>невероятный<s n="adj"/></r></p></e>	 
      <e><p><l>skriven<s n="adj"/></l><r>скрытый<s n="adj"/></r></p></e>	 
-     <e><p><l>topli<s n="adj"/></l><r>жаркий<s n="adj"/></r></p></e>	 
+     <e><p><l>topao<s n="adj"/></l><r>жаркий<s n="adj"/></r></p></e>	 
      <e><p><l>nebeski<s n="adj"/></l><r>небесный<s n="adj"/></r></p></e>	 
      <e><p><l>nedavan<s n="adj"/></l><r>недавний<s n="adj"/></r></p></e>	 
      <e><p><l>poljski<s n="adj"/></l><r>полевой<s n="adj"/></r></p></e>	 
@@ -2712,19 +2712,19 @@
      <e><p><l>pismen<s n="adj"/></l><r>письменный<s n="adj"/></r></p></e>	 
      <e><p><l>snalažljiv<s n="adj"/></l><r>хитрый<s n="adj"/></r></p></e>	 
      <e><p><l>sledeći<s n="adj"/></l><r>последующий<s n="adj"/></r></p></e>	 
-     <e><p><l>jedenji<s n="adj"/></l><r>осенний<s n="adj"/></r></p></e>	 
+     <e><p><l>jesenji<s n="adj"/></l><r>осенний<s n="adj"/></r></p></e>	 
      <e><p><l>psihički<s n="adj"/></l><r>психический<s n="adj"/></r></p></e>	 
      <e><p><l>nepravilan<s n="adj"/></l><r>неправильный<s n="adj"/></r></p></e>	 
      <e><p><l>vojnički<s n="adj"/></l><r>солдатский<s n="adj"/></r></p></e>	 
      <e><p><l>umoran<s n="adj"/></l><r>усталый<s n="adj"/></r></p></e>	 
      <e><p><l>priličan<s n="adj"/></l><r>приличный<s n="adj"/></r></p></e>	 
-     <e><p><l>tjesan<s n="adj"/></l><r>тесный<s n="adj"/></r></p></e>		
+     <e><p><l>tijesan<s n="adj"/></l><r>тесный<s n="adj"/></r></p></e>		
      <e><p><l>učen<s n="adj"/></l><r>учебный<s n="adj"/></r></p></e>	 
      <e><p><l>tužan<s n="adj"/></l><r>грустный<s n="adj"/></r></p></e>	 
      <e><p><l>čudesan<s n="adj"/></l><r>чудесный<s n="adj"/></r></p></e>	 
      <e><p><l>okružen<s n="adj"/></l><r>окружающий<s n="adj"/></r></p></e>	 
      <e><p><l>krvav<s n="adj"/></l><r>кровавый<s n="adj"/></r></p></e>	 
-     <e><p><l>cvijetan<s n="adj"/></l><r>цветной<s n="adj"/></r></p></e>	 
+     <e><p><l>cvjetan<s n="adj"/></l><r>цветной<s n="adj"/></r></p></e>	 
      <e><p><l>nedovoljan<s n="adj"/></l><r>недовольный<s n="adj"/></r></p></e>	 
      <e><p><l>voljan<s n="adj"/></l><r>вольный<s n="adj"/></r></p></e>	 
      <e><p><l>zagonetan<s n="adj"/></l><r>загадочный<s n="adj"/></r></p></e>	 
@@ -2737,7 +2737,7 @@
      <e><p><l>maksimalan<s n="adj"/></l><r>максимальный<s n="adj"/></r></p></e>	 
      <e><p><l>davan<s n="adj"/></l><r>давний<s n="adj"/></r></p></e>	 
      <e><p><l>odgovoran<s n="adj"/></l><r>ответственный<s n="adj"/></r></p></e>	 
-     <e><p><l>naprežen<s n="adj"/></l><r>напряженный<s n="adj"/></r></p></e>	 
+     <e><p><l>napregnut<s n="adj"/></l><r>напряженный<s n="adj"/></r></p></e>	 
      <e><p><l>hemijski<s n="adj"/></l><r>химический<s n="adj"/></r></p></e>	 
      <e><p><l>neobičan<s n="adj"/></l><r>необычный<s n="adj"/></r></p></e>	 
      <e><p><l>prethodan<s n="adj"/></l><r>предыдущий<s n="adj"/></r></p></e>	 
@@ -2751,7 +2751,7 @@
      <e><p><l>medni<s n="adj"/></l><r>медный<s n="adj"/></r></p></e>	 
      <e><p><l>tradicionalan<s n="adj"/></l><r>традиционный<s n="adj"/></r></p></e>	 
      <e><p><l>demokratski<s n="adj"/></l><r>демократический<s n="adj"/></r></p></e>	 
-     <e><p><l>bodljiv<s n="adj"/></l><r>колючий<s n="adj"/></r></p></e>	 
+     <e><p><l>bodat<s n="adj"/></l><r>колючий<s n="adj"/></r></p></e>	 
      <e><p><l>vojni<s n="adj"/></l><r>военно<s n="adj"/></r></p></e>	 
      <e><p><l>otvoren<s n="adj"/></l><r>раскрытый<s n="adj"/></r></p></e>	 
      <e><p><l>odvratan<s n="adj"/></l><r>жуткий<s n="adj"/></r></p></e>	 
@@ -2792,10 +2792,10 @@
      <e><p><l>gladak<s n="adj"/></l><r>гладкий<s n="adj"/></r></p></e>	 
      <e><p><l>djelujući<s n="adj"/></l><r>действующий<s n="adj"/></r></p></e>	 
      <e><p><l>kraljevski<s n="adj"/></l><r>королевский<s n="adj"/></r></p></e>	 
-     <e><p><l>komercijalni<s n="adj"/></l><r>коммерческий<s n="adj"/></r></p></e>	 
-     <e><p><l>klasični<s n="adj"/></l><r>классический<s n="adj"/></r></p></e>	 
+     <e><p><l>komercijalan<s n="adj"/></l><r>коммерческий<s n="adj"/></r></p></e>	 
+     <e><p><l>klasičan<s n="adj"/></l><r>классический<s n="adj"/></r></p></e>	 
      <e><p><l>povišen<s n="adj"/></l><r>повышенный<s n="adj"/></r></p></e>	 
-     <e><p><l>položan<s n="adj"/></l><r>положительный<s n="adj"/></r></p></e>	 
+     <e><p><l>položen<s n="adj"/></l><r>положительный<s n="adj"/></r></p></e>	 
      <e><p><l>dvojan<s n="adj"/></l><r>двойной<s n="adj"/></r></p></e>	 
      <e><p><l>popularan<s n="adj"/></l><r>популярный<s n="adj"/></r></p></e>	 
      <e><p><l>hroničan<s n="adj"/></l><r>хронический<s n="adj"/></r></p></e>	 
@@ -2806,12 +2806,12 @@
      <e><p><l>rešavajući<s n="adj"/></l><r>решительный<s n="adj"/></r></p></e>	 
      <e><p><l>gradeći<s n="adj"/></l><r>стройный<s n="adj"/></r></p></e>	 
      <e><p><l>slavan<s n="adj"/></l><r>торжественный<s n="adj"/></r></p></e>	 
-     <e><p><l>prolazni<s n="adj"/></l><r>прохожий<s n="adj"/></r></p></e>	 
+     <e><p><l>prolazan<s n="adj"/></l><r>прохожий<s n="adj"/></r></p></e>	 
      <e><p><l>psihološki<s n="adj"/></l><r>психологический<s n="adj"/></r></p></e>	 
      <e><p><l>beznadežan<s n="adj"/></l><r>безнадежный<s n="adj"/></r></p></e>	 
      <e><p><l>raznobojan<s n="adj"/></l><r>разноцветный<s n="adj"/></r></p></e>	 
      <e><p><l>čujan<s n="adj"/></l><r>слышный<s n="adj"/></r></p></e>	 
-     <e><p><l>radoznali<s n="adj"/></l><r>любопытный<s n="adj"/></r></p></e>	 
+     <e><p><l>radoznao<s n="adj"/></l><r>любопытный<s n="adj"/></r></p></e>	 
      <e><p><l>raskošan<s n="adj"/></l><r>роскошный<s n="adj"/></r></p></e>	 
      <e><p><l>književni<s n="adj"/></l><r>книжный<s n="adj"/></r></p></e>	 
      <e><p><l>savršen<s n="adj"/></l><r>совершенный<s n="adj"/></r></p></e>	 
@@ -2820,12 +2820,13 @@
      <e><p><l>korejski<s n="adj"/></l><r>корейский<s n="adj"/></r></p></e>	 
      <e><p><l>vrhovni<s n="adj"/></l><r>верховный<s n="adj"/></r></p></e>	 
      <e><p><l>prostorni<s n="adj"/></l><r>просторный<s n="adj"/></r></p></e>	 
-     <e><p><l>neopredjeljen<s n="adj"/></l><r>неопределенный<s n="adj"/></r></p></e>	 
+     <e><p><l>neopredijeljen<s n="adj"/></l><r>неопределенный<s n="adj"/></r></p></e>	 
      <e><p><l>efektivan<s n="adj"/></l><r>эффективный<s n="adj"/></r></p></e>	 
      <e><p><l>zao<s n="adj"/></l><r>зловещий<s n="adj"/></r></p></e>	 
      <e><p><l>apsolutan<s n="adj"/></l><r>абсолютный<s n="adj"/></r></p></e>	 
      <e><p><l>postojeći<s n="adj"/></l><r>постоялый<s n="adj"/></r></p></e>	 
      <e><p><l>skarlet<s n="adj"/></l><r>алый<s n="adj"/></r></p></e>	 #wordreference.com looked on that site
+	 <e><p><l>grimazan<s n="adj"/></l><r>алый<s n="adj"/></r></p></e>	
      <e><p><l>religiozan<s n="adj"/></l><r>религиозный<s n="adj"/></r></p></e>	 
      <e><p><l>bijesan<s n="adj"/></l><r>бешеный<s n="adj"/></r></p></e>	 
      <e><p><l>tipičan<s n="adj"/></l><r>типичный<s n="adj"/></r></p></e>	 
@@ -2835,7 +2836,7 @@
      <e><p><l>sumnjiv<s n="adj"/></l><r>подозрительный<s n="adj"/></r></p></e>	 
      <e><p><l>nepotreban<s n="adj"/></l><r>ненужный<s n="adj"/></r></p></e>	 
      <e><p><l>kvadratni<s n="adj"/></l><r>квадратный<s n="adj"/></r></p></e>	 
-     <e><p><l>prestupan<s n="adj"/></l><r>преступный<s n="adj"/></r></p></e>	 
+     <e><p><l>prestupni<s n="adj"/></l><r>преступный<s n="adj"/></r></p></e>	 
      <e><p><l>zaljubljen<s n="adj"/></l><r>влюбленный<s n="adj"/></r></p></e>	 
      <e><p><l>spor<s n="adj"/></l><r>медленный<s n="adj"/></r></p></e>	 
      <e><p><l>lagerni<s n="adj"/></l><r>лагерный<s n="adj"/></r></p></e>	 
@@ -2849,9 +2850,10 @@
      <e><p><l>vidljiv<s n="adj"/></l><r>видный<s n="adj"/></r></p></e>	 
      <e><p><l>fantastičan<s n="adj"/></l><r>фантастический<s n="adj"/></r></p></e>	 
      <e><p><l>bespomoćan<s n="adj"/></l><r>беспомощный<s n="adj"/></r></p></e>	 
-     <e><p><l>ukrainski<s n="adj"/></l><r>украинский<s n="adj"/></r></p></e>	 
+     <e><p><l>ukrajinski<s n="adj"/></l><r>украинский<s n="adj"/></r></p></e>	 
      <e><p><l>postojeći<s n="adj"/></l><r>существующий<s n="adj"/></r></p></e>	 
-     <e><p><l>italijanski<s n="adj"/></l><r>итальянский<s n="adj"/></r></p></e>	 
+     <e><p><l>italijanski<s n="adj"/></l><r>итальянский<s n="adj"/></r></p></e>
+     <e><p><l>talijanski<s n="adj"/></l><r>итальянский<s n="adj"/></r></p></e>	 
      <e><p><l>kosmoljski<s n="adj"/></l><r>комсомольский<s n="adj"/></r></p></e>	 
      <e><p><l>neposredan<s n="adj"/></l><r>непосредственный<s n="adj"/></r></p></e>	 
      <e><p><l>praktičan<s n="adj"/></l><r>практический<s n="adj"/></r></p></e>	 
@@ -2864,7 +2866,7 @@
      <e><p><l>poljski<s n="adj"/></l><r>польский<s n="adj"/></r></p></e>	 
      <e><p><l>zakonit<s n="adj"/></l><r>законный<s n="adj"/></r></p></e>	 
      <e><p><l>finski<s n="adj"/></l><r>финский<s n="adj"/></r></p></e>	 
-     <e><p><l>nije loš<s n="adj"/></l><r>неплохой<s n="adj"/></r></p></e>	 
+     <e><p><l>neloš<s n="adj"/></l><r>неплохой<s n="adj"/></r></p></e>	 
      <e><p><l>požarni<s n="adj"/></l><r>пожарный<s n="adj"/></r></p></e>	 
      <e><p><l>smrtni<s n="adj"/></l><r>смертельный<s n="adj"/></r></p></e>	 
      <e><p><l>tečan<s n="adj"/></l><r>жидкий<s n="adj"/></r></p></e>	 
@@ -2874,13 +2876,13 @@
      <e><p><l>poreski<s n="adj"/></l><r>налоговый<s n="adj"/></r></p></e>	 
      <e><p><l>nemali<s n="adj"/></l><r>немалый<s n="adj"/></r></p></e>	 
      <e><p><l>mali<s n="adj"/></l><r>крохотный<s n="adj"/></r></p></e>	 
-     <e><p><l>sanjen<s n="adj"/></l><r>сонный<s n="adj"/></r></p></e>	 
+     <e><p><l>pospan<s n="adj"/></l><r>сонный<s n="adj"/></r></p></e>	 
      <e><p><l>nemoguć<s n="adj"/></l><r>невозможный<s n="adj"/></r></p></e>	 
      <e><p><l>modni<s n="adj"/></l><r>модный<s n="adj"/></r></p></e>	 
      <e><p><l>prirodan<s n="adj"/></l><r>природный<s n="adj"/></r></p></e>	 
-     <e><p><l>zapljenjen<s n="adj"/></l><r>пленный<s n="adj"/></r></p></e>	 
+     <e><p><l>zaplijenjen<s n="adj"/></l><r>пленный<s n="adj"/></r></p></e>	 
      <e><p><l>stran<s n="adj"/></l><r>зарубежный<s n="adj"/></r></p></e>	 
-     <e><p><l>fer<s n="adj"/></l><r>справедливый<s n="adj"/></r></p></e>	 
+     <e><p><l>pravedan<s n="adj"/></l><r>справедливый<s n="adj"/></r></p></e>	 
      <e><p><l>samostalan<s n="adj"/></l><r>самостоятельный<s n="adj"/></r></p></e>	 
      <e><p><l>gazdinski<s n="adj"/></l><r>хозяйственный<s n="adj"/></r></p></e>	 
      <e><p><l>prezriv<s n="adj"/></l><r>презрительный<s n="adj"/></r></p></e>	 
@@ -2896,8 +2898,10 @@
      <e><p><l>strateški<s n="adj"/></l><r>стратегический<s n="adj"/></r></p></e>	 
      <e><p><l>energičan<s n="adj"/></l><r>энергичный<s n="adj"/></r></p></e>	 
      <e><p><l>informacionalan<s n="adj"/></l><r>информационный<s n="adj"/></r></p></e>	 
-     <e><p><l>narandžast<s n="adj"/></l><r>оранжевый<s n="adj"/></r></p></e>	 
+     <e><p><l>narandžast<s n="adj"/></l><r>оранжевый<s n="adj"/></r></p></e>
+     <e><p><l>narančast<s n="adj"/></l><r>оранжевый<s n="adj"/></r></p></e>		 
      <e><p><l>okoreo<s n="adj"/></l><r>матерый<s n="adj"/></r></p></e>	 
+	 <e><p><l>okorio<s n="adj"/></l><r>матерый<s n="adj"/></r></p></e>	 
      <e><p><l>složen<s n="adj"/></l><r>сложенный<s n="adj"/></r></p></e>	 
      <e><p><l>zdrav<s n="adj"/></l><r>здоровенный<s n="adj"/></r></p></e>	 
      <e><p><l>osuđen<s n="adj"/></l><r>обреченный<s n="adj"/></r></p></e>	 
@@ -2936,7 +2940,7 @@
      <e><p><l>nejasan<s n="adj"/></l><r>неясный<s n="adj"/></r></p></e>	 
      <e><p><l>besmislen<s n="adj"/></l><r>бессмысленный<s n="adj"/></r></p></e>	 
      <e><p><l>naivan<s n="adj"/></l><r>наивный<s n="adj"/></r></p></e>	 
-     <e><p><l>proizvodstven<s n="adj"/></l><r>производственный<s n="adj"/></r></p></e>	 
+     <e><p><l>proizveden<s n="adj"/></l><r>производственный<s n="adj"/></r></p></e>	 
      <e><p><l>mršav<s n="adj"/></l><r>тощий<s n="adj"/></r></p></e>	 
      <e><p><l>tekući<s n="adj"/></l><r>текущий<s n="adj"/></r></p></e>	 
      <e><p><l>mjesečni<s n="adj"/></l><r>лунный<s n="adj"/></r></p></e>	 
@@ -2961,7 +2965,7 @@
      <e><p><l>pažljiv<s n="adj"/></l><r>внимательный<s n="adj"/></r></p></e>	 
      <e><p><l>sluzav<s n="adj"/></l><r>слизистый<s n="adj"/></r></p></e>	 
      <e><p><l>odrični<s n="adj"/></l><r>отрицательный<s n="adj"/></r></p></e>	 
-     <e><p><l>tamno-crven<s n="adj"/></l><r>багровый<s n="adj"/></r></p></e>	 
+     <e><p><l>tamnocrven<s n="adj"/></l><r>багровый<s n="adj"/></r></p></e>	 
      <e><p><l>lažni<s n="adj"/></l><r>ложный<s n="adj"/></r></p></e>	 
      <e><p><l>niskohodni<s n="adj"/></l><r>снисходительный<s n="adj"/></r></p></e>	 
      <e><p><l>bučan<s n="adj"/></l><r>шумный<s n="adj"/></r></p></e>	 
@@ -2990,7 +2994,7 @@
      <e><p><l>dovoljan<s n="adj"/></l><r>достаточный<s n="adj"/></r></p></e>	 
      <e><p><l>ručni<s n="adj"/></l><r>ручной<s n="adj"/></r></p></e>	 
      <e><p><l>lažni<s n="adj"/></l><r>фальшивый<s n="adj"/></r></p></e>	 
-     <e><p><l>mliječni<s n="adj"/></l><r>молочный<s n="adj"/></r></p></e>	 
+     <e><p><l>mliječan<s n="adj"/></l><r>молочный<s n="adj"/></r></p></e>	 
      <e><p><l>individualan<s n="adj"/></l><r>индивидуальный<s n="adj"/></r></p></e>	 
      <e><p><l>smrdljiv<s n="adj"/></l><r>вонючий<s n="adj"/></r></p></e>	 
      <e><p><l>bližnji<s n="adj"/></l><r>ближний<s n="adj"/></r></p></e>	 
@@ -3003,21 +3007,22 @@
      <e><p><l>mermerski<s n="adj"/></l><r>изумрудный<s n="adj"/></r></p></e>	 
      <e><p><l>jak<s n="adj"/></l><r>прочный<s n="adj"/></r></p></e>	 
      <e><p><l>ljubičast<s n="adj"/></l><r>фиолетовый<s n="adj"/></r></p></e>	 
-     <e><p><l>magični<s n="adj"/></l><r>магический<s n="adj"/></r></p></e>	 
+     <e><p><l>magičan<s n="adj"/></l><r>магический<s n="adj"/></r></p></e>	 
      <e><p><l>mehanički<s n="adj"/></l><r>механический<s n="adj"/></r></p></e>	 
      <e><p><l>vinski<s n="adj"/></l><r>виновный<s n="adj"/></r></p></e>	 
      <e><p><l>pažljiv<s n="adj"/></l><r>аккуратный<s n="adj"/></r></p></e>	 
      <e><p><l>zlovoljan<s n="adj"/></l><r>угрюмый<s n="adj"/></r></p></e>	 
-     <e><p><l>isplatljiv<s n="adj"/></l><r>выгодный<s n="adj"/></r></p></e>	 
+     <e><p><l>isplatljiv<s n="adj"/></l><r>выгодный<s n="adj"/></r></p></e>	
+     <e><p><l>isplativ<s n="adj"/></l><r>выгодный<s n="adj"/></r></p></e>	 
      <e><p><l>poštovan<s n="adj"/></l><r>почтительный<s n="adj"/></r></p></e>	 
      <e><p><l>srećan<s n="adj"/></l><r>удачный<s n="adj"/></r></p></e>	 
      <e><p><l>putni<s n="adj"/></l><r>дорожный<s n="adj"/></r></p></e>	 
      <e><p><l>isprepadan<s n="adj"/></l><r>испуганный<s n="adj"/></r></p></e>	 
-     <e><p><l>analogičan<s n="adj"/></l><r>аналогичный<s n="adj"/></r></p></e>	 
-     <e><p><l>novnski<s n="adj"/></l><r>газетный<s n="adj"/></r></p></e>	 
+     <e><p><l>analogan<s n="adj"/></l><r>аналогичный<s n="adj"/></r></p></e>	 
+     <e><p><l>novinski<s n="adj"/></l><r>газетный<s n="adj"/></r></p></e>	 
      <e><p><l>mučen<s n="adj"/></l><r>мучительный<s n="adj"/></r></p></e>	 
-     <e><p><l>sveti<s n="adj"/></l><r>священный<s n="adj"/></r></p></e>	 
-     <e><p><l>leninski<s n="adj"/></l><r>ленинский<s n="adj"/></r></p></e>	 
+     <e><p><l>svet<s n="adj"/></l><r>священный<s n="adj"/></r></p></e>	 
+     <e><p><l>lenjinski<s n="adj"/></l><r>ленинский<s n="adj"/></r></p></e>	 
      <e><p><l>skinut<s n="adj"/></l><r>снятой<s n="adj"/></r></p></e>	 
      <e><p><l>konstrukcijski<s n="adj"/></l><r>строительный<s n="adj"/></r></p></e>	 
      <e><p><l>sit<s n="adj"/></l><r>сытый<s n="adj"/></r></p></e>	 
@@ -3030,20 +3035,22 @@
      <e><p><l>preliminaran<s n="adj"/></l><r>предварительный<s n="adj"/></r></p></e>	 
      <e><p><l>originalni<s n="adj"/></l><r>оригинальный<s n="adj"/></r></p></e>	 
      <e><p><l>obrušen<s n="adj"/></l><r>тусклый<s n="adj"/></r></p></e>	 
-     <e><p><l>braon<s n="adj"/></l><r>бурый<s n="adj"/></r></p></e>	 
+     <e><p><l>smeđ<s n="adj"/></l><r>бурый<s n="adj"/></r></p></e>	 
      <e><p><l>cionistički<s n="adj"/></l><r>сионистский<s n="adj"/></r></p></e>	#wr.com ni sam ne znam šta znači tačno 
-     <e><p><l>namjerni<s n="adj"/></l><r>намеренный<s n="adj"/></r></p></e>	 
-     <e><p><l>tanki<s n="adj"/></l><r>тоненький<s n="adj"/></r></p></e>	 
-     <e><p><l>najlošiji<s n="adj"/></l><r>худший<s n="adj"/></r></p></e>	 
-     <e><p><l>braon<s n="adj"/></l><r>смуглый<s n="adj"/></r></p></e>	 
+	 <e><p><l>sionistički<s n="adj"/></l><r>сионистский<s n="adj"/></r></p></e>
+     <e><p><l>namjeran<s n="adj"/></l><r>намеренный<s n="adj"/></r></p></e>	 
+     <e><p><l>tanak<s n="adj"/></l><r>тоненький<s n="adj"/></r></p></e>	
+     <e><p><l>najlošiji<s n="adj"/></l><r>худший<s n="adj"/></r></p></e>	# Note:Superlative
+     <e><p><l>smeđ<s n="adj"/></l><r>смуглый<s n="adj"/></r></p></e>	 
      <e><p><l>izrailski<s n="adj"/></l><r>израильский<s n="adj"/></r></p></e>	 
+	 <e><p><l>izraelski<s n="adj"/></l><r>израильский<s n="adj"/></r></p></e>
      <e><p><l>hitan<s n="adj"/></l><r>срочный<s n="adj"/></r></p></e>	 
-     <e><p><l>ograničeni<s n="adj"/></l><r>ограниченный<s n="adj"/></r></p></e>	 
+     <e><p><l>ograničen<s n="adj"/></l><r>ограниченный<s n="adj"/></r></p></e>	 
      <e><p><l>pravni<s n="adj"/></l><r>юридический<s n="adj"/></r></p></e>	 
      <e><p><l>podvodni<s n="adj"/></l><r>подводной<s n="adj"/></r></p></e>	 
      <e><p><l>neznačajan<s n="adj"/></l><r>незначительный<s n="adj"/></r></p></e>	 
      <e><p><l>artiljerijski<s n="adj"/></l><r>артиллерийский<s n="adj"/></r></p></e>	 
-     <e><p><l>svemirni<s n="adj"/></l><r>всемирный<s n="adj"/></r></p></e>	 
+     <e><p><l>svemirski<s n="adj"/></l><r>всемирный<s n="adj"/></r></p></e>	 
      <e><p><l>oznojen<s n="adj"/></l><r>потный<s n="adj"/></r></p></e>	 
      <e><p><l>neprijateljski<s n="adj"/></l><r>враждебный<s n="adj"/></r></p></e>	 
      <!-- 800 -->	 
