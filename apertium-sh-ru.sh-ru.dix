@@ -3434,7 +3434,7 @@
  
      <!-- SECTION: Verbs -->
 
-     <e><p><l>biti<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+     <e><p><l>biti<s n="vblex"/><s n="perf"/><s n="TD"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>moći<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>мочь<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>znati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>знать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
