@@ -3545,14 +3545,14 @@
      <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
-     <e><p><l>znati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>знать<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+     <e><p><l>znati<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>знать<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
      <e><p><l>govoriti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>говорить<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
-     <e><p><l>stati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>стать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>stati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>стать<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
      <e><p><l>imati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>есть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>htjeti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>хотеть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>videti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>видеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>ići<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>идти<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-     <e><p><l>stojati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>стоять<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+     <e><p><l>ići<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>идти<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+     <e><p><l>stojati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>стоять<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>razmišljati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>думать<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>pitati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>спросить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>živjeti<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>жить<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
