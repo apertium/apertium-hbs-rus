@@ -3250,7 +3250,7 @@
      <e><p><l>neočekivano<s n="adv"/></l><r>неожиданно<s n="adv"/></r></p></e>	 
      <e><p><l>napolje<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>	 
 	 <e><p><l>van<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>
-     <e><p><l>prve<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>	 
+     <e><p><l>isprva<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>	 
      <e><p><l>jako<s n="adv"/></l><r>сильно<s n="adv"/></r></p></e>	 
      <e><p><l>više<s n="adv"/></l><r>выше<s n="adv"/></r></p></e>	 
      <e><p><l>ponovo<s n="adv"/></l><r>вновь<s n="adv"/></r></p></e>	 
@@ -3349,7 +3349,7 @@
      <e><p><l>temeljno<s n="adv"/></l><r>тщательно<s n="adv"/></r></p></e>	 
      <e><p><l>saglasno<s n="adv"/></l><r>согласно<s n="adv"/></r></p></e>	 
      <e><p><l>nekada<s n="adv"/></l><r>некогда<s n="adv"/></r></p></e>	 
-     <e><p><l>nije loše<s n="adv"/></l><r>неплохо<s n="adv"/></r></p></e>	 
+     <e><p><l>neloše<s n="adv"/></l><r>неплохо<s n="adv"/></r></p></e>	 
      <e><p><l>radosno<s n="adv"/></l><r>радостно<s n="adv"/></r></p></e>	 
      <e><p><l>primjetno<s n="adv"/></l><r>заметно<s n="adv"/></r></p></e>	 
      <e><p><l>nemalo<s n="adv"/></l><r>немало<s n="adv"/></r></p></e>	 
@@ -3522,7 +3522,7 @@
      <e><p><l>popola<s n="adv"/></l><r>пополам<s n="adv"/></r></p></e>	 
      <e><p><l>smiješno<s n="adv"/></l><r>насмешливо<s n="adv"/></r></p></e>	 
      <e><p><l>mučeno<s n="adv"/></l><r>мучительно<s n="adv"/></r></p></e>	 
-     <e><p><l>nedarom<s n="adv"/></l><r>недаром<s n="adv"/></r></p></e>	 
+     <e><p><l>bezrazložno<s n="adv"/></l><r>недаром<s n="adv"/></r></p></e>	 
      <e><p><l>protivno<s n="adv"/></l><r>противно<s n="adv"/></r></p></e>	 
      <e><p><l>zabrinuto<s n="adv"/></l><r>тревожно<s n="adv"/></r></p></e>	 
      <e><p><l>beskonačno<s n="adv"/></l><r>бесконечно<s n="adv"/></r></p></e>	 
@@ -3542,15 +3542,15 @@
  
      <!-- SECTION: Verbs -->
 
-     <e><p><l>biti<s n="vblex"/><s n="perf"/><s n="TD"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+     <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="TD"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>moći<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>мочь<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
-     <e><p><l>znati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>знать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="TD"/></l><r>мочь<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>znati<s n="vblex"/><s n="dual"/><s n="TD"/></l><r>знать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>govoriti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>говорить<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
-     <e><p><l>stati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>стать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
-     <e><p><l>imati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>есть<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
-     <e><p><l>htjeti<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>хотеть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
-     <e><p><l>videti<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>видеть<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>stati<s n="vblex"/><s n="perf"/><s n="TD"/></l><r>стать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>imati<s n="vblex"/><s n="imperf"/><s n="TD"/></l><r>есть<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
+     <e><p><l>htjeti<s n="vblex"/><s n="imperf"/><s n="TD"/></l><r>хотеть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+     <e><p><l>videti<s n="vblex"/><s n="perf"/><s n="TD"/></l><r>видеть<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>ići<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>идти<s n="vblex"/><s n="AD"/><s n="iv"/></r></p></e>
      <e><p><l>stojati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>стоять<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
      <e><p><l>razmišljati<s n="vblex"/><s n="AD"/><s n="TD"/></l><r>думать<s n="vblex"/><s n="AD"/><s n="TD"/></r></p></e>
