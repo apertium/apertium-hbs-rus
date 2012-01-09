@@ -3239,24 +3239,28 @@
      <e><p><l>manje<s n="adv"/></l><r>менее<s n="adv"/></r></p></e>	 
      <e><p><l>lako<s n="adv"/></l><r>легко<s n="adv"/></r></p></e>	 
      <e><p><l>dole<s n="adv"/></l><r>вниз<s n="adv"/></r></p></e>	 
-     <e><p><l>uopšte<s n="adv"/></l><r>вовсе<s n="adv"/></r></p></e>	 
+     <e><p><l>uopšte<s n="adv"/></l><r>вовсе<s n="adv"/></r></p></e>
+     <e><p><l>uopće<s n="adv"/></l><r>вовсе<s n="adv"/></r></p></e>	 
      <e><p><l>smireno<s n="adv"/></l><r>спокойно<s n="adv"/></r></p></e>	 
      <e><p><l>dovoljno<s n="adv"/></l><r>достаточно<s n="adv"/></r></p></e>	 
      <e><p><l>toliko<s n="adv"/></l><r>столько<s n="adv"/></r></p></e>	 
-     <e><p><l>ćuteći<s n="adv"/></l><r>молча<s n="adv"/></r></p></e>	 
+     <e><p><l>ćuteći<s n="adv"/></l><r>молча<s n="adv"/></r></p></e>
+     <e><p><l>šutke<s n="adv"/></l><r>молча<s n="adv"/></r></p></e>	 
      <e><p><l>vidljivo<s n="adv"/></l><r>видимо<s n="adv"/></r></p></e>	 
      <e><p><l>neočekivano<s n="adv"/></l><r>неожиданно<s n="adv"/></r></p></e>	 
      <e><p><l>napolje<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>	 
+	 <e><p><l>van<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>
      <e><p><l>prve<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>	 
      <e><p><l>jako<s n="adv"/></l><r>сильно<s n="adv"/></r></p></e>	 
      <e><p><l>više<s n="adv"/></l><r>выше<s n="adv"/></r></p></e>	 
      <e><p><l>ponovo<s n="adv"/></l><r>вновь<s n="adv"/></r></p></e>	 
      <e><p><l>veoma<s n="adv"/></l><r>весьма<s n="adv"/></r></p></e>	 
      <e><p><l>pravilno<s n="adv"/></l><r>правильно<s n="adv"/></r></p></e>	 
-     <e><p><l>interesantno<s n="adv"/></l><r>интересно<s n="adv"/></r></p></e>	 
+     <e><p><l>interesantno<s n="adv"/></l><r>интересно<s n="adv"/></r></p></e>
+     <e><p><l>zanimljivo<s n="adv"/></l><r>интересно<s n="adv"/></r></p></e>	 
      <e><p><l>nemoguće<s n="adv"/></l><r>невозможно<s n="adv"/></r></p></e>	 
      <e><p><l>tako<s n="adv"/></l><r>столь<s n="adv"/></r></p></e>	 
-     <e><p><l>i<s n="adv"/></l><r>причем<s n="adv"/></r></p></e>	 
+     <e><p><l>zatim<s n="adv"/></l><r>причем<s n="adv"/></r></p></e>	 
      <e><p><l>nedavno<s n="adv"/></l><r>недавно<s n="adv"/></r></p></e>	 
      <e><p><l>obratno<s n="adv"/></l><r>обратно<s n="adv"/></r></p></e>	 
      <e><p><l>pažljivo<s n="adv"/></l><r>осторожно<s n="adv"/></r></p></e>	 
@@ -3270,7 +3274,8 @@
      <e><p><l>odavde<s n="adv"/></l><r>отсюда<s n="adv"/></r></p></e>	 
      <e><p><l>javno<s n="adv"/></l><r>явно<s n="adv"/></r></p></e>	 
      <e><p><l>otuda<s n="adv"/></l><r>оттуда<s n="adv"/></r></p></e>	 
-     <e><p><l>vjerovatno<s n="adv"/></l><r>наверно<s n="adv"/></r></p></e>	 
+     <e><p><l>vjerovatno<s n="adv"/></l><r>наверно<s n="adv"/></r></p></e>
+     <e><p><l>vjerojatno<s n="adv"/></l><r>наверно<s n="adv"/></r></p></e>	 
      <e><p><l>odmah<s n="adv"/></l><r>немедленно<s n="adv"/></r></p></e>	 
      <e><p><l>drsko<s n="adv"/></l><r>резко<s n="adv"/></r></p></e>	 
      <e><p><l>istovremeno<s n="adv"/></l><r>одновременно<s n="adv"/></r></p></e>	 
@@ -3285,7 +3290,7 @@
      <e><p><l>najbolje<s n="adv"/></l><r>наиболее<s n="adv"/></r></p></e>	 
      <e><p><l>teško<s n="adv"/></l><r>тяжело<s n="adv"/></r></p></e>	 
      <e><p><l>postepeno<s n="adv"/></l><r>постепенно<s n="adv"/></r></p></e>	 
-     <e><p><l>spostveno<s n="adv"/></l><r>собственно<s n="adv"/></r></p></e>	 
+     <e><p><l>sopstveno<s n="adv"/></l><r>собственно<s n="adv"/></r></p></e>	 
      <e><p><l>pažljivo<s n="adv"/></l><r>внимательно<s n="adv"/></r></p></e>	 
      <e><p><l>primjereno<s n="adv"/></l><r>примерно<s n="adv"/></r></p></e>	 
      <e><p><l>slučajno<s n="adv"/></l><r>случайно<s n="adv"/></r></p></e>	 
@@ -3315,7 +3320,7 @@
      <e><p><l>zauvijek<s n="adv"/></l><r>навсегда<s n="adv"/></r></p></e>	 
      <e><p><l>danas<s n="adv"/></l><r>тотчас<s n="adv"/></r></p></e>	 
      <e><p><l>jako<s n="adv"/></l><r>крепко<s n="adv"/></r></p></e>	 
-     <e><p><l>@zašto<s n="adv"/></l><r>отчего<s n="adv"/></r></p></e>	 
+     <e><p><l>zašto<s n="adv"/></l><r>отчего<s n="adv"/></r></p></e>	 
      <e><p><l>nikuda<s n="adv"/></l><r>никуда<s n="adv"/></r></p></e>	 
      <e><p><l>apsolutno<s n="adv"/></l><r>абсолютно<s n="adv"/></r></p></e>	 
      <e><p><l>rešavajuće<s n="adv"/></l><r>решительно<s n="adv"/></r></p></e>	 
@@ -3323,7 +3328,7 @@
      <e><p><l>završno<s n="adv"/></l><r>окончательно<s n="adv"/></r></p></e>	 
      <e><p><l>rijetko<s n="adv"/></l><r>редко<s n="adv"/></r></p></e>	 
      <e><p><l>tamno<s n="adv"/></l><r>темно<s n="adv"/></r></p></e>	 
-     <e><p><l>može da se čuje<s n="adv"/></l><r>слышно<s n="adv"/></r></p></e>	 
+     <e><p><l>čujno<s n="adv"/></l><r>слышно<s n="adv"/></r></p></e>	 
      <e><p><l>skoro<s n="adv"/></l><r>еле<s n="adv"/></r></p></e>	 
      <e><p><l>zdravo<s n="adv"/></l><r>здорово<s n="adv"/></r></p></e>	 
      <e><p><l>bukvalno<s n="adv"/></l><r>буквально<s n="adv"/></r></p></e>	 
@@ -3339,7 +3344,7 @@
      <e><p><l>široko<s n="adv"/></l><r>широко<s n="adv"/></r></p></e>	 
      <e><p><l>specijalno<s n="adv"/></l><r>специально<s n="adv"/></r></p></e>	 
      <e><p><l>odlično<s n="adv"/></l><r>отлично<s n="adv"/></r></p></e>	 
-     <e><p><l>sleva<s n="adv"/></l><r>слева<s n="adv"/></r></p></e>	 
+     <e><p><l>slijeva<s n="adv"/></l><r>слева<s n="adv"/></r></p></e>	 
      <e><p><l>svugdje<s n="adv"/></l><r>везде<s n="adv"/></r></p></e>	 
      <e><p><l>temeljno<s n="adv"/></l><r>тщательно<s n="adv"/></r></p></e>	 
      <e><p><l>saglasno<s n="adv"/></l><r>согласно<s n="adv"/></r></p></e>	 
@@ -3387,7 +3392,7 @@
      <e><p><l>normalno<s n="adv"/></l><r>нормально<s n="adv"/></r></p></e>	 
      <e><p><l>prijatno<s n="adv"/></l><r>вежливо<s n="adv"/></r></p></e>	 
      <e><p><l>nehitro<s n="adv"/></l><r>неловко<s n="adv"/></r></p></e>	 
-     <e><p><l>gore<s n="adv"/></l><r>наверх<s n="adv"/></r></p></e>	 
+     <e><p><l>navrh<s n="adv"/></l><r>наверх<s n="adv"/></r></p></e>	 
      <e><p><l>sjedeći<s n="adv"/></l><r>сидя<s n="adv"/></r></p></e>	 
      <e><p><l>ozbiljno<s n="adv"/></l><r>всерьез<s n="adv"/></r></p></e>	 
      <e><p><l>zatim<s n="adv"/></l><r>впоследствии<s n="adv"/></r></p></e>	 
@@ -3458,7 +3463,7 @@
      <e><p><l>gusto<s n="adv"/></l><r>густо<s n="adv"/></r></p></e>	 
      <e><p><l>žalosno<s n="adv"/></l><r>печально<s n="adv"/></r></p></e>	 
      <e><p><l>naučno<s n="adv"/></l><r>научно<s n="adv"/></r></p></e>	 
-     <e><p><l>niježno<s n="adv"/></l><r>нежно<s n="adv"/></r></p></e>	 
+     <e><p><l>nježno<s n="adv"/></l><r>нежно<s n="adv"/></r></p></e>	 
      <e><p><l>ljenjivo<s n="adv"/></l><r>лениво<s n="adv"/></r></p></e>	 
      <e><p><l>otvoreno<s n="adv"/></l><r>открыто<s n="adv"/></r></p></e>	 
      <e><p><l>svakodnevno<s n="adv"/></l><r>ежедневно<s n="adv"/></r></p></e>	 
@@ -3482,7 +3487,7 @@
      <e><p><l>nadaleku<s n="adv"/></l><r>вдали<s n="adv"/></r></p></e>	 
      <e><p><l>gluho<s n="adv"/></l><r>глухо<s n="adv"/></r></p></e>	 
      <e><p><l>pusto<s n="adv"/></l><r>пусто<s n="adv"/></r></p></e>	 
-     <e><p><l>bezšumno<s n="adv"/></l><r>бесшумно<s n="adv"/></r></p></e>	 
+     <e><p><l>bešumno<s n="adv"/></l><r>бесшумно<s n="adv"/></r></p></e>	 
      <e><p><l>potpuno<s n="adv"/></l><r>вплоть<s n="adv"/></r></p></e>	 
      <e><p><l>svuda<s n="adv"/></l><r>повсюду<s n="adv"/></r></p></e>	 
      <e><p><l>drugarski<s n="adv"/></l><r>дружно<s n="adv"/></r></p></e>	 
