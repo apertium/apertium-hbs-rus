@@ -4374,74 +4374,74 @@
      <e><p><l>izraziti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выражать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>obrazovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>образоваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pričati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>болтать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>izaći<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вылезть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>besjedovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>беседовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>izaći<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>вылезть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>besjedovati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>беседовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>podići<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>приподнять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dirnuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>тронуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>upasti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>попадаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>obući<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>надеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>upasti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>попадаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>obući<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>надеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dovesti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>довести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>strijemiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>мчаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>strijemiti<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>мчаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>poslušati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выслушать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uložiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>уложить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zakazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>заказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>pocrveniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>покраснеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>ispasti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выпасть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>pocrveniti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>покраснеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>ispasti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>выпасть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>završiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>кончать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>savjetovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>советовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>otkinuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вырвать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>gudati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>гудеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>gudati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>гудеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>spaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сжечь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>blagodariti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>благодарить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>narušiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>нарушить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>gurnuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>толкнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>propadati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>пропадать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>propadati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>пропадать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>staviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вставить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zaslužiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>заслужить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ljubiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>целовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>obećati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>пообещать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>nakloniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>наклониться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>nakloniti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>наклониться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>načiniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>совершать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>poljubiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>полюбить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>otići<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отходить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>otsustvovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>отсутствовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>otići<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>отходить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>otsustvovati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>отсутствовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>trebati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>нуждаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>osvojiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выиграть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pogledati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>мелькнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>okretati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>оборачиваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>tresti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>трястись<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>grešiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>ошибаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>grešiti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>ошибаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>rezati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>резать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>potresti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>потрясти<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>susdržati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>удержаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>susdržati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>удержаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>bojati<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>опасаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uzeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отобрать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>noćevati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>ночевать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>noćevati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>ночевать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>trošiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>тратить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ponijeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>понести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>uputiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отправляться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>uputiti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>отправляться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pogoditi<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>угадать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>vjerovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>доверять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>vjerovati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>доверять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izgubiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>растеряться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>zastati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>застыть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>smjeti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>сметь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>škljocnuti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>щелкнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>zastati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>застыть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>smjeti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>сметь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>škljocnuti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>щелкнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ispričati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>высказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>liječiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>лечить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>istrljati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вытереть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uključiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>включать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>privlačiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>привлечь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pretvoriti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>превратить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>stiditi<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>стесняться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>stiditi<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>стесняться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>napraviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>поделать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>napuniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>наполнить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>svaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>свалиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>poslati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>подослать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zaboleti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>заболеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>probuditi<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>просыпаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>probuditi<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>просыпаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>žvakati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>жевать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ispuniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>исполнить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>skočiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>прыгнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>skočiti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>прыгнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zapisivati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>записывать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uvjeriti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>уверять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>završiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>окончить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
@@ -4455,52 +4455,52 @@
      <e><p><l>pokriti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>накрыть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zaliti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>залить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pojesti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>поесть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>valjati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>годиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>valjati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>годиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pobrojati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>счесть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>skriti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>скрываться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>privezati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>привязать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>zaviditi<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>завидовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>zaviditi<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>завидовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>predstaviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>представиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>spaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>спалить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>trznuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>рвануть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>razmišljati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>размышлять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>razmišljati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>размышлять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>približiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>приблизиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>priložiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>приложить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>aplaudirati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>хлопать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>aplaudirati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>хлопать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zamisliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>изобразить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ljutiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>обижаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izvući<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>виднеться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>izletjeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вылететь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>izletjeti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>вылететь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>markirati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>отмечать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>nastojati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>настаивать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>nastojati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>настаивать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ustanoviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>восстановить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pokidati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>покидать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ljutiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>сердиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>popaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>попалить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>smatrati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>учитывать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uzdisati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>вздыхать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>prestati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>переставать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>prestati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>переставать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>prepoznati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>осознать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izraziti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выражаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izvještavati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>докладывать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>unijeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>внести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>proći<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>проехать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>proći<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>проехать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>vijdeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>видеться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>mučiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>мучить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>slikati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>нарисовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>davati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>сдавать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ispuniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>исполнять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>otrovati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>оторваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>skretati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>поворачиваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>pristupiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>приступить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>skretati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>поворачиваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>pristupiti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>приступить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>iznenaditi<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>удивить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zaštiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>защитить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>ćutati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>промолчать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>ćutati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>промолчать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dostići<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>достигать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>predstaviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>предоставить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>oteti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отнять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>šaputati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>шептать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>prozvučati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>прозвучать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>prozvučati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>прозвучать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>sanjati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>сниться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pokloniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>поклониться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pokvariti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>испортить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
@@ -4509,7 +4509,7 @@
      <e><p><l>odložiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отложить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>jesti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>жрать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>istesterati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выпилить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>zastupati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>вступать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>zastupati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>вступать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>preživjeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выжить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izvući<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>извлечь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>svesti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>свести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
@@ -4519,7 +4519,7 @@
      <e><p><l>zabaciti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>забросить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>popuniti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>заполнить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>oprati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вытирать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>svijetliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сверкать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>svijetliti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>сверкать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>poturiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>ткнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>odmaći<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отстать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dijeliti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>делиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
@@ -4530,47 +4530,47 @@
      <e><p><l>otpustiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отпускать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>oprostiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>прощаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pripremiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>приниматься<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>rugati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>ругать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>rugati<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>ругать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ogledati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>оглядеться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>projaviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>проявлять<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>trgovati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>торговать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>trgovati<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>торговать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>odneti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>отнести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uneti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>унести<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>okretati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>катиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>razdijeliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>разделить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>grmeti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>греметь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>grmeti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>греметь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dodavati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>придавать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>izbaviti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>избавиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pljunuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>плюнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ubijediti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>убедить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>računati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>рассчитать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>istjerati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выгнать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>proći<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>пройтись<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>proći<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>пройтись<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pritisnuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>зажать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>privući<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>прижаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>mučiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>мучиться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>kucnuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>стукнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>svjedočiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>свидетельствовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>svjedočiti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>свидетельствовать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>skriti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>скрыть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>pratiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>наблюдаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>stupiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>ступать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>stupiti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>ступать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ubiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>покончить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>blještati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>мелькать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>oblačiti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>одеваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>kinuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>кинуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>kinuti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>кинуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zavaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>завалить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>povući<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>дернуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uznemiravati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>беспокоить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>dijeliti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>раздаваться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zastati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>застать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>protezati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>протягивать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>doletjeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>прилететь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>izvinuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>извиняться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>doletjeti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>прилететь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>izvinuti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>извиняться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ugasiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>погаснуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>ražalostiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>обидеть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>sikirati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>волновать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>uzbuditi<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>возбудить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>izgorjeti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сгореть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+     <e><p><l>izgorjeti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>сгореть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>raspolagati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>располагаться<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>proniknuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>проникнуть<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zapaliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>зажечь<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
