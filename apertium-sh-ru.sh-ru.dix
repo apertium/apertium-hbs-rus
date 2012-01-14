@@ -476,7 +476,7 @@
     <e><p><l>stepenice<s n="n"/><s n="f"/></l><r>лестница<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>ministar<s n="n"/><s n="ma"/></l><r>министр<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>front<s n="n"/><s n="mi"/></l><r>фронт<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>bašta<s n="n"/><s n="f"/></l><r>сад<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
+    <e><p><l>vrt<s n="n"/><s n="f"/></l><r>сад<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>zadaća<s n="n"/><s n="f"/></l><r>задача<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>tamnoća<s n="n"/><s n="f"/></l><r>темнота<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>naziv<s n="n"/><s n="mi"/></l><r>название<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
@@ -968,7 +968,7 @@
     <e c="LR default"><p><l>putovanje<s n="n"/><s n="nt"/></l><r>поездка<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- SRD -->
     <e><p><l>rana<s n="n"/><s n="f"/></l><r>рана<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>kanap<s n="n"/><s n="mi"/></l><r>веревка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>vremenska prognoza<s n="n"/><s n="f"/></l><r>погода<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
+    <e><p><l>vrijeme<s n="n"/><s n="f"/></l><r>погода<s n="n"/><s n="f"/><s n="nn"/></r></p></e><!--Vremenska prognoza -->
     <e><p><l>pasoš<s n="n"/><s n="mi"/></l><r>паспорт<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>navika<s n="n"/><s n="f"/></l><r>привычка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>brdo<s n="n"/><s n="nt"/></l><r>холм<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -3174,6 +3174,7 @@
      <e><p><l>tu<s n="adv"/></l><r>тут<s n="adv"/></r></p></e>	
      <e><p><l>zatim<s n="adv"/></l><r>потом<s n="adv"/></r></p></e>	
      <e><p><l>mnogo<s n="adv"/></l><r>очень<s n="adv"/></r></p></e>	
+	 <e><p><l>veoma<s n="adv"/></l><r>очень<s n="adv"/></r></p></e>	
      <e><p><l>sada<s n="adv"/></l><r>теперь<s n="adv"/></r></p></e>	
      <e><p><l>sada<s n="adv"/></l><r>сейчас<s n="adv"/></r></p></e>	
      <e><p><l>tako<s n="adv"/></l><r>тоже<s n="adv"/></r></p></e>	
@@ -4960,5 +4961,26 @@
      <e><p><l>otkačiti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>откинуться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>družiti<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>дружить<s n="vblex"/><s n="imperf"/><s n="ref"/></r></p></e>
      <!-- 1600 -->
+	 <e><p><l>jedan<s n="num"/></l><r>один<s n="num"/></r></p></e>
+	 <e><p><l>dva<s n="num"/></l><r>два<s n="num"/></r></p></e>
+	 <e><p><l>tri<s n="num"/></l><r>три<s n="num"/></r></p></e>
+	 <e><p><l>četiri<s n="num"/></l><r>четыре<s n="num"/></r></p></e>
+	 <e><p><l>pet<s n="num"/></l><r>пять<s n="num"/></r></p></e>
+	 <e><p><l>šest<s n="num"/></l><r>шесть<s n="num"/></r></p></e>
+	 <e><p><l>sedam<s n="num"/></l><r>семь<s n="num"/></r></p></e>
+	 <e><p><l>osam<s n="num"/></l><r>восемь<s n="num"/></r></p></e>
+	 <e><p><l>devet<s n="num"/></l><r>девять<s n="num"/></r></p></e>
+	 <e><p><l>deset<s n="num"/></l><r>десять<s n="num"/></r></p></e>
+	 <e><p><l>jedanaest<s n="num"/></l><r>одиннадцать<s n="num"/></r></p></e>
+	 <e><p><l>dvanaest<s n="num"/></l><r>двенадцать<s n="num"/></r></p></e>
+	 <e><p><l>trinaest<s n="num"/></l><r>тринадцать<s n="num"/></r></p></e>
+	 <e><p><l>četrnaest<s n="num"/></l><r>четырнадцать<s n="num"/></r></p></e>
+	 <e><p><l>petnaest<s n="num"/></l><r>пятнадцать<s n="num"/></r></p></e>
+	 <e><p><l>šesnaest<s n="num"/></l><r>шестнадцать<s n="num"/></r></p></e>
+	 <e><p><l>sedamnaest<s n="num"/></l><r>семнадцать<s n="num"/></r></p></e>
+	 <e><p><l>osamnaest<s n="num"/></l><r>восемнадцать<s n="num"/></r></p></e>
+	 <e><p><l>devetnaest<s n="num"/></l><r>девятнадцать<s n="num"/></r></p></e>
+	 <e><p><l>dvadeset<s n="num"/></l><r>двадцать<s n="num"/></r></p></e>
+	 
   </section>
 </dictionary>
