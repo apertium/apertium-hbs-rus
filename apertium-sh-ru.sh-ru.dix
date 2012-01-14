@@ -2391,7 +2391,7 @@
      <e><p><l>bijel<s n="adj"/></l><r>белый<s n="adj"/></r></p></e>	
      <e><p><l>glavni<s n="adj"/></l><r>главный<s n="adj"/></r></p></e>	
      <e><p><l>dalek<s n="adj"/></l><r>далекий<s n="adj"/></r></p></e>	
-     <e><p><l>mal<s n="adj"/></l><r>маленький<s n="adj"/></r></p></e>	
+     <e><p><l>malen<s n="adj"/></l><r>маленький<s n="adj"/></r></p></e>	
      <e><p><l>sovjetski<s n="adj"/></l><r>советский<s n="adj"/></r></p></e>	
      <e><p><l>ruski<s n="adj"/></l><r>русский<s n="adj"/></r></p></e>	
      <e><p><l>pun<s n="adj"/></l><r>полный<s n="adj"/></r></p></e>	
@@ -3500,7 +3500,8 @@
      <e><p><l>potpuno<s n="adv"/></l><r>вплоть<s n="adv"/></r></p></e>	
      <e><p><l>svuda<s n="adv"/></l><r>повсюду<s n="adv"/></r></p></e>	
      <e><p><l>drugarski<s n="adv"/></l><r>дружно<s n="adv"/></r></p></e>	
-     <e><p><l>jednako<s n="adv"/></l><r>одинаково<s n="adv"/></r></p></e>	
+     <e><p><l>jednako<s n="adv"/></l><r>одинаково<s n="adv"/></r></p></e>
+	 <e><p><l>већ<s n="adv"/></l><r>уже<s n="adv"/></r></p></e>
      <e><p><l>skroz<s n="adv"/></l><r>насквозь<s n="adv"/></r></p></e>	
      <e><p><l>žedno<s n="adv"/></l><r>жадно<s n="adv"/></r></p></e>	
      <e><p><l>nevažno<s n="adv"/></l><r>неважно<s n="adv"/></r></p></e>	
@@ -3763,6 +3764,7 @@
      <e><p><l>poginuti<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>погибнуть<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
      <e><p><l>držati<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>держаться<s n="vblex"/><s n="imperf"/><s n="ref"/></r></p></e>
      <e><p><l>predati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>передать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+	 <e><p><l>pojesti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>скушать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>strijeljati<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>стрелять<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>provoditi<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>проводить<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>ulaziti<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>входить<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
@@ -4961,6 +4963,7 @@
      <e><p><l>otkačiti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>откинуться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>družiti<s n="vblex"/><s n="imperf"/><s n="ref"/></l><r>дружить<s n="vblex"/><s n="imperf"/><s n="ref"/></r></p></e>
      <!-- 1600 -->
+	 <!-- Numbers -->
 	 <e><p><l>jedan<s n="num"/></l><r>один<s n="num"/></r></p></e>
 	 <e><p><l>dva<s n="num"/></l><r>два<s n="num"/></r></p></e>
 	 <e><p><l>tri<s n="num"/></l><r>три<s n="num"/></r></p></e>
