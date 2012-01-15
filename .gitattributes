@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/UnknownWords -text
 /apertium-sh-ru.ru-sh.rlx -text
 /apertium-sh-ru.ru.dix -text
 /apertium-sh-ru.sh-ru.dix -text
