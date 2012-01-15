@@ -5790,7 +5790,10 @@
       <e>       <p><l>жет</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>гут</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
 
-      <e>       <p><l>г</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="past"/></r></p><par n="BASE__ска/зал"/></e>
+      <e>       <p><l>г</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>гла</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="past"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>гло</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="past"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>       <p><l>гли</l><r>чь<s n="vbmod"/><s n="imperf"/><s n="past"/><s n="mfn"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="ска/зать__vblex_perf">
