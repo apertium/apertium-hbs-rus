@@ -230,7 +230,7 @@
     <e><p><l>načelnik<s n="n"/><s n="ma"/></l><r>начальник<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e c="LR default"><p><l>djevojka<s n="n"/><s n="f"/></l><r>девушка<s n="n"/><s n="f"/><s n="aa"/></r></p></e> <!-- SRD -->
     <e><p><l>vojnik<s n="n"/><s n="ma"/></l><r>солдат<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
-    <e><p><l>psić<s n="n"/><s n="f"/></l><r>собачка<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
+    <e><p><l>psić<s n="n"/><s n="ma"/></l><r>собачка<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>nebo<s n="n"/><s n="nt"/></l><r>небо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>sistem<s n="n"/><s n="mi"/></l><r>система<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>vazduh<s n="n"/><s n="mi"/></l><r>воздух<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
