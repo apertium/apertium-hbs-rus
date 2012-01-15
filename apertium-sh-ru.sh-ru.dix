@@ -2,6 +2,7 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"       c="Noun"/>
+    <sdef n="num"     c="Numeral"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
@@ -13,6 +14,7 @@
     <sdef n="nn"      c=""/>
 
     <sdef n="top"     c=""/>
+    <sdef n="ant"     c=""/>
 
 
     <sdef n="adv"      c=""/>
@@ -4360,7 +4362,7 @@
      <e><p><l>probuditi<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>очнуться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>     
      <e><p><l>dovesti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>догнать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>koračati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>шагнуть<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
-     <e><p><l>prekinuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сорваться<s n="vblex"/><s n="perf"/><s n="tref"/></r></p></e>
+     <e><p><l>prekinuti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сорваться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>podijeliti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выделить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>zamišljati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>изображать<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>založiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>заложить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
