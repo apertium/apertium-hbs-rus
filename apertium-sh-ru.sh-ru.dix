@@ -17,8 +17,11 @@
     <sdef n="ant"     c=""/>
 
 
-    <sdef n="adv"      c=""/>
+    <sdef n="adv"     c=""/>
     <sdef n="GD"      c=""/>
+    <sdef n="prn"     c=""/>
+    <sdef n="dem"     c=""/>
+    <sdef n="det"     c=""/>
     <sdef n="AD"      c=""/>
     <sdef n="ND"      c=""/>
     <sdef n="adj"     c=""/>
@@ -226,6 +229,7 @@
     <e><p><l>načelnik<s n="n"/><s n="ma"/></l><r>начальник<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e c="LR default"><p><l>djevojka<s n="n"/><s n="f"/></l><r>девушка<s n="n"/><s n="f"/><s n="aa"/></r></p></e> <!-- SRD -->
     <e><p><l>vojnik<s n="n"/><s n="ma"/></l><r>солдат<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
+    <e><p><l>psić<s n="n"/><s n="f"/></l><r>собачка<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>nebo<s n="n"/><s n="nt"/></l><r>небо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>sistem<s n="n"/><s n="mi"/></l><r>система<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>vazduh<s n="n"/><s n="mi"/></l><r>воздух<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -2384,7 +2388,9 @@
 
   <!-- SECTION: Adjectives -->	
  	
-     <e><p><l>velik<s n="adj"/></l><r>большой<s n="adj"/></r></p></e>	
+     <e><p><l>malen<s n="adj"/></l><r>маленький<s n="adj"/></r></p></e>
+     <e><p><l>velik<s n="adj"/></l><r>большой<s n="adj"/></r></p></e>
+     <e><p><l>dobra<s n="adj"/></l><r>хорошая<s n="adj"/></r></p></e>	
      <e><p><l>dužan<s n="adj"/></l><r>должный<s n="adj"/></r></p></e>	
      <e><p><l>nov<s n="adj"/></l><r>новый<s n="adj"/></r></p></e>	
      <e><p><l>dobar<s n="adj"/></l><r>хороший<s n="adj"/></r></p></e>	
@@ -3556,6 +3562,7 @@
      <!-- SECTION: Verbs -->
 
      <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+     <e><p><l>obožavati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>поклоняться<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
      <e><p><l>znati<s n="vblex"/><s n="dual"/><s n="ref"/></l><r>знать<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
@@ -4991,6 +4998,12 @@
 	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="m"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="f"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+         <e><p><l>Maша<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+         <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
+         <e><p><l>i<s n="prn"/><s n="dem"/></l><r>и<s n="prn"/><s n="dem"/></r></p></e>
+
+         <e><p><l>тај<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
 	 
   </section>
 </dictionary>
