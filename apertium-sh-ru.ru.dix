@@ -70,6 +70,7 @@
     <sdef n="past"       c="Past tense"/>
 
     <sdef n="top"        c="Toponym"/>
+    <sdef n="ant"        c="Anthroponym"/>
 
     <sdef n="cm"         c="Comma"/>
     <sdef n="sent"       c="Sentence marker"/>
@@ -142,6 +143,17 @@
       <e>       <p><l>них</l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
       <e>       <p><l>ними</l><r>prpers<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="ins"/></r></p></e>
     </pardef>
+
+    <pardef n="BASE__Саш/а">
+      <e><p><l>а</l><r><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>и</l><r><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>е</l><r><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>у</l><r><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ей</l><r><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>ею</l><r><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>е</l><r><s n="sg"/><s n="prp"/></r></p></e>
+    </pardef>
+
 
     <pardef n="BASE__Украин/а">
       <e><p><l>а</l><r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -5643,11 +5655,19 @@
     </pardef>
 
     <pardef n="Украин/а__np">
-      <e>       <p><l></l><r>я<s n="np"/><s n="top"/></r></p><par n="BASE__Украин/а"/></e>
+      <e>       <p><l></l><r>а<s n="np"/><s n="top"/></r></p><par n="BASE__Украин/а"/></e>
     </pardef>
 
     <pardef n="Таджикистан__np">
       <e>       <p><l></l><r><s n="np"/><s n="top"/></r></p><par n="BASE__Таджикистан"/></e>
+    </pardef>
+
+    <pardef n="Маш/а__np">
+      <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="f"/></r></p><par n="BASE__Саш/а"/></e>
+    </pardef>
+
+    <pardef n="Саш/а__np">
+      <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="m"/></r></p><par n="BASE__Саш/а"/></e>
     </pardef>
 
     <!-- SECTION: Adjectives -->
@@ -14362,6 +14382,8 @@
 
     <e lm="Уран"><i>Уран</i><par n="Таджикистан__np"/></e>
 
+    <e lm="Маша"><i>Маш</i><par n="Маш/а__np"/></e>
+    <e lm="Саша"><i>Саш</i><par n="Саш/а__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
