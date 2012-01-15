@@ -5,4 +5,4 @@ all:
 	apertium-validate-dictionary apertium-sh-ru.ru.dix
 	lt-comp rl apertium-sh-ru.sh-ru.dix sh-ru.autogen.bin
 	lt-comp lr apertium-sh-ru.sh-ru.dix ru-sh.automorf.bin
-
+	cg-comp apertium-sh-ru.ru-sh.rlx ru-sh.rlx.bin
