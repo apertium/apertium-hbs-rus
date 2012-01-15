@@ -20,6 +20,7 @@
     <sdef n="adv"     c=""/>
     <sdef n="GD"      c=""/>
     <sdef n="prn"     c=""/>
+    <sdef n="cnjcoo"     c=""/>
     <sdef n="dem"     c=""/>
     <sdef n="det"     c=""/>
     <sdef n="AD"      c=""/>
@@ -4998,12 +4999,12 @@
 	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="m"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="f"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-         <e><p><l>Maша<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+     <e><p><l>Maша<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
-         <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
-         <e><p><l>i<s n="prn"/><s n="dem"/></l><r>и<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>i<s n="cnjcoo"/><s n="dem"/></l><r>и<s n="cnjcoo"/><s n="dem"/></r></p></e>
 
-         <e><p><l>тај<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
+     <e><p><l>тај<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
 	 
   </section>
 </dictionary>
