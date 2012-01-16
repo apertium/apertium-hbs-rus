@@ -2266,15 +2266,15 @@
       <e><p>          <l>ах</l><r>но<s n="n"/><s n="nt"/><s n="nn"/><s n="pl"/><s n="prp"/></r></p></e>
     </pardef>
 
-    <pardef n="ус__n_m_nn">
+    <pardef n="ус__n_m_nn" a="slasher">
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>а</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p>          <l>у</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p>          <l>ом</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p>          <l>е</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="prp"/></r></p></e>
-      <e><p>          <l>ы</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p>          <l>ы</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p>          <l>ья</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p>          <l>ья</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="acc"/></r></p></e>
       <e><p>          <l>ов</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p>          <l>ам</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p>          <l>ами</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="pl"/><s n="ins"/></r></p></e>
@@ -2761,10 +2761,10 @@
       <e><p>          <l>е</l><r>е<s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="prp"/></r></p></e>
     </pardef>
 
-    <pardef n="вод/а__n_f_nn">
+    <pardef n="вод/а__n_f_nn" a="slasher">
       <e><p>          <l>а</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>у</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p>          <l>и</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p>          <l>ы</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p>          <l>і́</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p>          <l>ою</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p>          <l>е</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="prp"/></r></p></e>
@@ -5668,6 +5668,10 @@
 
     <pardef n="Саш/а__np">
       <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="m"/></r></p><par n="BASE__Саш/а"/></e>
+    </pardef>
+	
+	<pardef n="Ван/я__np" a="slasher">
+      <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="m"/></r></p><par n="BASE__Ван/я"/></e>
     </pardef>
 
     <!-- SECTION: Adjectives -->
@@ -12022,6 +12026,7 @@
     <!-- SECTION: Particles -->
 
     <e lm="ли"><i>ли</i><par n="ли__part"/></e>
+	<e lm="нибудь" a="slasher"><i>нибудь</i><par n="ли__part"/></e>
     <e lm="вот"><i>вот</i><par n="ли__part"/></e>
     <e lm="да"><i>да</i><par n="ли__part"/></e>
     <e lm="можно"><i>можно</i><par n="ли__part"/></e>
@@ -12699,6 +12704,7 @@
     <e lm="житель"><i>жител</i><par n="гус/ь__n_m_an"/></e>
     <e lm="журнал"><i>журнал</i><par n="ус__n_m_nn"/></e>
     <e lm="журналист"><i>журналист</i><par n="шеф__n_m_an"/></e>
+	<e lm="животное" a="slasher"><i>животно</i><par n="звани/е__n_nt_nn"/></e>
     <e lm="заболевание"><i>заболевани</i><par n="звани/е__n_nt_nn"/></e>
     <e lm="забор"><i>забор</i><par n="ус__n_m_nn"/></e>
     <e lm="забота"><i>забот</i><par n="мам/а__n_f_nn"/></e>
@@ -13886,6 +13892,7 @@
     <e lm="снижение"><i>снижени</i><par n="звани/е__n_nt_nn"/></e>
     <e lm="снимок"><i>сним</i><par n="меш/ок__n_m_nn"/></e>
     <e lm="собака"><i>собак</i><par n="мух/а__n_f_an"/></e>
+	<e lm="собачка" a="slasher"><i>собачк</i><par n="мух/а__n_f_an"/></e>
     <e lm="собеседник"><i>собеседник</i><par n="маг__n_m_aa"/></e>
     <e lm="собор"><i>собор</i><par n="ус__n_m_nn"/></e>
     <e lm="собрание"><i>собрани</i><par n="звани/е__n_nt_nn"/></e>
@@ -14387,6 +14394,8 @@
 
     <e lm="Маша"><i>Маш</i><par n="Маш/а__np"/></e>
     <e lm="Саша"><i>Саш</i><par n="Саш/а__np"/></e>
+	<e lm="Саша"><i>Саш</i><par n="Саш/а__np"/></e>
+	<e lm="Ваня" a="slasher"><i>Ван</i><par n="Саш/а__np"/></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -14464,6 +14473,8 @@
     <e lm="электрический"><i>электрическ</i><par n="английск/ий__adj"/></e>
     <e lm="юридический"><i>юридическ</i><par n="английск/ий__adj"/></e>
     <e lm="японский"><i>японск</i><par n="английск/ий__adj"/></e>
+	<e lm="маленький" a="slasher"><i>маленьк</i><par n="английск/ий__adj"/></e>
+	
 
     <!-- SECTION: Adverbs -->
 
