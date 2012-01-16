@@ -5679,6 +5679,23 @@
     <pardef n="английск/ий__adj">
       <e>       <p><l></l><r>ий<s n="adj"/></r></p><par n="BASE__английск/ий"/></e>
     </pardef>
+	
+	<pardef n="больш/ой__adj" a="slasher">
+      <e>       <p><l></l><r>ой<s n="adj"/></r></p><par n="BASE__больш/ой"/></e>
+    </pardef>
+	
+	<pardef n="счастлив/ый__adj" a="slasher">
+      <e>       <p><l></l><r>ый<s n="adj"/></r></p><par n="BASE__счастлив/ый"/></e>
+    </pardef>
+	
+	<pardef n="стар/ый__adj" a="slasher">
+      <e>       <p><l></l><r>ый<s n="adj"/></r></p><par n="BASE__стар/ый"/></e>
+    </pardef>
+	
+	<pardef n="хорош/ий__adj" a="slasher">
+      <e>       <p><l></l><r>ий<s n="adj"/></r></p><par n="BASE__хорош/ий"/></e>
+    </pardef>
+	
 
     <!-- SECTION: Adverbs -->
 
@@ -15108,6 +15125,7 @@
     <e lm="воспринимать"><i>воспринима</i><par n="веда/ть__vblex_imperf"/></e>
     <e lm="восстановить"><i>восстанов</i><par n="куп/ить__vblex_perf"/></e>
     <e lm="врать"><i>вр</i><par n="вр/ать__vblex_imperf"/></e>
+	<e lm="скушать" a="slasher"><i>скуш</i><par n="закрич/ать__vblex_perf"/></e>
     <e lm="вручить"><i>вруч</i><par n="реш/ить__vblex_perf"/></e>
     <e lm="вскочить"><i>вскоч</i><par n="вскоч/ить__vblex_perf"/></e>
     <e lm="вскричать"><i>вскрич</i><par n="закрич/ать__vblex_perf"/></e>
