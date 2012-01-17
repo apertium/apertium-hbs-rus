@@ -148,6 +148,11 @@
     <e><p><l>u<s n="pr"/></l><r>у<s n="pr"/></r></p></e>
     <e><p><l>kroz<s n="pr"/></l><r>через<s n="pr"/></r></p></e>
     <e><p><l>negledajući<s n="pr"/></l><r>несмотря<s n="pr"/></r></p></e>
+	<e><p><l>ispod<s n="pr"/></l><r>ниже<s n="pr"/></r></p></e>
+	<e><p><l>ispred<s n="pr"/></l><r>спереди<s n="pr"/></r></p></e>
+	<e><p><l>iza<s n="pr"/></l><r>иза<s n="pr"/></r></p></e>
+	<e><p><l>radi<s n="pr"/></l><r>для<s n="pr"/></r></p></e>
+	<e><p><l>s<s n="pr"/></l><r>с<s n="pr"/></r></p></e>
 
 
     <!-- SECTION: Nouns -->
@@ -3568,7 +3573,20 @@
      <e><p><l>kategorijski<s n="adv"/></l><r>категорически<s n="adv"/></r></p></e>	
      <e><p><l>nedovoljno<s n="adv"/></l><r>недовольно<s n="adv"/></r></p></e>	
      <e><p><l>besmisleno<s n="adv"/></l><r>бессмысленно<s n="adv"/></r></p></e>	
-     <e><p><l>natenane<s n="adv"/></l><r>робко<s n="adv"/></r></p></e>	
+     <e><p><l>natenane<s n="adv"/></l><r>робко<s n="adv"/></r></p></e>
+     <e><p><l>blizu<s n="adv"/></l><r>робко<s n="adv"/></r></p></e>
+     <e><p><l>još uvijek<s n="adv"/></l><r>до сих пор<s n="adv"/></r></p></e>
+     <e><p><l>jučer<s n="adv"/></l><r>вчера<s n="adv"/></r></p></e>
+     <e><p><l>kamo<s n="adv"/></l><r>где<s n="adv"/></r></p></e>
+     <e><p><l>naravno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
+     <e><p><l>nikad<s n="adv"/></l><r>никогда<s n="adv"/></r></p></e>
+     <e><p><l>onda<s n="adv"/></l><r>затем<s n="adv"/></r></p></e>
+     <e><p><l>polako<s n="adv"/></l><r>медленно<s n="adv"/></r></p></e>
+     <e><p><l>posvuda<s n="adv"/></l><r>везде<s n="adv"/></r></p></e>
+     <e><p><l>sad<s n="adv"/></l><r>сейчас<s n="adv"/></r></p></e>
+	 <e><p><l>uokolo<s n="adv"/></l><r>около<s n="adv"/></r></p></e>
+     <e><p><l>vani<s n="adv"/></l><r>на улице<s n="adv"/></r></p></e>
+     
      <!-- 400 -->
 
      <!-- SECTION: Verbs -->
@@ -5009,7 +5027,7 @@
 	 <e><p><l>dvadeset<s n="num"/></l><r>двадцать<s n="num"/></r></p></e>
 	 <e><re>oba</re><p><l><s n="num"/>оба</l><r><s n="num"/></r></p></e> 
 	 
-	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="m"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="ma"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="f"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
