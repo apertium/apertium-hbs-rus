@@ -159,8 +159,7 @@
 
     <!-- 0 -->
 	<e><p><l>djevojčica<s n="n"/><s n="f"/></l><r>девочка<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
-	<e><p><l>stol<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-	<e><p><l>sto<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
+	<e><p><l>stol<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e><e><p><l>sto<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
 	<e><p><l>ručica<s n="n"/><s n="f"/></l><r>ручка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
 	<e><p><l>životinja<s n="n"/><s n="f"/></l><r>животное<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>čovjek<s n="n"/><s n="ma"/></l><r>человек<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
@@ -5031,6 +5030,7 @@
 	 <e><p><l>osamnaest<s n="num"/></l><r>восемнадцать<s n="num"/></r></p></e>
 	 <e><p><l>devetnaest<s n="num"/></l><r>девятнадцать<s n="num"/></r></p></e>
 	 <e><p><l>dvadeset<s n="num"/></l><r>двадцать<s n="num"/></r></p></e>
+	 <e><p><l>sto<s n="num"/></l><r>сотня<s n="num"/></r></p></e>
 	 <e><re>oba</re><p><l><s n="num"/>оба</l><r><s n="num"/></r></p></e> 
 	 
 	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="ma"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
