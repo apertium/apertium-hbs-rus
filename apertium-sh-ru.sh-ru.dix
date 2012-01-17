@@ -5036,7 +5036,7 @@
      <e><p><l>eno<s n="part"/></l><r>вон<s n="part"/></r></p></e>
      <e><p><l>li<s n="part"/></l><r>ли<s n="part"/></r></p></e>
      <e><p><l>zbog<s n="pr"/></l><r>из-за<s n="pr"/></r></p></e>
-	 <e><p><l>ništa<s n="pr"/></l><r>ничто<s n="pr"/></r></p></e>
+	 <e><p><l>ništa<s n="pr"/><s n="ind"/></l><r>ничто<s n="pr"/></r></p></e>
 
      <e><p><l>kada<s n="adv"/><s n="itg"/></l><r>когда<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>ne<s n="adv"/></l><r>не<s n="adv"/></r></p></e>
