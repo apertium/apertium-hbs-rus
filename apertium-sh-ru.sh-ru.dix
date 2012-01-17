@@ -5022,8 +5022,8 @@
 
      <e><p><l>taj<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
      <e><p><l>taj<s n="det"/><s n="dem"/></l><r>тот<s n="det"/><s n="dem"/></r></p></e> 
-     <e><p><l>njega<s n="det"/><s n="dem"/></l><r>его<s n="det"/><s n="dem"/></r></p></e>	 
-	 <e><p><l>svoj<s n="det"/><s n="dem"/></l><r>свой<s n="det"/><s n="dem"/></r></p></e>	 
+     <e><p><l>njega<s n="det"/><s n="pos"/></l><r>его<s n="det"/><s n="pos"/></r></p></e>	 
+	 <e><p><l>svoj<s n="det"/><s n="pos"/></l><r>свой<s n="det"/><s n="pos"/></r></p></e>	 
 	 
 	 
      <e><re>[0-9]+([.,][0-9]+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
