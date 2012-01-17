@@ -2327,7 +2327,7 @@
       <e><p>          <l>ах</l><r>но<s n="n"/><s n="nt"/><s n="nn"/><s n="pl"/><s n="prp"/></r></p></e>
     </pardef>
 
-    <pardef n="ус__n_m_nn" a="slasher">
+    <pardef n="ус__n_m_nn"> <!-- a=slasher" -->
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l></l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>а</l><r><s n="n"/><s n="m"/><s n="nn"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -2822,7 +2822,7 @@
       <e><p>          <l>е</l><r>е<s n="n"/><s n="nt"/><s n="aa"/><s n="sg"/><s n="prp"/></r></p></e>
     </pardef>
 
-    <pardef n="вод/а__n_f_nn" a="slasher">
+    <pardef n="вод/а__n_f_nn"> <!-- a="slasher" -->
       <e><p>          <l>а</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p>          <l>у</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p>          <l>ы</l><r>а<s n="n"/><s n="f"/><s n="nn"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -5731,7 +5731,7 @@
       <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="m"/></r></p><par n="BASE__Саш/а"/></e>
     </pardef>
 	
-	<pardef n="Ван/я__np" a="slasher">
+	<pardef n="Ван/я__np"> <!-- a="slasher" -->
       <e>       <p><l></l><r>а<s n="np"/><s n="ant"/><s n="m"/></r></p><par n="BASE__Ван/я"/></e>
     </pardef>
 
@@ -5741,19 +5741,19 @@
       <e>       <p><l></l><r>ий<s n="adj"/></r></p><par n="BASE__английск/ий"/></e>
     </pardef>
 	
-	<pardef n="больш/ой__adj" a="slasher">
+	<pardef n="больш/ой__adj"> <!-- a="slasher" -->
       <e>       <p><l></l><r>ой<s n="adj"/></r></p><par n="BASE__больш/ой"/></e>
     </pardef>
 	
-	<pardef n="счастлив/ый__adj" a="slasher">
+	<pardef n="счастлив/ый__adj"> <!-- a="slasher" -->
       <e>       <p><l></l><r>ый<s n="adj"/></r></p><par n="BASE__счастлив/ый"/></e>
     </pardef>
 	
-	<pardef n="стар/ый__adj" a="slasher">
+	<pardef n="стар/ый__adj"> <!-- a="slasher" -->
       <e>       <p><l></l><r>ый<s n="adj"/></r></p><par n="BASE__счастлив/ый"/></e>
     </pardef>
 	
-	<pardef n="хорош/ий__adj" a="slasher">
+	<pardef n="хорош/ий__adj"> <!-- a="slasher" -->
       <e>       <p><l></l><r>ий<s n="adj"/></r></p><par n="BASE__английск/ий"/></e>
     </pardef>
 	
