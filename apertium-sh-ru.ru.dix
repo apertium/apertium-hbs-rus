@@ -31,6 +31,8 @@
     <sdef n="ins"        c="Instrumental"/>
     <sdef n="prp"        c="Prepositional"/>
 
+    <sdef n="short"      c="Short form adjective"/>
+
     <sdef n="aa"         c="Animate"/>
     <sdef n="an"         c="Animate / inanimate"/>
     <sdef n="nn"         c="Inanimate"/>
@@ -5757,6 +5759,10 @@
 	
 	<pardef n="счастлив/ый__adj"> <!-- a="slasher" -->
       <e>       <p><l></l><r>ый<s n="adj"/></r></p><par n="BASE__счастлив/ый"/></e>
+      <e>       <p><l></l><r>ый<s n="adj"/><s n="short"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>а</l><r>ый<s n="adj"/><s n="short"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>о</l><r>ый<s n="adj"/><s n="short"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ы</l><r>ый<s n="adj"/><s n="short"/><s n="mfn"/><s n="pl"/></r></p></e>
     </pardef>
 	
 	<pardef n="стар/ый__adj"> <!-- a="slasher" -->
@@ -14974,6 +14980,9 @@
     <e lm="следовательно"><i>следовательно</i><par n="здесь__adv"/></e>
 
     <e lm="например"><i>например</i><par n="здесь__adv"/></e>
+    <e lm="ближе"><i>ближе</i><par n="здесь__adv"/></e>
+
+    <e lm="должно"><i>должно</i><par n="здесь__adv"/></e>
 
     <e lm="мм"><i>мм</i><par n="мм__abbr"/></e>
     <e lm="см"><i>см</i><par n="мм__abbr"/></e>
