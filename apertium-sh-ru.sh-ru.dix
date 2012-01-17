@@ -3,6 +3,7 @@
   <sdefs>
     <sdef n="n"       c="Noun"/>
     <sdef n="num"     c="Numeral"/>
+    <sdef n="part"    c=""/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
@@ -22,11 +23,14 @@
     <sdef n="prn"     c=""/>
     <sdef n="cnjcoo"     c=""/>
     <sdef n="dem"     c=""/>
+    <sdef n="itg"     c=""/>
+    <sdef n="pers"     c=""/>
     <sdef n="det"     c=""/>
     <sdef n="AD"      c=""/>
     <sdef n="ND"      c=""/>
     <sdef n="adj"     c=""/>
     <sdef n="vblex"   c=""/>
+    <sdef n="vbmod"   c=""/>
     <sdef n="perf"    c=""/>
     <sdef n="dual"    c=""/>
     <sdef n="imperf"  c=""/>
@@ -34,6 +38,9 @@
     <sdef n="iv"      c=""/>
     <sdef n="ref"     c=""/>
     <sdef n="pr"      c=""/>
+    <sdef n="sent"      c=""/>
+    <sdef n="cm"      c=""/>
+    <sdef n="guio"      c=""/>
   </sdefs>
   <section id="main" type="standard">
     <!-- SECTION: Prepositions -->
@@ -43,11 +50,11 @@
     <e><p><l>pored<s n="pr"/></l><r>близ<s n="pr"/></r></p></e>
     <e><p><l>u<s n="pr"/></l><r>в<s n="pr"/></r></p></e>
     <e><p><l>blizu<s n="pr"/></l><r>вблиз<s n="pr"/></r></p></e>
-    <e><p><l>s obzirom<s n="pr"/></l><r>ввиду<s n="pr"/></r></p></e>
+    <e><p><l>s<b/>obzirom<s n="pr"/></l><r>ввиду<s n="pr"/></r></p></e>
     <e><p><l>duž<s n="pr"/></l><r>вдоль<s n="pr"/></r></p></e>
-    <e><p><l>u zamjenu<s n="pr"/></l><r>взамен<s n="pr"/></r></p></e>
+    <e><p><l>u<b/>zamjenu<s n="pr"/></l><r>взамен<s n="pr"/></r></p></e>
     <e><p><l>uključujući<s n="pr"/></l><r>включая<s n="pr"/></r></p></e>
-    <e><p><l>sa strane<s n="pr"/></l><r>вкось<s n="pr"/></r></p></e>
+    <e><p><l>sa<b/>strane<s n="pr"/></l><r>вкось<s n="pr"/></r></p></e>
     <e><p><l>ukrug<s n="pr"/></l><r>вкруг<s n="pr"/></r></p></e>
     <e><p><l>umjesto<s n="pr"/></l><r>вместо<s n="pr"/></r></p></e>
     <e><p><l>van<s n="pr"/></l><r>вне<s n="pr"/></r></p></e>
@@ -90,7 +97,7 @@
     <e><p><l>niže<s n="pr"/></l><r>ниже<s n="pr"/></r></p></e>
     <e><p><l>o<s n="pr"/></l><r>о<s n="pr"/></r></p></e>
     <e><p><l>o<s n="pr"/></l><r>обо<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>окрест<s n="pr"/></r></p></e>
+    <!--<e><p><l>@<s n="pr"/></l><r>окрест<s n="pr"/></r></p></e>-->
     <e><p><l>oko<s n="pr"/></l><r>округ<s n="pr"/></r></p></e>
 	<e><p><l>uokolo<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
     <e><p><l>okolo<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
@@ -115,16 +122,16 @@
     <e><p><l>prije<s n="pr"/></l><r>прежде<s n="pr"/></r></p></e>
     <e><p><l>u<s n="pr"/></l><r>при<s n="pr"/></r></p></e>
     <e><p><l>o<s n="pr"/></l><r>про<s n="pr"/></r></p></e>
-    <e><p><l>@<s n="pr"/></l><r>промеж<s n="pr"/></r></p></e>
+<!--    <e><p><l>@<s n="pr"/></l><r>промеж<s n="pr"/></r></p></e>-->
     <e><p><l>protiv<s n="pr"/></l><r>против<s n="pr"/></r></p></e>
     <e><p><l>protivno<s n="pr"/></l><r>противно<s n="pr"/></r></p></e>
     <e><p><l>putem<s n="pr"/></l><r>путем<s n="pr"/></r></p></e>
     <e><p><l>zarad<s n="pr"/></l><r>ради<s n="pr"/></r></p></e>
     <e><p><l>sa<s n="pr"/></l><r>с<s n="pr"/></r></p></e>
-    <e><p><l>prema vrhu<s n="pr"/></l><r>сверх<s n="pr"/></r></p></e>
-    <e><p><l>sa vrha<s n="pr"/></l><r>сверху<s n="pr"/></r></p></e>
+    <e><p><l>prema<b/>vrhu<s n="pr"/></l><r>сверх<s n="pr"/></r></p></e>
+    <e><p><l>sa<b/>vrha<s n="pr"/></l><r>сверху<s n="pr"/></r></p></e>
     <e><p><l>više<s n="pr"/></l><r>свыше<s n="pr"/></r></p></e>
-    <e><p><l>sa zada<s n="pr"/></l><r>сзади<s n="pr"/></r></p></e>
+    <e><p><l>sa<b/>zada<s n="pr"/></l><r>сзади<s n="pr"/></r></p></e>
     <e><p><l>kroz<s n="pr"/></l><r>сквозь<s n="pr"/></r></p></e>
     <e><p><l>spolja<s n="pr"/></l><r>снаружи<s n="pr"/></r></p></e>
     <e><p><l>odozdo<s n="pr"/></l><r>снизу<s n="pr"/></r></p></e>
@@ -3562,10 +3569,11 @@
 
      <!-- SECTION: Verbs -->
 
+     <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vbmod"/><s n="dual"/><s n="tv"/></r></p></e>
+
      <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>obožavati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>поклоняться<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>сказать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
      <e><p><l>znati<s n="vblex"/><s n="dual"/><s n="ref"/></l><r>знать<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
      <e><p><l>govoriti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>говорить<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
      <e><p><l>stati<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>стать<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
@@ -5001,70 +5009,84 @@
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
+     <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/></r></p></e>
+     <e><p><l>šta<s n="prn"/><s n="itg"/></l><r>что<s n="prn"/><s n="itg"/></r></p></e>
+
      <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>i<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
+     <e><p><l>a<s n="cnjcoo"/></l><r>а<s n="cnjcoo"/></r></p></e>
+     <e><p><l>no<s n="cnjcoo"/></l><r>но<s n="cnjcoo"/></r></p></e>
 
      <e><p><l>taj<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
+     <e><p><l>taj<s n="det"/><s n="dem"/></l><r>тот<s n="det"/><s n="dem"/></r></p></e>         
 	 
+     <e><re>[0-9]+([.,][0-9]+)</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>     
+     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+     <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
+     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
-а<cnjcoo>а<cnjcoo>
-bježati<vblex><perf><pres><p3><sg>бежать<vblex><perf><pres><p3><sg>
-bliže<adv>ближе<adv>
-брести<vblex><perf><pres><p3><sg>брести<vblex><perf><pres><p3><sg>
-Вана<np><ant><m><sg><nom>Вана<np><ant><m><sg><nom>
-ceo<prn><ind><nt><sg><nom>весь<prn><ind><nt><sg><nom>
-vidjeti<vblex><imperf><past><f><sg>видеть<vblex><imperf><past><f><sg>
-eto<part>вот<part>
-popiti<vblex><perf><inf>выпить<vblex><perf><inf>
-govoriti<vblex><imperf><inf>говорить<vblex><imperf><inf>
-raditi<vblex><imperf><pres><p3><sg>делать<vblex><imperf><pres><p3><sg>
-trebalo<adv>должно<adv>
-razmišljati<vblex><imperf><pres><p3><sg>думать<vblex><imperf><pres><p3><sg>
-njega<det><pos>его<det><pos>
-još<adv>ещё<adv>
-životinja<n><nt><nn><sg><acc>животное<n><nt><nn><sg><acc>
-pogledati<vblex><imperf><pres><p3><sg>заглядывать<vblex><imperf><pres><p3><sg>
-završiti<vblex><perf><past><f><sg>закончить<vblex><perf><past><f><sg>
-zatvoriti<vblex><imperf><pres><p3><sg>закрывать<vblex><imperf><pres><p3><sg>
-znati<vblex><imperf><pres><p2><pl>знать<vblex><imperf><pres><p2><pl>
-igrati<vblex><imperf><inf>играть<vblex><imperf><inf>
-ići<vblex><imperf><pres><p3><pl>идти<vblex><imperf><pres><p3><pl>
-zbog<pr>из-за<pr>
-tražiti<vblex><imperf><pres><p3><sg>искать<vblex><imperf><pres><p3><sg>
-kada<adv><itg>когда<adv><itg>
-konačno<adv>конечно<adv>
-li<part>ли<part>
-ljubiti<vblex><imperf><pres><p3><pl>любить<vblex><imperf><pres><p3><pl>
-moći<vbmod><imperf><past><mfn><pl>мочь<vbmod><imperf><past><mfn><pl>
-naći<vblex><perf><inf>найти<vblex><perf><inf>
-ne<adv>не<adv>
-ništa<prn><ind><nn><m><sg><gen>ничто<prn><ind><nn><m><sg><gen>
-no<cnjcoo>но<cnjcoo>
-sviđati<vblex><imperf><pres><p3><sg>нравиться<vblex><imperf><pres><p3><sg>
-oba<num><m><pl><acc>оба<num><m><pl><acc>
-odgovarati<vblex><imperf><pres><p3><sg>отвечать<vblex><imperf><pres><p3><sg>
-ponavljati<vblex><imperf><pres><p3><sg>повторяться<vblex><imperf><pres><p3><sg>
-prilaziti<vblex><imperf><pres><p3><sg>подходить<vblex><imperf><pres><p3><sg>
-dobijati<vblex><imperf><pres><p3><pl>получать<vblex><imperf><pres><p3><pl>
-skrivati<vblex><imperf><pres><p3><sg>прятаться<vblex><imperf><pres><p3><sg>
-pokušavati<vblex><imperf><pres><p3><sg>пытаться<vblex><imperf><pres><p3><sg>
-svoj<det><pos><f><sg><acc>свой<det><pos><f><sg><acc>
-sjediti<vblex><imperf><pres><p3><sg>сидеть<vblex><imperf><pres><p3><sg>
-ispričati<vblex><perf><inf>сказать<vblex><perf><inf>
-pojesti<vblex><perf><inf>скушать<vblex><perf><inf>
-slušati<vblex><imperf><pres><p3><sg>слушать<vblex><imperf><pres><p3><sg>
-čuti<vblex><imperf><pres><p3><sg>слышаться<vblex><imperf><pres><p3><sg>
-smijati<vblex><imperf><pres><p3><sg>смеяться<vblex><imperf><pres><p3><sg>
-gledati<vblex><imperf><pres><p3><sg>смотреть<vblex><imperf><pres><p3><sg>
-spavati<vblex><imperf><pres><p3><sg>спать<vblex><imperf><pres><p3><sg>
-pitati<vblex><imperf><pres><p3><sg>спрашивать<vblex><imperf><pres><p3><sg>
-računati<vblex><perf><inf>считать<vblex><perf><inf>
-taj<det><dem><nt><sg><acc>тот<det><dem><nt><sg><acc>
-otići<vblex><perf><past><m><sg>уйти<vblex><perf><past><m><sg>
-osmehnuti<vblex><imperf><pres><p3><sg>улыбаться<vblex><imperf><pres><p3><sg>
-umjeti<vblex><imperf><pres><p3><sg>уметь<vblex><imperf><pres><p3><sg>
-htjeti<vbmod><imperf><pres><p3><sg>хотеть<vbmod><imperf><pres><p3><sg>
-šta<prn><itg><nt><sg><nom>что<prn><itg><nt><sg><nom>
-	 
+     <e><p><l>eto<s n="part"/></l><r>вот<s n="part"/></r></p></e>
+     <e><p><l>eno<s n="part"/></l><r>вон<s n="part"/></r></p></e>
+     <e><p><l>li<s n="part"/></l><r>ли<s n="part"/></r></p></e>
+     <e><p><l>zbog<s n="pr"/></l><r>из-за<s n="pr"/></r></p></e>
+
+     <e><p><l>kada<s n="adv"/><s n="itg"/></l><r>когда<s n="adv"/><s n="itg"/></r></p></e>
+     <e><p><l>ne<s n="adv"/></l><r>не<s n="adv"/></r></p></e>
+     <e><p><l>bliže<s n="adv"/></l><r>ближе<s n="adv"/></r></p></e>
+     <e><p><l>trebalo<s n="adv"/></l><r>должно<s n="adv"/></r></p></e>
+     <e><p><l>još<s n="adv"/></l><r>ещё<s n="adv"/></r></p></e>
+     <e><p><l>konačno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
+
   </section>
+
+<!--
+
++ništa<prn><ind><nn><m><sg><gen>ничто<prn><ind><nn><m><sg><gen>
++njega<det><pos>его<det><pos>
++svoj<det><pos><f><sg><acc>свой<det><pos><f><sg><acc>
++ceo<prn><ind><nt><sg><nom>весь<prn><ind><nt><sg><nom>
++životinja<n><nt><nn><sg><acc>животное<n><nt><nn><sg><acc>
++oba<num><m><pl><acc>оба<num><m><pl><acc>
+
++bježati<vblex><perf><pres><p3><sg>бежать<vblex><perf><pres><p3><sg>
++брести<vblex><perf><pres><p3><sg>брести<vblex><perf><pres><p3><sg>
++vidjeti<vblex><imperf><past><f><sg>видеть<vblex><imperf><past><f><sg>
++popiti<vblex><perf><inf>выпить<vblex><perf><inf>
++govoriti<vblex><imperf><inf>говорить<vblex><imperf><inf>
++raditi<vblex><imperf><pres><p3><sg>делать<vblex><imperf><pres><p3><sg>
++razmišljati<vblex><imperf><pres><p3><sg>думать<vblex><imperf><pres><p3><sg>
++pogledati<vblex><imperf><pres><p3><sg>заглядывать<vblex><imperf><pres><p3><sg>
++završiti<vblex><perf><past><f><sg>закончить<vblex><perf><past><f><sg>
++zatvoriti<vblex><imperf><pres><p3><sg>закрывать<vblex><imperf><pres><p3><sg>
++znati<vblex><imperf><pres><p2><pl>знать<vblex><imperf><pres><p2><pl>
++igrati<vblex><imperf><inf>играть<vblex><imperf><inf>
++ići<vblex><imperf><pres><p3><pl>идти<vblex><imperf><pres><p3><pl>
++tražiti<vblex><imperf><pres><p3><sg>искать<vblex><imperf><pres><p3><sg>
++ljubiti<vblex><imperf><pres><p3><pl>любить<vblex><imperf><pres><p3><pl>
++naći<vblex><perf><inf>найти<vblex><perf><inf>
++sviđati<vblex><imperf><pres><p3><sg>нравиться<vblex><imperf><pres><p3><sg>
++odgovarati<vblex><imperf><pres><p3><sg>отвечать<vblex><imperf><pres><p3><sg>
++ponavljati<vblex><imperf><pres><p3><sg>повторяться<vblex><imperf><pres><p3><sg>
++prilaziti<vblex><imperf><pres><p3><sg>подходить<vblex><imperf><pres><p3><sg>
++dobijati<vblex><imperf><pres><p3><pl>получать<vblex><imperf><pres><p3><pl>
++skrivati<vblex><imperf><pres><p3><sg>прятаться<vblex><imperf><pres><p3><sg>
++pokušavati<vblex><imperf><pres><p3><sg>пытаться<vblex><imperf><pres><p3><sg>
++sjediti<vblex><imperf><pres><p3><sg>сидеть<vblex><imperf><pres><p3><sg>
++ispričati<vblex><perf><inf>сказать<vblex><perf><inf>
++pojesti<vblex><perf><inf>скушать<vblex><perf><inf>
++slušati<vblex><imperf><pres><p3><sg>слушать<vblex><imperf><pres><p3><sg>
++čuti<vblex><imperf><pres><p3><sg>слышаться<vblex><imperf><pres><p3><sg>
++smijati<vblex><imperf><pres><p3><sg>смеяться<vblex><imperf><pres><p3><sg>
++gledati<vblex><imperf><pres><p3><sg>смотреть<vblex><imperf><pres><p3><sg>
++spavati<vblex><imperf><pres><p3><sg>спать<vblex><imperf><pres><p3><sg>
++pitati<vblex><imperf><pres><p3><sg>спрашивать<vblex><imperf><pres><p3><sg>
++računati<vblex><perf><inf>считать<vblex><perf><inf>
++otići<vblex><perf><past><m><sg>уйти<vblex><perf><past><m><sg>
++osmehnuti<vblex><imperf><pres><p3><sg>улыбаться<vblex><imperf><pres><p3><sg>
++umjeti<vblex><imperf><pres><p3><sg>уметь<vblex><imperf><pres><p3><sg>
++htjeti<vbmod><imperf><pres><p3><sg>хотеть<vbmod><imperf><pres><p3><sg>
+-->
+
 </dictionary>
+
