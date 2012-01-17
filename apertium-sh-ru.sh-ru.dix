@@ -158,6 +158,10 @@
     <!-- SECTION: Nouns -->
 
     <!-- 0 -->
+	<e><p><l>djevojčica<s n="n"/><s n="f"/></l><r>девочка<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
+	<e><p><l>stol<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
+	<e><p><l>sto<s n="n"/><s n="mi"/></l><r>стол<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
+	<e><p><l>ručica<s n="n"/><s n="f"/></l><r>ручка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
 	<e><p><l>životinja<s n="n"/><s n="f"/></l><r>животное<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>čovjek<s n="n"/><s n="ma"/></l><r>человек<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>godina<s n="n"/><s n="f"/></l><r>год<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -2406,6 +2410,8 @@
   <!-- SECTION: Adjectives -->	
  	
      <e><p><l>malen<s n="adj"/></l><r>маленький<s n="adj"/></r></p></e>
+	 <e><p><l>sretan<s n="adj"/></l><r>счастливый<s n="adj"/></r></p></e>
+	 <e><p><l>drugi<s n="adj"/></l><r>другой<s n="adj"/></r></p></e>
      <e><p><l>velik<s n="adj"/></l><r>большой<s n="adj"/></r></p></e>
      <e><p><l>dobra<s n="adj"/></l><r>хорошая<s n="adj"/></r></p></e>	
      <e><p><l>dužan<s n="adj"/></l><r>должный<s n="adj"/></r></p></e>	
@@ -5034,13 +5040,26 @@
 
      <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/></r></p></e>
      <e><p><l>šta<s n="prn"/><s n="itg"/></l><r>что<s n="prn"/><s n="itg"/></r></p></e>
+	 <e><p><l>zašto<s n="prn"/><s n="itg"/></l><r>зачем<s n="prn"/><s n="itg"/></r></p></e>
+	 <e><p><l>svoj<s n="prn"/><s n="ref"/></l><r>свой<s n="prn"/><s n="ref"/></r></p></e>
      <e><p><l>ceo<s n="prn"/><s n="ind"/></l><r>весь<s n="prn"/><s n="ind"/></r></p></e>
 
      <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
+	 <e><p><l>taj<s n="prn"/><s n="dem"/></l><r>этот<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>i<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
+	 <e><p><l>što<s n="cnjcoo"/></l><r>что<s n="cnjcoo"/></r></p></e>
+	 <e><p><l>i<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
+	 <e><p><l>niti<s n="cnjcoo"/></l><r>ни<s n="cnjcoo"/></r></p></e>
+	 <e><p><l>ali<s n="cnjcoo"/></l><r>однако<s n="cnjcoo"/></r></p></e>
      <e><p><l>a<s n="cnjcoo"/></l><r>а<s n="cnjcoo"/></r></p></e>
      <e><p><l>no<s n="cnjcoo"/></l><r>но<s n="cnjcoo"/></r></p></e>
      <e><p><l>šta<s n="cnjsub"/></l><r>что<s n="cnjsub"/></r></p></e>
+	 <e><p><l>da<s n="cnjsub"/></l><r>что<s n="cnjsub"/></r></p></e>
+	 <e><p><l>gdje<s n="cnjsub"/></l><r>где<s n="cnjsub"/></r></p></e>
+	 <e><p><l>iako<s n="cnjsub"/></l><r>хотя<s n="cnjsub"/></r></p></e>
+	 <e><p><l>kad<s n="cnjsub"/></l><r>когда<s n="cnjsub"/></r></p></e>
+	 <e><p><l>kako<s n="cnjsub"/></l><r>как<s n="cnjsub"/></r></p></e>
+	 <e><p><l>no<s n="cnjsub"/></l><r>но<s n="cnjsub"/></r></p></e>
 
      <e><p><l>taj<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>         
      <e><p><l>taj<s n="det"/><s n="dem"/></l><r>тот<s n="det"/><s n="dem"/></r></p></e> 
@@ -5055,10 +5074,19 @@
      <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
      <e><p><l>eto<s n="part"/></l><r>вот<s n="part"/></r></p></e>
+	 <e><p><l>ne<s n="part"/></l><r>нет<s n="part"/></r></p></e>
+	 <e><p><l>evo<s n="part"/></l><r>тут<s n="part"/></r></p></e>
+	 <e><p><l>da<s n="part"/></l><r>тот<s n="part"/></r></p></e>
      <e><p><l>eno<s n="part"/></l><r>вон<s n="part"/></r></p></e>
      <e><p><l>li<s n="part"/></l><r>ли<s n="part"/></r></p></e>
      <e><p><l>zbog<s n="pr"/></l><r>из-за<s n="pr"/></r></p></e>
 	 <e><p><l>ništa<s n="prn"/><s n="ind"/></l><r>ничто<s n="prn"/><s n="ind"/></r></p></e>
+	 <e><p><l>ništa<s n="prn"/><s n="neg"/></l><r>ничто<s n="prn"/><s n="neg"/></r></p></e>
+	 <e><p><l>nešto<s n="prn"/><s n="ind"/></l><r>нечто<s n="prn"/><s n="ind"/></r></p></e>
+	 <e><p><l>neki<s n="prn"/></l><r>некоторый<s n="prn"/></r></p></e>
+	 <e><p><l>njegov<s n="prn"/><s n="pos"/></l><r>его<s n="prn"/><s n="pos"/></r></p></e>
+	 <e><p><l>njezin<s n="prn"/><s n="pos"/></l><r>ее<s n="prn"/><s n="pos"/></r></p></e>
+	 <e><p><l>njihov<s n="prn"/><s n="pos"/></l><r>их<s n="prn"/><s n="pos"/></r></p></e>
 
      <e><p><l>kada<s n="adv"/><s n="itg"/></l><r>когда<s n="adv"/><s n="itg"/></r></p></e>
      <e><p><l>ne<s n="adv"/></l><r>не<s n="adv"/></r></p></e>
