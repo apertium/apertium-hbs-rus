@@ -24,6 +24,7 @@
     <sdef n="cnjcoo"     c=""/>
     <sdef n="cnjsub"     c=""/>
     <sdef n="dem"     c=""/>
+    <sdef n="neg"     c=""/>
     <sdef n="ind"     c=""/>
     <sdef n="pos"     c=""/>
     <sdef n="itg"     c=""/>
