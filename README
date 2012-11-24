@@ -1,0 +1,8 @@
+To compile rus:
+
+lt-comp lr apertium-sh-ru.ru.dix ru-sh.automorf.bin
+
+Usage:
+
+ echo да | lt-proc ru-sh.automorf.bin 
+
