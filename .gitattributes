@@ -2,8 +2,17 @@
 /Makefile -text
 /README -text
 /UnknownWords -text
+/apertium-sh-ru.ru-sh.lrx -text
 /apertium-sh-ru.ru-sh.rlx -text
+/apertium-sh-ru.ru-sh.t1x -text
+/apertium-sh-ru.ru-sh.t2x -text
+/apertium-sh-ru.ru-sh.t3x -text
+/apertium-sh-ru.ru.acx -text
 /apertium-sh-ru.ru.dix -text
 /apertium-sh-ru.sh-ru.dix -text
+/apertium-sh-ru.sh-ru.lrx -text
+/apertium-sh-ru.sh-ru.t1x -text
+/apertium-sh-ru.sh-ru.t2x -text
+/apertium-sh-ru.sh-ru.t3x -text
 text/story.ru.txt -text svneol=unset#application/octet-stream
 text/story.sh.txt -text
