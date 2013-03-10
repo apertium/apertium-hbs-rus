@@ -10,4 +10,5 @@ all:
 	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t1x ru-sh.t1x.bin
 	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t1x ru-sh.t2x.bin
 	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t3x ru-sh.t3x.bin
+	lt-comp lr apertium-sh-ru.post-sh.dix ru-sh.autopgen.bin
 	apertium-gen-modes modes.xml

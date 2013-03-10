@@ -35,10 +35,12 @@
 
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
       <attr-item tags="acc"/>
       <attr-item tags="dat"/>
       <attr-item tags="ins"/>
       <attr-item tags="loc"/>
+      <attr-item tags="prp"/>
     </def-attr>
   </section-def-attrs>
   <section-def-vars>
@@ -51,6 +53,16 @@
           <let><var n="sntype"/><lit v=""/></let>
           <let><var n="number"/><lit v=""/></let>
     </def-macro>
+    
+    <def-macro n="set_default_case_pattern1" npar="1" c="This is the default case transfer pattern.">
+        <choose>
+            <when> 
+                <test><equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="prp"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let>
+            </when>
+        </choose>
+    </def-macro>
+
   </section-def-macros>
   <section-rules>
   <rule comment="REGLA: nom">
@@ -58,6 +70,9 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
+       <call-macro n="set_default_case_pattern1">
+         <with-param pos="1"/>
+       </call-macro>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>

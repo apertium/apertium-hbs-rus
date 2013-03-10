@@ -8,6 +8,7 @@
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
     <sdef n="mi"      c=""/>
+    <sdef n="vbser"      c=""/>
     <sdef n="f"       c=""/>
     <sdef n="nt"      c=""/>
 
@@ -996,7 +997,7 @@
     <e c="LR default"><p><l>putovanje<s n="n"/><s n="nt"/></l><r>поездка<s n="n"/><s n="f"/><s n="nn"/></r></p></e> <!-- SRD -->
     <e><p><l>rana<s n="n"/><s n="f"/></l><r>рана<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>kanap<s n="n"/><s n="mi"/></l><r>веревка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
-    <e><p><l>vrijeme<s n="n"/><s n="f"/></l><r>погода<s n="n"/><s n="f"/><s n="nn"/></r></p></e><!--Vremenska prognoza -->
+    <e><p><l>vrijeme<s n="n"/><s n="nt"/></l><r>погода<s n="n"/><s n="f"/><s n="nn"/></r></p></e><!--Vremenska prognoza -->
     <e><p><l>pasoš<s n="n"/><s n="mi"/></l><r>паспорт<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>navika<s n="n"/><s n="f"/></l><r>привычка<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>brdo<s n="n"/><s n="nt"/></l><r>холм<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
@@ -3597,6 +3598,8 @@
 
      <!-- SECTION: Verbs -->
 
+     <e><p><l>biti<s n="vbser"/></l><r>быть<s n="vbser"/></r></p></e>
+
      <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vbmod"/><s n="dual"/><s n="tv"/></r></p></e>
 
      <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
@@ -5072,7 +5075,7 @@
     <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>     
      <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
      <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
-     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+     <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
      <e><p><l>eto<s n="part"/></l><r>вот<s n="part"/></r></p></e>
 	 <e><p><l>ne<s n="part"/></l><r>нет<s n="part"/></r></p></e>
