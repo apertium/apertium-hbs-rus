@@ -7,6 +7,11 @@
     <sdef n="np"      c="Proper noun"/>
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
+    <sdef n="mf"      c=""/>
+    <sdef n="p1"      c=""/>
+    <sdef n="p2"      c=""/>
+    <sdef n="p3"      c=""/>
+    <sdef n="mfn"      c=""/>
     <sdef n="mi"      c=""/>
     <sdef n="vbser"      c=""/>
     <sdef n="f"       c=""/>
@@ -42,6 +47,8 @@
     <sdef n="tv"      c=""/>
     <sdef n="iv"      c=""/>
     <sdef n="ref"     c=""/>
+    <sdef n="gen"     c=""/>
+    <sdef n="loc"     c=""/>
     <sdef n="pr"      c=""/>
     <sdef n="sent"      c=""/>
     <sdef n="cm"      c=""/>
@@ -53,7 +60,7 @@
     <e><p><l>bez<s n="pr"/></l><r>без<s n="pr"/></r></p></e>
     <e><p><l>zahvaljujući<s n="pr"/></l><r>благодаря<s n="pr"/></r></p></e>
     <e><p><l>pored<s n="pr"/></l><r>близ<s n="pr"/></r></p></e>
-    <e><p><l>u<s n="pr"/></l><r>в<s n="pr"/></r></p></e>
+    <e><p><l>u<s n="pr"/><s n="loc"/></l><r>в<s n="pr"/></r></p></e>
     <e><p><l>blizu<s n="pr"/></l><r>вблиз<s n="pr"/></r></p></e>
     <e><p><l>s<b/>obzirom<s n="pr"/></l><r>ввиду<s n="pr"/></r></p></e>
     <e><p><l>duž<s n="pr"/></l><r>вдоль<s n="pr"/></r></p></e>
@@ -147,7 +154,7 @@
     <e><p><l>posle<s n="pr"/></l><r>спустя<s n="pr"/></r></p></e>
     <e><p><l>posred<s n="pr"/></l><r>среди<s n="pr"/></r></p></e>
     <e><p><l>naprotiv<s n="pr"/></l><r>супротив<s n="pr"/></r></p></e>
-    <e><p><l>u<s n="pr"/></l><r>у<s n="pr"/></r></p></e>
+    <e><p><l>u<s n="pr"/><s n="gen"/></l><r>у<s n="pr"/></r></p></e>
     <e><p><l>kroz<s n="pr"/></l><r>через<s n="pr"/></r></p></e>
     <e><p><l>negledajući<s n="pr"/></l><r>несмотря<s n="pr"/></r></p></e>
 	<e><p><l>ispod<s n="pr"/></l><r>ниже<s n="pr"/></r></p></e>
@@ -5042,7 +5049,9 @@
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
+     <e><p><l>free<s n="prn"/><s n="pers"/><s n="p1"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/></r></p></e>
      <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/></r></p></e>
+
      <e><p><l>šta<s n="prn"/><s n="itg"/></l><r>что<s n="prn"/><s n="itg"/></r></p></e>
 	 <e><p><l>zašto<s n="prn"/><s n="itg"/></l><r>зачем<s n="prn"/><s n="itg"/></r></p></e>
 	 <e><p><l>svoj<s n="prn"/><s n="ref"/></l><r>свой<s n="prn"/><s n="ref"/></r></p></e>
@@ -5082,7 +5091,7 @@
 	 <e><p><l>evo<s n="part"/></l><r>тут<s n="part"/></r></p></e>
 	 <e><p><l>da<s n="part"/></l><r>тот<s n="part"/></r></p></e>
      <e><p><l>eno<s n="part"/></l><r>вон<s n="part"/></r></p></e>
-     <e><p><l>li<s n="part"/></l><r>ли<s n="part"/></r></p></e>
+     <e><p><l>li<s n="part"/><s n="itg"/></l><r>ли<s n="part"/></r></p></e>
      <e><p><l>zbog<s n="pr"/></l><r>из-за<s n="pr"/></r></p></e>
 	 <e><p><l>ništa<s n="prn"/><s n="ind"/></l><r>ничто<s n="prn"/><s n="ind"/></r></p></e>
 	 <e><p><l>ništa<s n="prn"/><s n="neg"/></l><r>ничто<s n="prn"/><s n="neg"/></r></p></e>
