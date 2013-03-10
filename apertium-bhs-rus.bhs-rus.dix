@@ -3213,7 +3213,7 @@
      <!-- SECTION: Adverbs -->	
  	
      <e><p><l>tako<s n="adv"/></l><r>так<s n="adv"/></r></p></e>	
-     <e><p><l>gdje<s n="adv"/></l><r>где<s n="adv"/></r></p></e>	
+     <e><p><l>gdje<s n="adv"/></l><r>где<s n="adv"/><s n="itg"/></r></p></e>	
      <e><p><l>tamo<s n="adv"/></l><r>там<s n="adv"/></r></p></e>	
      <e><p><l>tu<s n="adv"/></l><r>тут<s n="adv"/></r></p></e>	
      <e><p><l>zatim<s n="adv"/></l><r>потом<s n="adv"/></r></p></e>	
@@ -3611,7 +3611,7 @@
 
      <e><p><l>biti<s n="vbser"/></l><r>быть<s n="vbser"/></r></p></e>
 
-     <e><p><l>moći<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>мочь<s n="vbmod"/><s n="dual"/><s n="tv"/></r></p></e>
+     <e><p><l>moći<s n="vbmod"/></l><r>мочь<s n="vbmod"/><s n="dual"/><s n="tv"/></r></p></e>
 
      <e><p><l>biti<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>быть<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
      <e><p><l>obožavati<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>поклоняться<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
@@ -5049,12 +5049,17 @@
 	 <e><re>oba</re><p><l><s n="num"/>оба</l><r><s n="num"/></r></p></e> 
 	 
 	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="ma"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="f"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="m"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
      <e><p><l>free<s n="prn"/><s n="pers"/><s n="p1"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/></r></p></e>
      <e><p><l>free<s n="prn"/><s n="pers"/><s n="p2"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+     <e r="RL"><p><l>free<s n="prn"/><s n="pers"/><s n="p3"/><s n="GD"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e r="LR"><p><l>free<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e r="LR"><p><l>free<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+     <e r="LR"><p><l>free<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
      <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/></r></p></e>
 
      <e><p><l>šta<s n="prn"/><s n="itg"/></l><r>что<s n="prn"/><s n="itg"/></r></p></e>

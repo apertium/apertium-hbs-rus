@@ -2,16 +2,30 @@
 <!-- -*- nxml -*- -->
 <postchunk>
   <section-def-cats>
+    <def-cat n="vfin-past">
+      <cat-item name="vfin-past"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item name="punt"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
-    <def-attr n="nbr">
-      <attr-item tags="sg"/>
-      <attr-item tags="pl"/>
-      <attr-item tags="sp"/>
-      <attr-item tags="ND"/>
+    <def-attr n="a_gen">
+      <attr-item tags="GD"/>
+      <attr-item tags="mfn"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="m"/>
+      <attr-item tags="ma"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mi"/>
+      <attr-item tags="f"/>
+    </def-attr>
+
+    <def-attr n="a_pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
     </def-attr>
   </section-def-attrs>
   <section-def-vars>
@@ -30,5 +44,53 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="CHUNK:">
+      <pattern>
+        <pattern-item n="vfin-past"/>
+      </pattern>
+      <action>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" part="a_gen"/>
+                <lit-tag v="GD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="2" part="a_gen"/>
+              <lit-tag v="m"/>
+            </let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="1" part="a_pers"/>
+                <lit-tag v="PD"/>
+              </equal>
+            </test>
+            <let>
+              <clip pos="1" part="a_pers"/>
+              <lit-tag v="p3"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+          </lu>
+          <b pos="1"/>
+          <lu>
+            <clip pos="2" part="whole"/>
+          </lu>
+
+        </out>
+      </action>
+    </rule>
+
+
   </section-rules>
 </postchunk>

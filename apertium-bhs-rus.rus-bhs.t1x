@@ -5,14 +5,45 @@
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
+    <def-cat n="verb-past">
+      <cat-item tags="vblex.past.*"/>
+      <cat-item tags="vbser.past.*"/>
+      <cat-item tags="vbmod.past.*"/>
+      <cat-item tags="vbmod.*.*.past.*"/>
+    </def-cat>
+
     <def-cat n="vbser-neg">
       <cat-item tags="vbser.neg.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+
   </section-def-cats>
   <section-def-attrs>
+
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
+    </def-attr>
+
+
+    <def-attr n="aspect">
+      <attr-item tags="perf"/>
+      <attr-item tags="imperf"/>
+    </def-attr>
+
+
+    <def-attr n="trans">
+      <attr-item tags="tv"/>
+      <attr-item tags="iv"/>
+      <attr-item tags="dual"/>
+    </def-attr>
+
 
     <def-attr n="a_neg">
       <attr-item tags="neg"/>
@@ -26,6 +57,17 @@
       <attr-item tags="prn"/>
     </def-attr>
 
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.pst"/> <!-- specifically for non-comp adj in rus -->
+    </def-attr>
+
+    <def-attr n="grau">
+      <attr-item tags="pst"/>
+      <attr-item tags="comp"/>
+      <attr-item tags="sup"/>
+    </def-attr>
+
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -33,6 +75,18 @@
     <def-attr n="a_def">
       <attr-item tags="ind"/>
       <attr-item tags="def"/>
+    </def-attr>
+
+
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="mfn"/>
+      <attr-item tags="ma"/>
+      <attr-item tags="mi"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="GD"/>
     </def-attr>
 
 
@@ -71,9 +125,41 @@
             </when>
         </choose>
     </def-macro>
-
+ 
   </section-def-macros>
   <section-rules>
+
+  <rule comment="REGLA: prn-pers">
+      <pattern>
+        <pattern-item n="prn-pers"/>
+      </pattern>
+      <action>
+       <call-macro n="set_default_case_pattern1">
+         <with-param pos="1"/>
+       </call-macro>
+          <choose>
+            <when> 
+                <test><equal><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="m"/></let>
+            </when>
+        </choose>
+      <out>
+          <chunk name="pron" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
+
   <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
@@ -98,6 +184,38 @@
       </action>
     </rule>
 
+  <rule comment="REGLA: adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+       <call-macro n="set_default_case_pattern1">
+         <with-param pos="1"/>
+       </call-macro>
+          <choose>
+            <when> 
+                <test><equal><clip pos="1" side="sl" part="a_adj"/><lit-tag v="adj"/></equal></test>
+                <let><clip pos="1" side="tl" part="a_adj"/><lit-tag v="adj.pst"/></let>
+            </when>
+        </choose>
+      <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <lit-tag v="ind"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
+
   <rule comment="REGLA: vbser-neg">
       <pattern>
         <pattern-item n="vbser-neg"/>
@@ -116,6 +234,52 @@
             <b/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
+
+  <rule comment="REGLA: verb-past">
+      <pattern>
+        <pattern-item n="verb-past"/>
+      </pattern>
+      <action>
+    <choose>
+            <when> 
+                <and>
+                <test><equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></test>
+                <test><equal><clip pos="1" side="sl" part="a_gen"/><lit-tag v="mfn"/></equal></test>
+                </and>
+                <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></let>
+            </when>
+        </choose>
+
+        <out>
+          <chunk name="vfin-past" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV.past.PD"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="biti"/>
+              <lit-tag v="vbser.pres.3.5"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="aspect"/>
+              <clip pos="1" side="tl" part="trans"/>
+              <lit-tag v="lp"/>
+              <clip pos="1" side="tl" part="a_gen" link-to="4"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="5"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
