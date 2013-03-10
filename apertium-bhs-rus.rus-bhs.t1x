@@ -251,10 +251,12 @@
       <action>
     <choose>
             <when> 
+                <test>
                 <and>
-                <test><equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></test>
-                <test><equal><clip pos="1" side="sl" part="a_gen"/><lit-tag v="mfn"/></equal></test>
+                <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
+                <equal><clip pos="1" side="sl" part="a_gen"/><lit-tag v="mfn"/></equal>
                 </and>
+                </test>
                 <let><clip pos="1" side="tl" part="a_gen"/><lit-tag v="GD"/></let>
             </when>
         </choose>
