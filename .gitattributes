@@ -2,6 +2,7 @@
 /Makefile -text
 /README -text
 /UnknownWords -text
+/apertium-sh-ru.post-sh.dix -text
 /apertium-sh-ru.ru-sh.lrx -text
 /apertium-sh-ru.ru-sh.rlx -text
 /apertium-sh-ru.ru-sh.t1x -text
