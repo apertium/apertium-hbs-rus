@@ -5049,7 +5049,7 @@
 	 <e><re>oba</re><p><l><s n="num"/>оба</l><r><s n="num"/></r></p></e> 
 	 
 	 <e><p><l>Ivica<s n="np"/><s n="ant"/><s n="ma"/></l><r>Ивица<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="m"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+	 <e><p><l>Vanja<s n="np"/><s n="ant"/><s n="ma"/></l><r>Ваня<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 	 <e><p><l>Marica<s n="np"/><s n="ant"/><s n="f"/></l><r>Марица<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
