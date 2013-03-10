@@ -1,172 +1,172 @@
 <modes>
-  <mode name="ru-sh-morph">
+  <mode name="rus-bhs-morph">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="ru-sh-disam">
+  <mode name="rus-bhs-disam">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
-  <mode name="ru-sh-tagger">
+  <mode name="rus-bhs-tagger">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
-  <mode name="ru-sh-biltrans">
+  <mode name="rus-bhs-biltrans">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
-  <mode name="ru-sh-lextor">
+  <mode name="rus-bhs-lextor">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="ru-sh.autolex.bin"/>
+        <file name="rus-bhs.autolex.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="ru-sh-chunker">
+  <mode name="rus-bhs-chunker">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="ru-sh.autolex.bin"/>
+        <file name="rus-bhs.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-sh-ru.ru-sh.t1x"/>
-        <file name="ru-sh.t1x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t1x"/>
+        <file name="rus-bhs.t1x.bin"/>
       </program>
     </pipeline>
   </mode>
-  <mode name="ru-sh-interchunk">
+  <mode name="rus-bhs-interchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="ru-sh.autolex.bin"/>
+        <file name="rus-bhs.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-sh-ru.ru-sh.t1x"/>
-        <file name="ru-sh.t1x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t1x"/>
+        <file name="rus-bhs.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-sh-ru.ru-sh.t2x"/>
-        <file name="ru-sh.t2x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t2x"/>
+        <file name="rus-bhs.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
-  <mode name="ru-sh-postchunk">
+  <mode name="rus-bhs-postchunk">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="ru-sh.autolex.bin"/>
+        <file name="rus-bhs.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-sh-ru.ru-sh.t1x"/>
-        <file name="ru-sh.t1x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t1x"/>
+        <file name="rus-bhs.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-sh-ru.ru-sh.t2x"/>
-        <file name="ru-sh.t2x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t2x"/>
+        <file name="rus-bhs.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-sh-ru.ru-sh.t3x"/>
-        <file name="ru-sh.t3x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t3x"/>
+        <file name="rus-bhs.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
-  <mode name="ru-sh">
+  <mode name="rus-bhs">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="ru-sh.automorf.bin"/>
+        <file name="rus-bhs.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
-        <file name="ru-sh.rlx.bin"/>
+        <file name="rus-bhs.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="ru-sh.autobil.bin"/>
+        <file name="rus-bhs.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="ru-sh.autolex.bin"/>
+        <file name="rus-bhs.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-sh-ru.ru-sh.t1x"/>
-        <file name="ru-sh.t1x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t1x"/>
+        <file name="rus-bhs.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-sh-ru.ru-sh.t2x"/>
-        <file name="ru-sh.t2x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t2x"/>
+        <file name="rus-bhs.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-sh-ru.ru-sh.t3x"/>
-        <file name="ru-sh.t3x.bin"/>
+        <file name="apertium-bhs-rus.rus-bhs.t3x"/>
+        <file name="rus-bhs.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
-        <file name="ru-sh.autogen.bin"/>
+        <file name="rus-bhs.autogen.bin"/>
       </program>
       
     </pipeline>
