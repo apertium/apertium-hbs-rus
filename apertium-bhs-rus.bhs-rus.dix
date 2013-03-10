@@ -9,7 +9,9 @@
     <sdef n="ma"      c=""/>
     <sdef n="ij"      c=""/>
     <sdef n="pl"      c=""/>
+    <sdef n="sg"      c=""/>
     <sdef n="mf"      c=""/>
+    <sdef n="lp"      c=""/>
     <sdef n="p1"      c=""/>
     <sdef n="p2"      c=""/>
     <sdef n="p3"      c=""/>
@@ -5060,7 +5062,7 @@
 	 <e><p><l>svoj<s n="prn"/><s n="ref"/></l><r>свой<s n="prn"/><s n="ref"/></r></p></e>
      <e><p><l>ceo<s n="prn"/><s n="ind"/></l><r>весь<s n="prn"/><s n="ind"/></r></p></e>
 
-     <e><p><l>to<s n="prn"/><s n="dem"/></l><r>это<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>taj<s n="prn"/><s n="dem"/><s n="nt"/></l><r>это<s n="prn"/><s n="dem"/><s n="nt"/></r></p></e>
 	 <e><p><l>taj<s n="prn"/><s n="dem"/></l><r>этот<s n="prn"/><s n="dem"/></r></p></e>
      <e><p><l>i<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
 	 <e><p><l>što<s n="cnjcoo"/></l><r>что<s n="cnjcoo"/></r></p></e>
@@ -5105,9 +5107,9 @@
 	 <e><p><l>njihov<s n="prn"/><s n="pos"/></l><r>их<s n="prn"/><s n="pos"/></r></p></e>
 
      <e><p><l>kada<s n="adv"/><s n="itg"/></l><r>когда<s n="adv"/><s n="itg"/></r></p></e>
-     <e><p><l>ne<s n="adv"/></l><r>не<s n="adv"/></r></p></e>
+     <e><p><l>ne<s n="part"/><s n="neg"/></l><r>не<s n="adv"/></r></p></e>
      <e><p><l>bliže<s n="adv"/></l><r>ближе<s n="adv"/></r></p></e>
-     <e><p><l>trebalo<s n="adv"/></l><r>должно<s n="adv"/></r></p></e>
+     <e><p><l>trebalo<s n="vbmod"/><s n="lp"/><s n="nt"/><s n="sg"/></l><r>должно<s n="adv"/></r></p></e>
      <e><p><l>još<s n="adv"/></l><r>ещё<s n="adv"/></r></p></e>
      <e><p><l>konačno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
 
