@@ -318,7 +318,7 @@ SELECT NP-HEAD + Nom + $$NUMBER IF (0 NOM-OR-ACC) (*1C V-FIN + $$NUMBER BARRIER 
 REMOVE NP-HEAD + Nom IF (*-1C Pron + Pers + Nom BARRIER S-BOUNDARY) ;
     ## Там он принялся изучать русский язык.
 
-REMOVE Interj IF (NOT 1* ("!") BARRIER S-BOUNDARY) ;
+REMOVE Interj IF (NOT 1* ("!") BARRIER S-BOUNDARY) (NOT -1 ("<?>")) (NOT -1 BOS);
     ## Если же верить, однако, сообщениям в газетах от 29 ноября, человеческих жертв удалось избежать. 
     ## Однако этим он не окончил свою политическую деятельность. 
 
@@ -332,3 +332,4 @@ SELECT ("год") (0C ("год") OR ("лето")) (-1C Num) ;
 
 SELECT Pr (0 ("включая")) ;
     ## В городе действует 17 библиотек, включая 8 детских.
+

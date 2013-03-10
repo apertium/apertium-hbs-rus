@@ -5,11 +5,20 @@
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
+    <def-cat n="vbser-neg">
+      <cat-item tags="vbser.neg.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
+
+    <def-attr n="a_neg">
+      <attr-item tags="neg"/>
+    </def-attr>
+
+
     <def-attr n="a_prn">
       <attr-item tags="prn.pers"/>
       <attr-item tags="prn.subj"/>
@@ -88,6 +97,34 @@
         </call-macro>
       </action>
     </rule>
+
+  <rule comment="REGLA: vbser-neg">
+      <pattern>
+        <pattern-item n="vbser-neg"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <out>
+          <chunk name="ser" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="Vcop.NEG"/></tag>
+            </tags>
+            <lu>
+              <lit v="ne"/>
+              <lit-tag v="part.neg"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <call-macro n="reset-vars1">
+          <with-param pos="1"/>
+        </call-macro>
+      </action>
+    </rule>
+
 
   </section-rules>
 </transfer>

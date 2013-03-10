@@ -7,6 +7,7 @@
     <sdef n="np"      c="Proper noun"/>
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
+    <sdef n="ij"      c=""/>
     <sdef n="pl"      c=""/>
     <sdef n="mf"      c=""/>
     <sdef n="p1"      c=""/>
@@ -5110,6 +5111,8 @@
      <e><p><l>još<s n="adv"/></l><r>ещё<s n="adv"/></r></p></e>
      <e><p><l>konačno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
 
+     <!-- SECTION: Interjections -->
+     <e><p><l>ne<s n="part"/><s n="neg"/></l><r>нет<s n="ij"/></r></p></e>
   </section>
 
 <!--
