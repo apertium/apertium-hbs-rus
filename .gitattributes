@@ -7,13 +7,14 @@
 /apertium-bhs-rus.bhs-rus.t1x -text
 /apertium-bhs-rus.bhs-rus.t2x -text
 /apertium-bhs-rus.bhs-rus.t3x -text
-/apertium-bhs-rus.post-sh.dix -text
-/apertium-bhs-rus.ru.acx -text
-/apertium-bhs-rus.ru.dix -text
+/apertium-bhs-rus.post-bhs.dix -text
 /apertium-bhs-rus.rus-bhs.lrx -text
 /apertium-bhs-rus.rus-bhs.rlx -text
 /apertium-bhs-rus.rus-bhs.t1x -text
 /apertium-bhs-rus.rus-bhs.t2x -text
 /apertium-bhs-rus.rus-bhs.t3x -text
-text/story.ru.txt -text svneol=unset#application/octet-stream
-text/story.sh.txt -text
+/apertium-bhs-rus.rus.acx -text
+/apertium-bhs-rus.rus.dix -text
+/modes.xml -text
+text/story.bhs.txt -text
+text/story.rus.txt -text svneol=unset#application/octet-stream

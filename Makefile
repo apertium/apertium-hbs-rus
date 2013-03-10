@@ -1,14 +1,14 @@
 all:
-	apertium-validate-dictionary apertium-sh-ru.sh-ru.dix
-	lt-comp lr apertium-sh-ru.sh-ru.dix sh-ru.autobil.bin
-	lt-comp rl apertium-sh-ru.sh-ru.dix ru-sh.autobil.bin
-	apertium-validate-dictionary apertium-sh-ru.ru.dix
-	lt-comp lr apertium-sh-ru.ru.dix ru-sh.automorf.bin apertium-sh-ru.ru.acx
-	lt-comp rl apertium-sh-ru.ru.dix sh-ru.autogen.bin
-	cg-comp apertium-sh-ru.ru-sh.rlx ru-sh.rlx.bin
-	lrx-comp apertium-sh-ru.ru-sh.lrx ru-sh.autolex.bin
-	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t1x ru-sh.t1x.bin
-	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t1x ru-sh.t2x.bin
-	apertium-preprocess-transfer apertium-sh-ru.ru-sh.t3x ru-sh.t3x.bin
-	lt-comp lr apertium-sh-ru.post-sh.dix ru-sh.autopgen.bin
+	apertium-validate-dictionary apertium-bhs-rus.bhs-rus.dix
+	lt-comp lr apertium-bhs-rus.bhs-rus.dix bhs-rus.autobil.bin
+	lt-comp rl apertium-bhs-rus.bhs-rus.dix rus-bhs.autobil.bin
+	apertium-validate-dictionary apertium-bhs-rus.rus.dix
+	lt-comp lr apertium-bhs-rus.rus.dix rus-bhs.automorf.bin apertium-bhs-rus.rus.acx
+	lt-comp rl apertium-bhs-rus.rus.dix bhs-rus.autogen.bin
+	cg-comp apertium-bhs-rus.rus-bhs.rlx rus-bhs.rlx.bin
+	lrx-comp apertium-bhs-rus.rus-bhs.lrx rus-bhs.autolex.bin
+	apertium-preprocess-transfer apertium-bhs-rus.rus-bhs.t1x rus-bhs.t1x.bin
+	apertium-preprocess-transfer apertium-bhs-rus.rus-bhs.t1x rus-bhs.t2x.bin
+	apertium-preprocess-transfer apertium-bhs-rus.rus-bhs.t3x rus-bhs.t3x.bin
+	lt-comp lr apertium-bhs-rus.post-bhs.dix rus-bhs.autopgen.bin
 	apertium-gen-modes modes.xml
