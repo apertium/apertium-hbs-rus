@@ -7,6 +7,7 @@
     <sdef n="np"      c="Proper noun"/>
     <sdef n="m"       c=""/>
     <sdef n="ma"      c=""/>
+    <sdef n="pl"      c=""/>
     <sdef n="mf"      c=""/>
     <sdef n="p1"      c=""/>
     <sdef n="p2"      c=""/>
@@ -5050,6 +5051,7 @@
      <e><p><l>Maša<s n="np"/><s n="ant"/><s n="f"/></l><r>Маша<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
      <e><p><l>free<s n="prn"/><s n="pers"/><s n="p1"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/></r></p></e>
+     <e><p><l>free<s n="prn"/><s n="pers"/><s n="p2"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
      <e><p><l>free<s n="prn"/><s n="pers"/></l><r>prpers<s n="prn"/><s n="pers"/></r></p></e>
 
      <e><p><l>šta<s n="prn"/><s n="itg"/></l><r>что<s n="prn"/><s n="itg"/></r></p></e>
