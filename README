@@ -1,8 +1,8 @@
-To compile rus:
+To compile russ:
 
-lt-comp lr apertium-sh-ru.ru.dix ru-sh.automorf.bin
+lt-comp lr apertium-bhs-rus.rus.dix rus-bhs.automorf.bin
 
 Usage:
 
- echo да | lt-proc ru-sh.automorf.bin 
+ echo да | lt-proc rus-bhs.automorf.bin 
 
