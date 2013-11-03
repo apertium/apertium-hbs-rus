@@ -510,7 +510,7 @@ SELECT:IsThereASubject? Lp + $$GENDER + $$NUMBER IF
 # If it's not already disambiguated for plural via adjectives, it's most likely singular
 #REMOVE:PropNounSingular Prop + Plural;
 
-REMOVE Num IF (-2 BOS) (-1 Ant) (0 CC OR Num) (1 Ant) (2 V-FIN + Plural);
+REMOVE Num IF (-2 BOS) (-1 Ant + Nom) (0 CC OR Num) (1 Ant + Nom) (2 V-FIN + Plural);
     ## Marica i Ivica su u vrtu.
 
 SECTION
