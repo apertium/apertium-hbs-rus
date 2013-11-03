@@ -1,5 +1,9 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
 /README -text
 /UnknownWords -text
 /apertium-hbs-rus.hbs-rus.dix -text
@@ -15,6 +19,8 @@
 /apertium-hbs-rus.rus-hbs.t3x -text
 /apertium-hbs-rus.rus.acx -text
 /apertium-hbs-rus.rus.dix -text
+/autogen.sh -text
+/configure.ac -text
 /modes.xml -text
-text/story.bhs.txt -text
+text/story.hbs.txt -text
 text/story.rus.txt -text svneol=unset#application/octet-stream
