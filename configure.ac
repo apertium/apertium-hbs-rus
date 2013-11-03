@@ -4,8 +4,8 @@
 
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-rus-ukr], [0.0.1], [foo@foo.com])
-AM_INIT_AUTOMAKE([apertium-rus-ukr], [0.0.1], no-define)
+AC_INIT([apertium-hbs-rus], [0.1.0], [foo@foo.com])
+AM_INIT_AUTOMAKE([apertium-hbs-rus], [0.1.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 AC_CONFIG_HEADER([config])
