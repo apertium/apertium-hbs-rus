@@ -21,7 +21,6 @@
 /apertium-hbs-rus.rus-hbs_SR.lrx -text
 /autogen.sh -text
 /configure.ac -text
-/hbs-rus.prob -text
 /modes.xml -text
 text/story.hbs.txt -text
 text/story.rus.txt -text svneol=unset#application/octet-stream
