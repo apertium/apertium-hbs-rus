@@ -63,9 +63,8 @@ $(PREFIX2c).autolex.bin: $(BASENAME).$(PREFIX2c).lrx
 $(BASENAME).$(LANG1).dix: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).metadix
 	xsltproc --stringparam alt $(LANG1) --stringparam var $(VAR1) alt.xsl $(AP_SRC1)/apertium-$(LANG1).$(LANG1).metadix >$@ 
 
-$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
-#	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
-	lt-comp lr $(BASENAME).$(LANG1).dix $@ $(AP_SRC1)/apertium-$(LANG1).$(LANG1).acx
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $^ $@
 
 $(PREFIX1).autogen.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).dix
 #	apertium-validate-dictionary $<
@@ -104,9 +103,8 @@ $(PREFIX2c).autopgen.bin: $(AP_SRC1)/apertium-$(LANG1).post-$(LANG1).dix
 	apertium-validate-dictionary .deps/post-$(LANG1c).dix
 	lt-comp lr .deps/post-$(LANG1c).dix $@ 
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).dix
-	apertium-validate-dictionary $<
-	lt-comp lr $< $@ $(AP_SRC2)/apertium-$(LANG2).$(LANG2).acx
+$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+	lt-trim $^ $@
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix

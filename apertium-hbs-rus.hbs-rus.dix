@@ -3213,7 +3213,7 @@
      <!-- SECTION: Adverbs -->	
  	
      <e><p><l>tako<s n="adv"/></l><r>так<s n="adv"/></r></p></e>	
-     <e><p><l>gdje<s n="adv"/></l><r>где<s n="adv"/><s n="itg"/></r></p></e>	
+     <e><p><l>gdje<s n="adv"/><s n="itg"/></l><r>где<s n="adv"/><s n="itg"/></r></p></e>	
      <e><p><l>tamo<s n="adv"/></l><r>там<s n="adv"/></r></p></e>	
      <e><p><l>tu<s n="adv"/></l><r>тут<s n="adv"/></r></p></e>	
      <e><p><l>zatim<s n="adv"/></l><r>потом<s n="adv"/></r></p></e>	
@@ -5078,7 +5078,6 @@
      <e><p><l>no<s n="cnjcoo"/></l><r>но<s n="cnjcoo"/></r></p></e>
      <e><p><l>šta<s n="cnjsub"/></l><r>что<s n="cnjsub"/></r></p></e>
 	 <e><p><l>da<s n="cnjsub"/></l><r>что<s n="cnjsub"/></r></p></e>
-	 <e><p><l>gdje<s n="cnjsub"/></l><r>где<s n="cnjsub"/></r></p></e>
 	 <e><p><l>iako<s n="cnjsub"/></l><r>хотя<s n="cnjsub"/></r></p></e>
 	 <e><p><l>kad<s n="cnjsub"/></l><r>когда<s n="cnjsub"/></r></p></e>
 	 <e><p><l>kako<s n="cnjsub"/></l><r>как<s n="cnjsub"/></r></p></e>
