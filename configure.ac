@@ -62,6 +62,10 @@ then
   AC_MSG_ERROR([You don't have lrx-proc installed.])
 fi
 
+AP_CHECK_LING([1], [apertium-hbs])
+AP_CHECK_LING([2], [apertium-rus])
+
+
 
   
 AC_OUTPUT([Makefile])

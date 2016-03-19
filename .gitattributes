@@ -12,10 +12,6 @@
 /apertium-hbs-rus.hbs-rus.t1x -text
 /apertium-hbs-rus.hbs-rus.t2x -text
 /apertium-hbs-rus.hbs-rus.t3x -text
-/apertium-hbs-rus.hbs.acx -text
-/apertium-hbs-rus.hbs.metadix -text
-/apertium-hbs-rus.post-hbs.dix -text
-/apertium-hbs-rus.post-rus.dix -text
 /apertium-hbs-rus.rus-hbs.rlx -text
 /apertium-hbs-rus.rus-hbs.t1x -text
 /apertium-hbs-rus.rus-hbs.t2x -text
@@ -23,8 +19,6 @@
 /apertium-hbs-rus.rus-hbs_BS.lrx -text
 /apertium-hbs-rus.rus-hbs_HR.lrx -text
 /apertium-hbs-rus.rus-hbs_SR.lrx -text
-/apertium-hbs-rus.rus.acx -text
-/apertium-hbs-rus.rus.dix -text
 /autogen.sh -text
 /configure.ac -text
 /hbs-rus.prob -text

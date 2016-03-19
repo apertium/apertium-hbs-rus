@@ -150,7 +150,7 @@
       <program name="lt-proc -b">
         <file name="rus-hbs.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="rus-hbs_HR.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -186,7 +186,7 @@
       <program name="lt-proc -b">
         <file name="rus-hbs.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="rus-hbs_BS.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -222,7 +222,7 @@
       <program name="lt-proc -b">
         <file name="rus-hbs.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="rus-hbs_SR.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -312,7 +312,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
     </pipeline>
@@ -331,7 +331,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -354,7 +354,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -381,7 +381,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -411,7 +411,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -445,7 +445,7 @@
       <program name="lt-proc -b">
         <file name="hbs-rus.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="hbs-rus.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
