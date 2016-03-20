@@ -250,7 +250,7 @@
     <e><p><l>mjesec<s n="n"/><s n="mi"/></l><r>месяц<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
     <e><p><l>tijelo<s n="n"/><s n="nt"/></l><r>тело<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>jezik<s n="n"/><s n="mi"/></l><r>язык<s n="n"/><s n="m"/><s n="nn"/></r></p></e>
-    <e><p><l>mama<s n="n"/><s n="f"/></l><r>мама<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
+    <e><p><l>mama<s n="n"/><s n="f"/></l><r>мама<s n="n"/><s n="f"/><s n="aa"/></r></p></e>
     <e><p><l>starac<s n="n"/><s n="ma"/></l><r>старик<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>smrt<s n="n"/><s n="f"/></l><r>смерть<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
     <e><p><l>vlast<s n="n"/><s n="f"/></l><r>власть<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
@@ -2388,6 +2388,7 @@
     <e><p><l>saveznik<s n="n"/><s n="ma"/></l><r>союзник<s n="n"/><s n="m"/><s n="aa"/></r></p></e>
     <e><p><l>mršavko<s n="n"/><s n="mi"/></l><r>худо<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
     <e><p><l>lakoća<s n="n"/><s n="f"/></l><r>легкость<s n="n"/><s n="f"/><s n="nn"/></r></p></e>
+    <e><p><l>godina<s n="n"/><s n="f"/></l><r>лет<s n="n"/><s n="nt"/><s n="nn"/></r></p></e>
 
 
   <!-- SECTION: Proper nouns-->	
@@ -3628,7 +3629,7 @@
      <e><p><l>razmišljati<s n="vblex"/><s n="impf"/><s n="iv"/></l><r>думать<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>pitati<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>спросить<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
      <e><p><l>živjeti<s n="vblex"/><s n="dual"/><s n="iv"/></l><r>жить<s n="vblex"/><s n="dual"/><s n="iv"/></r></p></e>
-     <e><p><l>gledati<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>смотреть<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
+     <e><p><l>gledati<s n="vblex"/><s n="dual"/><s n="tv"/></l><r>смотреть<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>imati<s n="vblex"/><s n="impf"/><s n="tv"/></l><r>иметь<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>shvatiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>понять<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
      <e><p><l>sjedjeti<s n="vblex"/><s n="impf"/><s n="iv"/></l><r>сидеть<s n="vblex"/><s n="impf"/><s n="iv"/></r></p></e>
@@ -5024,6 +5025,9 @@
      <e><p><l>predvoditi<s n="vblex"/><s n="impf"/><s n="tv"/></l><r>возглавлять<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>otkačiti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>откинуться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>družiti<s n="vblex"/><s n="impf"/><s n="ref"/></l><r>дружить<s n="vblex"/><s n="impf"/><s n="ref"/></r></p></e>
+     <e><p><l>računati<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>считать<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
+
+     
      <!-- 1600 -->
 	 <!-- Numbers -->
 	 <e><p><l>jedan<s n="num"/></l><r>один<s n="num"/></r></p></e>
@@ -5116,7 +5120,7 @@
      <e><p><l>bliže<s n="adv"/></l><r>ближе<s n="adv"/></r></p></e>
      <e><p><l>trebalo<s n="vbmod"/><s n="lp"/><s n="nt"/><s n="sg"/></l><r>должно<s n="adv"/></r></p></e>
      <e><p><l>još<s n="adv"/></l><r>ещё<s n="adv"/></r></p></e>
-     <e><p><l>konačno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
+     <e><p><l>naravno<s n="adv"/></l><r>конечно<s n="adv"/></r></p></e>
 
      <!-- SECTION: Interjections -->
      <e><p><l>ne<s n="part"/><s n="neg"/></l><r>нет<s n="ij"/></r></p></e>
