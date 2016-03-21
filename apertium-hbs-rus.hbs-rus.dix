@@ -123,6 +123,7 @@
     <e><p><l>oko<s n="pr"/><s n="gen"/></l><r>округ<s n="pr"/></r></p></e>
 	<e><p><l>uokolo<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
     <e><p><l>okolo<s n="pr"/><s n="gen"/></l><r>около<s n="pr"/></r></p></e>
+    <e><p><l>okolo<s n="pr"/><s n="nom"/></l><r>около<s n="pr"/></r></p></e>
     <e><p><l>od<s n="pr"/><s n="gen"/></l><r>от<s n="pr"/></r></p></e>
     <e><p><l>pred<s n="pr"/><s n="ins"/></l><r>перед<s n="pr"/></r></p></e>
     <e><p><l>pred<s n="pr"/><s n="acc"/></l><r>перед<s n="pr"/></r></p></e>
@@ -130,7 +131,6 @@
     <e><p><l>po<s n="pr"/></l><r>по<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>по<s n="pr"/></r></p></e>
     <e><p><l>povrh<s n="pr"/><s n="gen"/></l><r>поверх<s n="pr"/></r></p></e>
-    <e><p><l>pod<s n="pr"/></l><r>под<s n="pr"/></r></p></e>
     <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>подле<s n="pr"/></r></p></e>
     <e><p><l>slično<s n="pr"/><s n="dat"/></l><r>подобно<s n="pr"/></r></p></e>
     <e><p><l>pozadi<s n="pr"/></l><r>позади<s n="pr"/></r></p></e>
@@ -228,6 +228,10 @@
 	<e><p><l>umesto<s n="pr"/><s n="gen"/></l><r>вместо<s n="pr"/></r></p></e>
 	<e><p><l>uprkos<s n="pr"/><s n="gen"/></l><r>несмотря на<s n="pr"/></r></p></e>
 	<e><p><l>uprkos<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
+
+<e><p><l>kog<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
+<e><p><l>uz<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
+
 
 
 
