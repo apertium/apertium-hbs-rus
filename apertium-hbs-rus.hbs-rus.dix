@@ -51,121 +51,184 @@
     <sdef n="tv"      c=""/>
     <sdef n="iv"      c=""/>
     <sdef n="ref"     c=""/>
-    <sdef n="gen"     c=""/>
-    <sdef n="loc"     c=""/>
     <sdef n="pr"      c=""/>
     <sdef n="sent"      c=""/>
     <sdef n="cm"      c=""/>
     <sdef n="guio"      c=""/>
+    <sdef n="nom"      c=""/>
+    <sdef n="gen"     c=""/>
+    <sdef n="dat"      c=""/>
+    <sdef n="acc"      c=""/>
+    <sdef n="loc"      c=""/>
+    <sdef n="ins"      c=""/>
   </sdefs>
   <section id="main" type="standard">
     <!-- SECTION: Prepositions -->
 
-    <e><p><l>bez<s n="pr"/></l><r>без<s n="pr"/></r></p></e>
-    <e><p><l>zahvaljujući<s n="pr"/></l><r>благодаря<s n="pr"/></r></p></e>
-    <e><p><l>pored<s n="pr"/></l><r>близ<s n="pr"/></r></p></e>
+    <e><p><l>bez<s n="pr"/><s n="gen"/></l><r>без<s n="pr"/></r></p></e>
+    <e><p><l>zahvaljujući<s n="pr"/><s n="dat"/></l><r>благодаря<s n="pr"/></r></p></e>
+    <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>близ<s n="pr"/></r></p></e>
     <e><p><l>u<s n="pr"/><s n="loc"/></l><r>в<s n="pr"/></r></p></e>
-    <e><p><l>blizu<s n="pr"/></l><r>вблиз<s n="pr"/></r></p></e>
-    <e><p><l>s<b/>obzirom<s n="pr"/></l><r>ввиду<s n="pr"/></r></p></e>
-    <e><p><l>duž<s n="pr"/></l><r>вдоль<s n="pr"/></r></p></e>
+    <e><p><l>blizu<s n="pr"/><s n="gen"/></l><r>вблиз<s n="pr"/></r></p></e>
+    <e><p><l>s<b/>obzirom<s n="pr"/><s n="acc"/></l><r>ввиду<s n="pr"/></r></p></e>
+    <e><p><l>duž<s n="pr"/><s n="gen"/></l><r>вдоль<s n="pr"/></r></p></e>
     <e><p><l>u<b/>zamjenu<s n="pr"/></l><r>взамен<s n="pr"/></r></p></e>
-    <e><p><l>uključujući<s n="pr"/></l><r>включая<s n="pr"/></r></p></e>
+    <e><p><l>uključujući<s n="pr"/><s n="acc"/></l><r>включая<s n="pr"/></r></p></e>
     <e><p><l>sa<b/>strane<s n="pr"/></l><r>вкось<s n="pr"/></r></p></e>
     <e><p><l>ukrug<s n="pr"/></l><r>вкруг<s n="pr"/></r></p></e>
-    <e><p><l>umjesto<s n="pr"/></l><r>вместо<s n="pr"/></r></p></e>
+    <e><p><l>umjesto<s n="pr"/><s n="gen"/></l><r>вместо<s n="pr"/></r></p></e>
     <e><p><l>van<s n="pr"/></l><r>вне<s n="pr"/></r></p></e>
     <e><p><l>dole<s n="pr"/></l><r>внизу<s n="pr"/></r></p></e>
-    <e><p><l>u<s n="pr"/></l><r>внутри<s n="pr"/></r></p></e>
-    <e><p><l>unutra<s n="pr"/></l><r>внутрь<s n="pr"/></r></p></e>
-    <e><p><l>iznutra<s n="pr"/></l><r>вовнутрь<s n="pr"/></r></p></e>
-    <e><p><l>pored<s n="pr"/></l><r>возле<s n="pr"/></r></p></e>
-    <e><p><l>oko<s n="pr"/></l><r>вокруг<s n="pr"/></r></p></e>
-    <e><p><l>protiv<s n="pr"/></l><r>вопреки<s n="pr"/></r></p></e>
-    <e><p><l>slijedujući<s n="pr"/></l><r>вослед<s n="pr"/></r></p></e>
+    <e><p><l>u<s n="pr"/><s n="loc"/></l><r>внутри<s n="pr"/></r></p></e>
+    <e><p><l>unutra<s n="pr"/><s n="gen"/></l><r>внутрь<s n="pr"/></r></p></e>
+    <e><p><l>iznutra<s n="pr"/><s n="gen"/></l><r>вовнутрь<s n="pr"/></r></p></e>
+    <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>возле<s n="pr"/></r></p></e>
+    <e><p><l>oko<s n="pr"/><s n="gen"/></l><r>вокруг<s n="pr"/></r></p></e>
+    <e><p><l>protiv<s n="pr"/><s n="gen"/></l><r>вопреки<s n="pr"/></r></p></e>
+    <e><p><l>slijedujući<s n="pr"/><s n="acc"/></l><r>вослед<s n="pr"/></r></p></e>
     <e><p><l>naprijed<s n="pr"/></l><r>вперед<s n="pr"/></r></p></e>
     <e><p><l>naprijed<s n="pr"/></l><r>впереди<s n="pr"/></r></p></e>
     <e><p><l>naprijed<s n="pr"/></l><r>вперёд<s n="pr"/></r></p></e>
-    <e><p><l>kao<s n="pr"/></l><r>вроде<s n="pr"/></r></p></e>
-    <e><p><l>posle<s n="pr"/></l><r>вслед<s n="pr"/></r></p></e>
-    <e><p><l>zbog<s n="pr"/></l><r>вследствие<s n="pr"/></r></p></e>
-    <e><p><l>za<s n="pr"/></l><r>для<s n="pr"/></r></p></e>
-    <e><p><l>do<s n="pr"/></l><r>до<s n="pr"/></r></p></e>
-    <e><p><l>za<s n="pr"/></l><r>за<s n="pr"/></r></p></e>
-    <e><p><l>umjesto<s n="pr"/></l><r>заместо<s n="pr"/></r></p></e>
+    <e><p><l>kao<s n="pr"/><s n="acc"/></l><r>вроде<s n="pr"/></r></p></e>
+    <e><p><l>posle<s n="pr"/><s n="gen"/></l><r>вслед<s n="pr"/></r></p></e>
+    <e><p><l>zbog<s n="pr"/><s n="gen"/></l><r>вследствие<s n="pr"/></r></p></e>
+    <e><p><l>za<s n="pr"/><s n="acc"/></l><r>для<s n="pr"/></r></p></e>
+    <e><p><l>do<s n="pr"/><s n="gen"/></l><r>до<s n="pr"/></r></p></e>
+    <e><p><l>za<s n="pr"/><s n="gen"/></l><r>за<s n="pr"/></r></p></e>
+    <e><p><l>za<s n="pr"/><s n="acc"/></l><r>за<s n="pr"/></r></p></e>
+    <e><p><l>umjesto<s n="pr"/><s n="gen"/></l><r>заместо<s n="pr"/></r></p></e>
     <e><p><l>iz<s n="pr"/></l><r>из<s n="pr"/></r></p></e>
     <e><p><l>iznutra<s n="pr"/></l><r>изнутри<s n="pr"/></r></p></e>
-    <e><p><l>k<s n="pr"/></l><r>к<s n="pr"/></r></p></e>
+    <e><p><l>k<s n="pr"/><s n="dat"/></l><r>к<s n="pr"/></r></p></e>
     <e><p><l>odnosno<s n="pr"/></l><r>касательно<s n="pr"/></r></p></e>
-    <e><p><l>osim<s n="pr"/></l><r>кроме<s n="pr"/></r></p></e>
-    <e><p><l>oko<s n="pr"/></l><r>кругом<s n="pr"/></r></p></e>
-    <e><p><l>između<s n="pr"/></l><r>меж<s n="pr"/></r></p></e>
-    <e><p><l>između<s n="pr"/></l><r>между<s n="pr"/></r></p></e>
-    <e><p><l>pored<s n="pr"/></l><r>мимо<s n="pr"/></r></p></e>
-    <e><p><l>minus<s n="pr"/></l><r>минус<s n="pr"/></r></p></e>
-    <e><p><l>na<s n="pr"/></l><r>на<s n="pr"/></r></p></e>
-    <e><p><l>nad<s n="pr"/></l><r>над<s n="pr"/></r></p></e>
+    <e><p><l>osim<s n="pr"/><s n="gen"/></l><r>кроме<s n="pr"/></r></p></e>
+    <e><p><l>oko<s n="pr"/><s n="gen"/></l><r>кругом<s n="pr"/></r></p></e>
+    <e><p><l>između<s n="pr"/><s n="gen"/></l><r>меж<s n="pr"/></r></p></e>
+    <e><p><l>između<s n="pr"/><s n="gen"/></l><r>между<s n="pr"/></r></p></e>
+    <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>мимо<s n="pr"/></r></p></e>
+    <e><p><l>minus<s n="pr"/><s n="acc"/></l><r>минус<s n="pr"/></r></p></e>
+    <e><p><l>na<s n="pr"/><s n="gen"/></l><r>на<s n="pr"/></r></p></e>
+    <e><p><l>na<s n="pr"/><s n="acc"/></l><r>на<s n="pr"/></r></p></e>
+    <e><p><l>nad<s n="pr"/><s n="ins"/></l><r>над<s n="pr"/></r></p></e>
     <e><p><l>nazad<s n="pr"/></l><r>назад<s n="pr"/></r></p></e>
     <e><p><l>predveče<s n="pr"/></l><r>накануне<s n="pr"/></r></p></e>
-    <e><p><l>uprkos<s n="pr"/></l><r>наперекор<s n="pr"/></r></p></e>
+    <e><p><l>uprkos<s n="pr"/><s n="dat"/></l><r>наперекор<s n="pr"/></r></p></e>
     <e><p><l>kao<s n="pr"/></l><r>наподобие<s n="pr"/></r></p></e>
-    <e><p><l>naprotiv<s n="pr"/></l><r>напротив<s n="pr"/></r></p></e>
-    <e><p><l>o<s n="pr"/></l><r>насчет<s n="pr"/></r></p></e>
+    <e><p><l>naprotiv<s n="pr"/><s n="gen"/></l><r>напротив<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/><s n="dat"/></l><r>насчет<s n="pr"/></r></p></e>
     <e><p><l>niže<s n="pr"/></l><r>ниже<s n="pr"/></r></p></e>
-    <e><p><l>o<s n="pr"/></l><r>о<s n="pr"/></r></p></e>
-    <e><p><l>o<s n="pr"/></l><r>обо<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/><s n="dat"/></l><r>о<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/><s n="dat"/></l><r>обо<s n="pr"/></r></p></e>
     <!--<e><p><l>@<s n="pr"/></l><r>окрест<s n="pr"/></r></p></e>-->
-    <e><p><l>oko<s n="pr"/></l><r>округ<s n="pr"/></r></p></e>
+    <e><p><l>oko<s n="pr"/><s n="gen"/></l><r>округ<s n="pr"/></r></p></e>
 	<e><p><l>uokolo<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
-    <e><p><l>okolo<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
-    <e><p><l>od<s n="pr"/></l><r>от<s n="pr"/></r></p></e>
-    <e><p><l>pred<s n="pr"/></l><r>перед<s n="pr"/></r></p></e>
+    <e><p><l>okolo<s n="pr"/><s n="gen"/></l><r>около<s n="pr"/></r></p></e>
+    <e><p><l>od<s n="pr"/><s n="gen"/></l><r>от<s n="pr"/></r></p></e>
+    <e><p><l>pred<s n="pr"/><s n="ins"/></l><r>перед<s n="pr"/></r></p></e>
+    <e><p><l>pred<s n="pr"/><s n="acc"/></l><r>перед<s n="pr"/></r></p></e>
     <e><p><l>plus<s n="pr"/></l><r>плюс<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>по<s n="pr"/></r></p></e>
     <e><p><l>po<s n="pr"/></l><r>по<s n="pr"/></r></p></e>
-    <e><p><l>povrh<s n="pr"/></l><r>поверх<s n="pr"/></r></p></e>
+    <e><p><l>povrh<s n="pr"/><s n="gen"/></l><r>поверх<s n="pr"/></r></p></e>
     <e><p><l>pod<s n="pr"/></l><r>под<s n="pr"/></r></p></e>
-    <e><p><l>pored<s n="pr"/></l><r>подле<s n="pr"/></r></p></e>
-    <e><p><l>slično<s n="pr"/></l><r>подобно<s n="pr"/></r></p></e>
+    <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>подле<s n="pr"/></r></p></e>
+    <e><p><l>slično<s n="pr"/><s n="dat"/></l><r>подобно<s n="pr"/></r></p></e>
     <e><p><l>pozadi<s n="pr"/></l><r>позади<s n="pr"/></r></p></e>
-    <e><p><l>pored<s n="pr"/></l><r>помимо<s n="pr"/></r></p></e>
+    <e><p><l>pored<s n="pr"/><s n="gen"/></l><r>помимо<s n="pr"/></r></p></e>
     <e><p><l>poprijeko<s n="pr"/></l><r>поперек<s n="pr"/></r></p></e>
-    <e><p><l>sredinom<s n="pr"/></l><r>посередине<s n="pr"/></r></p></e>
-    <e><p><l>poslije<s n="pr"/></l><r>после<s n="pr"/></r></p></e>
-    <e><p><l>sredinom<s n="pr"/></l><r>посреди<s n="pr"/></r></p></e>
-    <e><p><l>sredinom<s n="pr"/></l><r>посредине<s n="pr"/></r></p></e>
-    <e><p><l>iznad<s n="pr"/></l><r>превыше<s n="pr"/></r></p></e>
-    <e><p><l>pred<s n="pr"/></l><r>пред<s n="pr"/></r></p></e>
-    <e><p><l>prije<s n="pr"/></l><r>прежде<s n="pr"/></r></p></e>
-    <e><p><l>u<s n="pr"/></l><r>при<s n="pr"/></r></p></e>
-    <e><p><l>o<s n="pr"/></l><r>про<s n="pr"/></r></p></e>
+    <e><p><l>sredinom<s n="pr"/><s n="gen"/></l><r>посередине<s n="pr"/></r></p></e>
+    <e><p><l>poslije<s n="pr"/><s n="gen"/></l><r>после<s n="pr"/></r></p></e>
+    <e><p><l>sredinom<s n="pr"/><s n="gen"/></l><r>посреди<s n="pr"/></r></p></e>
+    <e><p><l>sredinom<s n="pr"/><s n="gen"/></l><r>посредине<s n="pr"/></r></p></e>
+    <e><p><l>iznad<s n="pr"/><s n="gen"/></l><r>превыше<s n="pr"/></r></p></e>
+    <e><p><l>pred<s n="pr"/><s n="acc"/></l><r>пред<s n="pr"/></r></p></e>
+    <e><p><l>prije<s n="pr"/><s n="gen"/></l><r>прежде<s n="pr"/></r></p></e>
+    <e><p><l>u<s n="pr"/><s n="acc"/></l><r>при<s n="pr"/></r></p></e>
+    <e><p><l>o<s n="pr"/><s n="dat"/></l><r>про<s n="pr"/></r></p></e>
 <!--    <e><p><l>@<s n="pr"/></l><r>промеж<s n="pr"/></r></p></e>-->
-    <e><p><l>protiv<s n="pr"/></l><r>против<s n="pr"/></r></p></e>
-    <e><p><l>protivno<s n="pr"/></l><r>противно<s n="pr"/></r></p></e>
-    <e><p><l>putem<s n="pr"/></l><r>путем<s n="pr"/></r></p></e>
-    <e><p><l>zarad<s n="pr"/></l><r>ради<s n="pr"/></r></p></e>
-    <e><p><l>sa<s n="pr"/></l><r>с<s n="pr"/></r></p></e>
-    <e><p><l>prema<b/>vrhu<s n="pr"/></l><r>сверх<s n="pr"/></r></p></e>
-    <e><p><l>sa<b/>vrha<s n="pr"/></l><r>сверху<s n="pr"/></r></p></e>
+    <e><p><l>protiv<s n="pr"/><s n="gen"/></l><r>против<s n="pr"/></r></p></e>
+    <e><p><l>protivno<s n="pr"/><s n="dat"/></l><r>противно<s n="pr"/></r></p></e>
+    <e><p><l>putem<s n="pr"/><s n="gen"/></l><r>путем<s n="pr"/></r></p></e>
+    <e><p><l>zarad<s n="pr"/><s n="gen"/></l><r>ради<s n="pr"/></r></p></e>
+    <e><p><l>sa<s n="pr"/><s n="ins"/></l><r>с<s n="pr"/></r></p></e>
+    <e><p><l>prema<b/>vrhu<s n="pr"/><s n="dat"/></l><r>сверх<s n="pr"/></r></p></e>
+    <e><p><l>sa<b/>vrha<s n="pr"/><s n="gen"/></l><r>сверху<s n="pr"/></r></p></e>
     <e><p><l>više<s n="pr"/></l><r>свыше<s n="pr"/></r></p></e>
     <e><p><l>sa<b/>zada<s n="pr"/></l><r>сзади<s n="pr"/></r></p></e>
-    <e><p><l>kroz<s n="pr"/></l><r>сквозь<s n="pr"/></r></p></e>
+    <e><p><l>kroz<s n="pr"/><s n="gen"/></l><r>сквозь<s n="pr"/></r></p></e>
     <e><p><l>spolja<s n="pr"/></l><r>снаружи<s n="pr"/></r></p></e>
     <e><p><l>odozdo<s n="pr"/></l><r>снизу<s n="pr"/></r></p></e>
-    <e><p><l>saglasno<s n="pr"/></l><r>согласно<s n="pr"/></r></p></e>
-    <e><p><l>prema<s n="pr"/></l><r>сообразно<s n="pr"/></r></p></e>
+    <e><p><l>saglasno<s n="pr"/><s n="dat"/></l><r>согласно<s n="pr"/></r></p></e>
+    <e><p><l>prema<s n="pr"/><s n="dat"/></l><r>сообразно<s n="pr"/></r></p></e>
     <e><p><l>odnosno<s n="pr"/></l><r>соответственно<s n="pr"/></r></p></e>
     <e><p><l>sprijeda<s n="pr"/></l><r>спереди<s n="pr"/></r></p></e>
-    <e><p><l>posle<s n="pr"/></l><r>спустя<s n="pr"/></r></p></e>
-    <e><p><l>posred<s n="pr"/></l><r>среди<s n="pr"/></r></p></e>
-    <e><p><l>naprotiv<s n="pr"/></l><r>супротив<s n="pr"/></r></p></e>
-    <e><p><l>u<s n="pr"/><s n="gen"/></l><r>у<s n="pr"/></r></p></e>
-    <e><p><l>kroz<s n="pr"/></l><r>через<s n="pr"/></r></p></e>
-    <e><p><l>negledajući<s n="pr"/></l><r>несмотря<s n="pr"/></r></p></e>
-	<e><p><l>ispod<s n="pr"/></l><r>ниже<s n="pr"/></r></p></e>
-	<e><p><l>ispred<s n="pr"/></l><r>спереди<s n="pr"/></r></p></e>
-	<e><p><l>iza<s n="pr"/></l><r>иза<s n="pr"/></r></p></e>
-	<e><p><l>radi<s n="pr"/></l><r>для<s n="pr"/></r></p></e>
-	<e><p><l>s<s n="pr"/></l><r>с<s n="pr"/></r></p></e>
+    <e><p><l>posle<s n="pr"/><s n="gen"/></l><r>спустя<s n="pr"/></r></p></e>
+    <e><p><l>posred<s n="pr"/><s n="gen"/></l><r>среди<s n="pr"/></r></p></e>
+    <e><p><l>naprotiv<s n="pr"/><s n="gen"/></l><r>супротив<s n="pr"/></r></p></e>
+    <e><p><l>u<s n="pr"/><s n="dat"/></l><r>у<s n="pr"/></r></p></e>
+    <e><p><l>kroz<s n="pr"/><s n="acc"/></l><r>через<s n="pr"/></r></p></e>
+    <e><p><l>negledajući<s n="pr"/><s n="acc"/></l><r>несмотря<s n="pr"/></r></p></e>
+
+
+	<e><p><l>ispod<s n="pr"/><s n="ins"/></l><r>ниже<s n="pr"/></r></p></e>
+	<e><p><l>ispred<s n="pr"/><s n="gen"/></l><r>спереди<s n="pr"/></r></p></e>
+	<e><p><l>iza<s n="pr"/><s n="gen"/></l><r>иза<s n="pr"/></r></p></e>
+	<e><p><l>bez<s n="pr"/><s n="gen"/></l><r>без<s n="pr"/></r></p></e>
+	<e><p><l>blizu<s n="pr"/><s n="gen"/></l><r>близко<s n="pr"/></r></p></e>
+	<e><p><l>do<s n="pr"/><s n="gen"/></l><r>к<s n="pr"/></r></p></e>
+	<e><p><l>duž<s n="pr"/><s n="gen"/></l><r>вдоль<s n="pr"/></r></p></e>
+	<e><p><l>iz<s n="pr"/><s n="gen"/></l><r>из<s n="pr"/></r></p></e>
+	<e><p><l>iznad<s n="pr"/><s n="gen"/></l><r>выше<s n="pr"/></r></p></e>
+	<e><p><l>izvan<s n="pr"/><s n="gen"/></l><r>вне<s n="pr"/></r></p></e>
+	<e><p><l>k<s n="pr"/><s n="dat"/></l><r>к<s n="pr"/></r></p></e>
+        <e><p><l>k<s n="pr"/><s n="dat"/></l><r>к<s n="pr"/></r></p></e>
+	<e><p><l>kod<s n="pr"/><s n="gen"/></l><r>в<s n="pr"/></r></p></e>
+	<e><p><l>krajem<s n="pr"/><s n="gen"/></l><r>конце<s n="pr"/></r></p></e>
+	<e><p><l>kroz<s n="pr"/><s n="acc"/></l><r>через<s n="pr"/></r></p></e>
+	<e><p><l>pored<s n="pr"/><s n="gen"/></l><r>рядом<s n="pr"/></r></p></e>
+	<e><p><l>posle<s n="pr"/><s n="gen"/></l><r>после<s n="pr"/></r></p></e>
+	<e><p><l>posred<s n="pr"/><s n="gen"/></l><r>в середине<s n="pr"/></r></p></e>
+	<e><p><l>povodom<s n="pr"/><s n="gen"/></l><r>относительно<s n="pr"/></r></p></e>
+	<e><p><l>sa<s n="pr"/><s n="ins"/></l><r>с<s n="pr"/></r></p></e>
+	<e><p><l>kraj<s n="pr"/><s n="ins"/></l><r>край<s n="pr"/></r></p></e>
+	<e><p><l>preko<s n="pr"/><s n="ins"/></l><r>над<s n="pr"/></r></p></e>
+	<e><p><l>pri<s n="pr"/><s n="ins"/></l><r>при<s n="pr"/></r></p></e>
+	<e><p><l>prilikom<s n="pr"/><s n="ins"/></l><r>когда<s n="pr"/></r></p></e>
+	<e><p><l>put<s n="pr"/><s n="ins"/></l><r>времени<s n="pr"/></r></p></e>
+	<e><p><l>putem<s n="pr"/><s n="ins"/></l><r>посредством<s n="pr"/></r></p></e>
+	<e><p><l>radi<s n="pr"/><s n="ins"/></l><r>за<s n="pr"/></r></p></e>
+	<e><p><l>mimo<s n="pr"/><s n="ins"/></l><r>по<s n="pr"/></r></p></e>
+	<e><p><l>nadohvat<s n="pr"/><s n="ins"/></l><r>в пределах досягаемости<s n="pr"/></r></p></e>
+	<e><p><l>nadomak<s n="pr"/><s n="ins"/></l><r>в непосредственной близости<s n="pr"/></r></p></e>
+	<e><p><l>nakon<s n="pr"/><s n="gen"/></l><r>после<s n="pr"/></r></p></e>
+	<e><p><l>namesto<s n="pr"/><s n="gen"/></l><r>вместо<s n="pr"/></r></p></e>
+	<e><p><l>naspram<s n="pr"/><s n="gen"/></l><r>в сравнении с<s n="pr"/></r></p></e>
+	<e><p><l>nasred<s n="pr"/><s n="gen"/></l><r>середине<s n="pr"/></r></p></e>
+	<e><p><l>nasuprot<s n="pr"/><s n="gen"/></l><r>в отличие<s n="pr"/></r></p></e>
+	<e><p><l>navrh<s n="pr"/><s n="gen"/></l><r>наверх<s n="pr"/></r></p></e>
+	<e><p><l>niz<s n="pr"/><s n="acc"/></l><r>вниз<s n="pr"/></r></p></e>
+	<e><p><l>o<s n="pr"/><s n="acc"/></l><r>о<s n="pr"/></r></p></e>
+	<e><p><l>o<s n="pr"/><s n="loc"/></l><r>о<s n="pr"/></r></p></e>
+	<e><p><l>od<s n="pr"/><s n="gen"/></l><r>от<s n="pr"/></r></p></e>
+	<e><p><l>oko<s n="pr"/><s n="gen"/></l><r>вокруг<s n="pr"/></r></p></e>
+	<e><p><l>okolo<s n="pr"/><s n="gen"/></l><r>вокруг<s n="pr"/></r></p></e>
+	<e><p><l>osim<s n="pr"/><s n="gen"/></l><r>кроме<s n="pr"/></r></p></e>
+	<e><p><l>po<s n="pr"/><s n="acc"/></l><r>по<s n="pr"/></r></p></e>
+	<e><p><l>po<s n="pr"/><s n="loc"/></l><r>по<s n="pr"/></r></p></e>
+	<e><p><l>pod<s n="pr"/><s n="acc"/></l><r>под<s n="pr"/></r></p></e>
+	<e><p><l>pod<s n="pr"/><s n="ins"/></l><r>под<s n="pr"/></r></p></e>
+	<e><p><l>pokraj<s n="pr"/><s n="gen"/></l><r>при<s n="pr"/></r></p></e>
+	<e><p><l>poput<s n="pr"/><s n="gen"/></l><r>как<s n="pr"/></r></p></e>
+	<e><p><l>sred<s n="pr"/><s n="gen"/></l><r>среди<s n="pr"/></r></p></e>
+	<e><p><l>suprotno<s n="pr"/><s n="dat"/></l><r>против<s n="pr"/></r></p></e>
+	<e><p><l>tokom<s n="pr"/><s n="gen"/></l><r>во время<s n="pr"/></r></p></e>
+	<e><p><l>u<s n="pr"/><s n="gen"/></l><r>в<s n="pr"/></r></p></e>
+	<e><p><l>u<s n="pr"/><s n="acc"/></l><r>в<s n="pr"/></r></p></e>
+	<e><p><l>u<s n="pr"/><s n="loc"/></l><r>в<s n="pr"/></r></p></e>
+	<e><p><l>umesto<s n="pr"/><s n="gen"/></l><r>вместо<s n="pr"/></r></p></e>
+	<e><p><l>uprkos<s n="pr"/><s n="gen"/></l><r>несмотря на<s n="pr"/></r></p></e>
+	<e><p><l>uprkos<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
+
 
 
     <!-- SECTION: Nouns -->
@@ -4262,7 +4325,7 @@
      <e><p><l>predstaviti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>представляться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>potegnuti<s n="vblex"/><s n="impf"/><s n="tv"/></l><r>потянуться<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>ispustiti<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>выпускать<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
-     <e><p><l>biti<s n="vblex"/><s n="impf"/><s n="impf"/></l><r>побывать<s n="vblex"/><s n="dual"/><s n="tv"/></r></p></e>
+     <e><p><l>biti<s n="vblex"/><s n="impf"/><s n="dual"/></l><r>побывать<s n="vblex"/><s n="impf"/><s n="tv"/></r></p></e>
      <e><p><l>ustaviti<s n="vblex"/><s n="perf"/><s n="ref"/></l><r>уставиться<s n="vblex"/><s n="perf"/><s n="ref"/></r></p></e>
      <e><p><l>sekirati<s n="vblex"/><s n="impf"/><s n="ref"/></l><r>беспокоиться<s n="vblex"/><s n="impf"/><s n="ref"/></r></p></e>
      <e><p><l>mahati<s n="vblex"/><s n="impf"/><s n="iv"/></l><r>махать<s n="vblex"/><s n="impf"/><s n="iv"/></r></p></e>
