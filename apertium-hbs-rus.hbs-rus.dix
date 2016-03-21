@@ -228,9 +228,8 @@
 	<e><p><l>umesto<s n="pr"/><s n="gen"/></l><r>вместо<s n="pr"/></r></p></e>
 	<e><p><l>uprkos<s n="pr"/><s n="gen"/></l><r>несмотря на<s n="pr"/></r></p></e>
 	<e><p><l>uprkos<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
-
-<e><p><l>kog<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
-<e><p><l>uz<s n="pr"/><s n="dat"/></l><r>несмотря на<s n="pr"/></r></p></e>
+	<e><p><l>kog<s n="pr"/><s n="gen"/></l><r>любого<s n="pr"/></r></p></e>
+		<e><p><l>uz<s n="pr"/><s n="acc"/></l><r>с<s n="pr"/></r></p></e>
 
 
 
@@ -2493,6 +2492,8 @@
 	 <e><p><l>sretan<s n="adj"/></l><r>счастливый<s n="adj"/></r></p></e>
 	 <e><p><l>drugi<s n="adj"/></l><r>другой<s n="adj"/></r></p></e>
      <e><p><l>velik<s n="adj"/></l><r>большой<s n="adj"/></r></p></e>
+     <e><p><l>velik<s n="adj"/></l><r>великий<s n="adj"/></r></p></e>
+     <e><p><l>stari<s n="adj"/></l><r>старый<s n="adj"/></r></p></e>
      <e><p><l>dobra<s n="adj"/></l><r>хорошая<s n="adj"/></r></p></e>	
      <e><p><l>dužan<s n="adj"/></l><r>должный<s n="adj"/></r></p></e>	
      <e><p><l>nov<s n="adj"/></l><r>новый<s n="adj"/></r></p></e>	
@@ -2522,7 +2523,6 @@
      <e><p><l>crn<s n="adj"/></l><r>черный<s n="adj"/></r></p></e>	
      <e><p><l>vlastit<s n="adj"/></l><r>собственный<s n="adj"/></r></p></e>	
      <e><p><l>razni<s n="adj"/></l><r>разный<s n="adj"/></r></p></e>	
-     <e><p><l>velik<s n="adj"/></l><r>великий<s n="adj"/></r></p></e>	
      <e><p><l>sljedeći<s n="adj"/></l><r>следующий<s n="adj"/></r></p></e>	
      <e><p><l>težak<s n="adj"/></l><r>тяжелый<s n="adj"/></r></p></e>	
      <e><p><l>gotov<s n="adj"/></l><r>готовый<s n="adj"/></r></p></e>	
@@ -3370,7 +3370,7 @@
      <e><p><l>vidljivo<s n="adv"/></l><r>видимо<s n="adv"/></r></p></e>	
      <e><p><l>neočekivano<s n="adv"/></l><r>неожиданно<s n="adv"/></r></p></e>	
      <e><p><l>napolje<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>	
-	 <e><p><l>van<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>
+     <e><p><l>van<s n="adv"/></l><r>вон<s n="adv"/></r></p></e>
      <e><p><l>isprva<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>	
      <e><p><l>jako<s n="adv"/></l><r>сильно<s n="adv"/></r></p></e>	
      <e><p><l>više<s n="adv"/></l><r>выше<s n="adv"/></r></p></e>	
@@ -3670,7 +3670,7 @@
      <e><p><l>polako<s n="adv"/></l><r>медленно<s n="adv"/></r></p></e>
      <e><p><l>posvuda<s n="adv"/></l><r>везде<s n="adv"/></r></p></e>
      <e><p><l>sad<s n="adv"/></l><r>сейчас<s n="adv"/></r></p></e>
-	 <e><p><l>uokolo<s n="adv"/></l><r>около<s n="adv"/></r></p></e>
+     <e><p><l>uokolo<s n="adv"/></l><r>около<s n="adv"/></r></p></e>
      <e><p><l>vani<s n="adv"/></l><r>на улице<s n="adv"/></r></p></e>
      
      <!-- 400 -->
