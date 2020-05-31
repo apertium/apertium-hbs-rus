@@ -1,23 +1,13 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
-
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-hbs-rus], [0.1.0], [foo@foo.com])
-AM_INIT_AUTOMAKE([apertium-hbs-rus], [0.1.0], no-define)
+AC_INIT([apertium-hbs-rus], [0.5.0], [foo@foo.com])
+AM_INIT_AUTOMAKE([apertium-hbs-rus], [0.5.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 AC_CONFIG_HEADER([config])
 
 m4_define([required_apertium_version], [3.2.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-                          
-
-MODES="modes";
-
-AC_SUBST(MODES)
-
 
 AC_PATH_PROG(CGCOMP, cg-comp, no)
 if test x$ac_cv_path_CGCOMP = x
@@ -62,7 +52,6 @@ fi
 AP_CHECK_LING([1], [apertium-hbs])
 AP_CHECK_LING([2], [apertium-rus])
 
+AP_MKINCLUDE
 
-
-  
 AC_OUTPUT([Makefile])

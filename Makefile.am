@@ -1,4 +1,3 @@
-VERSION=0.5.0
 LANG1=hbs
 LANG1a=hbs_BS
 LANG1b=hbs_HR
@@ -28,6 +27,8 @@ TARGETS_COMMON = $(BASENAME).$(LANG1a).dix  $(BASENAME).$(LANG1b).dix $(BASENAME
 	$(PREFIX1).autopgen.bin $(PREFIX2a).autopgen.bin $(PREFIX2b).autopgen.bin $(PREFIX2c).autopgen.bin
 
 #    $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin 
+
+@ap_include@
 
 $(BASENAME).$(LANG1a).dix: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).metadix
 	xsltproc --stringparam alt $(LANG1a) --stringparam var $(VAR1) alt.xsl $(AP_SRC1)/apertium-$(LANG1).$(LANG1).metadix >$@
@@ -86,19 +87,19 @@ $(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
 	lrx-comp $(BASENAME).$(PREFIX1).lrx $@
 
 $(PREFIX2a).autopgen.bin: $(AP_SRC1)/apertium-$(LANG1).post-$(LANG1).dix
-	if [ ! -d .deps ]; then mkdir .deps; fi
+	if [ ! -d .deps ]; then $(MKDIR_P) .deps; fi
 	xsltproc --stringparam alt $(LANG1a) --stringparam var $(VAR1) alt.xsl $< >.deps/post-$(LANG1a).dix
 	apertium-validate-dictionary .deps/post-$(LANG1a).dix
 	lt-comp lr .deps/post-$(LANG1a).dix $@ 
 
 $(PREFIX2b).autopgen.bin: $(AP_SRC1)/apertium-$(LANG1).post-$(LANG1).dix
-	if [ ! -d .deps ]; then mkdir .deps; fi
+	if [ ! -d .deps ]; then $(MKDIR_P) .deps; fi
 	xsltproc --stringparam alt $(LANG1b) --stringparam var $(VAR1) alt.xsl $< >.deps/post-$(LANG1b).dix
 	apertium-validate-dictionary .deps/post-$(LANG1b).dix
 	lt-comp lr .deps/post-$(LANG1b).dix $@ 
 
 $(PREFIX2c).autopgen.bin: $(AP_SRC1)/apertium-$(LANG1).post-$(LANG1).dix
-	if [ ! -d .deps ]; then mkdir .deps; fi
+	if [ ! -d .deps ]; then $(MKDIR_P) .deps; fi
 	xsltproc --stringparam alt $(LANG1c) --stringparam var $(VAR1) alt.xsl $< >.deps/post-$(LANG1c).dix
 	apertium-validate-dictionary .deps/post-$(LANG1c).dix
 	lt-comp lr .deps/post-$(LANG1c).dix $@ 
@@ -161,25 +162,6 @@ EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
 
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
 
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-$(PREFIX2a).mode: modes.xml 
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-$(PREFIX2b).mode: modes.xml 
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-$(PREFIX2c).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-modes: $(PREFIX1).mode
-
-apertium_hbs_rusmodesdir=$(prefix)/share/apertium/modes/
 apertium_hbs_rusdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_hbs_rus_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX2a).autogen.bin $(PREFIX2b).autogen.bin $(PREFIX2c).autogen.bin \
@@ -199,22 +181,15 @@ apertium_hbs_rus_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX2a).autopgen.bin \
 		    $(PREFIX2b).autopgen.bin \
 		    $(PREFIX2c).autopgen.bin \
-		    $(PREFIX1).autopgen.bin \
-		    $(PREFIX1).mode $(PREFIX2a).mode $(PREFIX2b).mode $(PREFIX2c).mode
+		    $(PREFIX1).autopgen.bin
 
 #                    $(PREFIX1).autopgen.bin 
  #                   $(PREFIX2).autopgen.bin 
 # 		     $(PREFIX2).autogen.bin 
 
-install-data-local:
-	$(prefix)/bin/apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_hbs_rusmodesdir) || mkdir $(DESTDIR)$(apertium_hbs_rusmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_hbs_rusmodesdir)
-	$(INSTALL_DATA) $(PREFIX2a).mode $(DESTDIR)$(apertium_hbs_rusmodesdir)
-	$(INSTALL_DATA) $(PREFIX2b).mode $(DESTDIR)$(apertium_hbs_rusmodesdir)
-	$(INSTALL_DATA) $(PREFIX2c).mode $(DESTDIR)$(apertium_hbs_rusmodesdir)
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_hbs_rusdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_hbs_rusdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_hbs_rusdir)
 
-CLEANFILES = -r $(TARGETS_COMMON) *.mode 
+CLEANFILES = -r $(TARGETS_COMMON)
