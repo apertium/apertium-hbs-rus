@@ -1,0 +1,26 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[1_4KGDIhPIS-#0] ^unknown<unknown>{^*ненавямя$}$
+[/1_4KGDIhPIS-]
+[5_bAEXdujbfN#0] ^default<default>{^6<num>$}$
+[/5_bAEXdujbfN]
+[BugSF7fVYnVd#0] ^unknown<unknown>{^*Япоой$}$
+[/BugSF7fVYnVd]
+[EU1cmRwrfG_A#0] ^default<default>{^biti<vbser><pprs><actv><nt><an><sg><nom>$}$
+[/EU1cmRwrfG_A]
+[OXPgIukyIPkh#0] ^default<default>{^-<guio>$}$
+[/OXPgIukyIPkh]
+[PB3-jSHMetRm#0] ^unknown<unknown>{^*зядшй$}$
+[/PB3-jSHMetRm]
+[ViTXT-iQU-mN#0] ^a<SA>{^mlad<adj><pst><sint><nt><an><sg><nom><ind>$}$
+[/ViTXT-iQU-mN]
+[dcPTAnzmbuGR#0] ^unknown<unknown>{^*экипе$}$
+[/dcPTAnzmbuGR]
+[lzW0EV8-tc2u#0] ^unknown<unknown>{^*дышяя$}$
+[/lzW0EV8-tc2u]
+[nhZWffVoPXuh#0] ^unknown<unknown>{^*Японпои$}$
+[/nhZWffVoPXuh]
+[nxQCWvAGWzDk#0] ^default<default>{^35<num>$}$
+[/nxQCWvAGWzDk]
+[ofXTmhLo9r7U#0] ^default<default>{^sa<pr><ins>$}$
+[/ofXTmhLo9r7U]

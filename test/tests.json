@@ -1,0 +1,10 @@
+{
+    "hbs-rus": {
+        "input": "hbs-rus-input.txt",
+        "mode": "hbs-rus"
+    },
+    "rus-hbs": {
+        "input": "rus-hbs-input.txt",
+        "mode": "rus-hbs"
+    }
+}

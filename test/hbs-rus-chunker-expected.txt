@@ -1,0 +1,32 @@
+[2m8GfitJ3r3E#0] ^default<default>{^два<num><f><sp><dat>$}$
+[/2m8GfitJ3r3E]
+[3FAwfWHaDxoy#0] ^Nom<SN><m><sg><dat>{^директор<n><m><aa><sg><dat>$}$
+[/3FAwfWHaDxoy]
+[9vMCc_9MZySK#0] ^unknown<unknown>{^*tjli$}$
+[/9vMCc_9MZySK]
+[Fm74JPEO0x2K#0] ^adj<SA><ma><sg><nom>{^осторожный<adj><ssup><2><3><4>$}$
+[/Fm74JPEO0x2K]
+[GnII8eT_92w1#0] ^default<default>{^222<num><ord><ma><pl><ins>$}$
+[/GnII8eT_92w1]
+[Gxax31OLoS3D#0] ^unknown<unknown>{^*n$}$
+[/Gxax31OLoS3D]
+[HrOY1EgAPIgZ#0] ^Nom<SN><nt><pl><dat>{^исполнение<n><nt><nn><pl><dat>$}$
+[/HrOY1EgAPIgZ]
+[OXPgIukyIPkh#0] ^default<default>{^-<guio>$}$
+[/OXPgIukyIPkh]
+[QbgF6nrAFOI1#0] ^default<default>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[UdWc1mGBqA3J#0] ^default<default>{^8<num><ord><ma><sg><gen>$}$
+[/UdWc1mGBqA3J]
+[UpuDECUbWjI2#0] ^Nom<SN><m><sg><voc>{^строй<n><m><nn><sg><voc>$}$
+[/UpuDECUbWjI2]
+[Vcr9o-GYlZTR#0] ^Nom<SN><m><sg><dat>{^автор<n><m><aa><sg><dat>$}$
+[/Vcr9o-GYlZTR]
+[io3oI9XtPhJ0#0] ^default<default>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[x8X1ajmtjgIs#0] ^default<default>{^30310<num>$}$
+[/x8X1ajmtjgIs]
+[zbTuKuppzGqD#0] ^default<default>{^.<sent>$}$
+[/zbTuKuppzGqD]
+[zd1ngwmCp4zI#0] ^default<default>{^три<num><sp>$}$
+[/zd1ngwmCp4zI]

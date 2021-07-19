@@ -1,0 +1,32 @@
+[2m8GfitJ3r3E#0] ^dvjema/dva<num><f><sp><dat>/dva<num><f><sp><loc>/dva<num><f><sp><ins>$
+[/2m8GfitJ3r3E]
+[3FAwfWHaDxoy#0] ^direktoru/direktor<n><ma><sg><dat>/direktor<n><ma><sg><loc>$
+[/3FAwfWHaDxoy]
+[9vMCc_9MZySK#0] ^tjli/*tjli$
+[/9vMCc_9MZySK]
+[Fm74JPEO0x2K#0] ^preoprezan/oprezan<adj><ssup><ma><sg><nom><ind>/oprezan<adj><ssup><ma><sg><voc><ind>/oprezan<adj><ssup><mi><sg><nom><ind>/oprezan<adj><ssup><mi><sg><acc><ind>/oprezan<adj><ssup><mi><sg><voc><ind>$
+[/Fm74JPEO0x2K]
+[GnII8eT_92w1#0] ^222.-gima/222<num><ord><ma><pl><ins>/222<num><ord><ma><pl><dat>/222<num><ord><ma><pl><loc>/222<num><ord><mi><pl><ins>/222<num><ord><mi><pl><dat>/222<num><ord><mi><pl><loc>/222<num><ord><f><pl><ins>/222<num><ord><f><pl><dat>/222<num><ord><f><pl><loc>/222<num><ord><nt><pl><ins>/222<num><ord><nt><pl><dat>/222<num><ord><nt><pl><loc>$
+[/GnII8eT_92w1]
+[Gxax31OLoS3D#0] ^n/*n$
+[/Gxax31OLoS3D]
+[HrOY1EgAPIgZ#0] ^izvršavanjima/izvršavanje<n><nt><pl><dat>/izvršavanje<n><nt><pl><loc>/izvršavanje<n><nt><pl><ins>$
+[/HrOY1EgAPIgZ]
+[OXPgIukyIPkh#0] ^-/-<guio>$
+[/OXPgIukyIPkh]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[UdWc1mGBqA3J#0] ^8.-mog/8<num><ord><ma><sg><gen>/8<num><ord><ma><sg><acc>/8<num><ord><mi><sg><gen>/8<num><ord><nt><sg><gen>$
+[/UdWc1mGBqA3J]
+[UpuDECUbWjI2#0] ^poredče/poredak<n><mi><sg><voc>$
+[/UpuDECUbWjI2]
+[Vcr9o-GYlZTR#0] ^autoru/autor<n><ma><sg><dat>/autor<n><ma><sg><loc>$
+[/Vcr9o-GYlZTR]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[x8X1ajmtjgIs#0] ^30310/30310<num>$
+[/x8X1ajmtjgIs]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]
+[zd1ngwmCp4zI#0] ^tri/tri<num><sp>/tri<num><mfn><sp><nom>/tri<num><mfn><sp><acc>/tri<num><mfn><sp><voc>$
+[/zd1ngwmCp4zI]

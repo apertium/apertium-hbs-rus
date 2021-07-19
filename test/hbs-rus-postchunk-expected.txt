@@ -1,0 +1,32 @@
+[2m8GfitJ3r3E#0] ^два<num><f><sp><dat>$
+[/2m8GfitJ3r3E]
+[3FAwfWHaDxoy#0] ^Директор<n><m><aa><sg><dat>$
+[/3FAwfWHaDxoy]
+[9vMCc_9MZySK#0] ^*tjli$
+[/9vMCc_9MZySK]
+[Fm74JPEO0x2K#0] ^осторожный<adj><ssup><ma><sg><nom>$
+[/Fm74JPEO0x2K]
+[GnII8eT_92w1#0] ^222<num><ord><ma><pl><ins>$
+[/GnII8eT_92w1]
+[Gxax31OLoS3D#0] ^*n$
+[/Gxax31OLoS3D]
+[HrOY1EgAPIgZ#0] ^Исполнение<n><nt><nn><pl><dat>$
+[/HrOY1EgAPIgZ]
+[OXPgIukyIPkh#0] ^-<guio>$
+[/OXPgIukyIPkh]
+[QbgF6nrAFOI1#0] ^;<sent>$
+[/QbgF6nrAFOI1]
+[UdWc1mGBqA3J#0] ^8<num><ord><ma><sg><gen>$
+[/UdWc1mGBqA3J]
+[UpuDECUbWjI2#0] ^Строй<n><m><nn><sg><voc>$
+[/UpuDECUbWjI2]
+[Vcr9o-GYlZTR#0] ^Автор<n><m><aa><sg><dat>$
+[/Vcr9o-GYlZTR]
+[io3oI9XtPhJ0#0] ^?<sent>$
+[/io3oI9XtPhJ0]
+[x8X1ajmtjgIs#0] ^30310<num>$
+[/x8X1ajmtjgIs]
+[zbTuKuppzGqD#0] ^.<sent>$
+[/zbTuKuppzGqD]
+[zd1ngwmCp4zI#0] ^три<num><sp>$
+[/zd1ngwmCp4zI]
